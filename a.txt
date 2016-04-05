@@ -1,0 +1,1692 @@
+line is  : 
+: >> Please enlighten me.  How is omnipotence contradictory?
+: 
+: >By definition, all that can occur in the universe is governed by the rules
+: >of nature. Thus god cannot break them. Anything that god does must be allowed
+: >in the rules somewhere. Therefore, omnipotence CANNOT exist! It contradicts
+: >the rules of nature.
+: 
+: Obviously, an omnipotent god can change the rules.
+
+When you say, "By definition", what exactly is being defined;
+certainly not omnipotence. You seem to be saying that the "rules of
+nature" are pre-existant somehow, that they not only define nature but
+actually cause it. If that's what you mean I'd like to hear your
+further thoughts on the question.  at j =  1
+words is  [u'please', u'enlighten', u'me', u'how', u'is', u'omnipotence', u'contradictory', u'by', u'definition', u'all', u'that', u'can', u'occur', u'in', u'the', u'universe', u'is', u'governed', u'by', u'the', u'rules', u'of', u'nature', u'thus', u'god', u'can', u'not', u'break', u'them', u'anything', u'that', u'god', u'does', u'must', u'be', u'allowed', u'in', u'the', u'rules', u'somewhere', u'therefore', u'omnipotence', u'can', u'not', u'exist', u'it', u'contradicts', u'the', u'rules', u'of', u'nature', u'obviously', u'an', u'omnipotent', u'god', u'can', u'change', u'the', u'rules', u'when', u'you', u'say', u'by', u'definition', u'what', u'exactly', u'is', u'being', u'defined', u'certainly', u'not', u'omnipotence', u'you', u'seem', u'to', u'be', u'saying', u'that', u'the', u'rules', u'of', u'nature', u'are', u'preexistant', u'somehow', u'that', u'they', u'not', u'only', u'define', u'nature', u'but', u'actually', u'cause', u'it', u'if', u'thats', u'what', u'you', u'mean', u'id', u'like', u'to', u'hear', u'your', u'further', u'thoughts', u'on', u'the', u'question']
+line is  In <19APR199320262420@kelvin.jpl.nasa.gov> baalke@kelvin.jpl.nasa.gov 
+
+Sorry I think I missed a bit of info on this Transition Experiment. What is it?
+
+Will this mean a loss of data or will the Magellan transmit data later on ??
+
+BTW: When will NASA cut off the connection with Magellan?? Not that I am
+looking forward to that day but I am just curious. I believe it had something
+to do with the funding from the goverment (or rather _NO_ funding :-)
+
+ok that's it for now. See you guys around,
+Jurriaan.
+   at j =  2
+words is  [u'in', u'aprkelvinjplnasagov', u'baalkekelvinjplnasagov', u'sorry', u'i', u'think', u'i', u'missed', u'a', u'bit', u'of', u'info', u'on', u'this', u'transition', u'experiment', u'what', u'is', u'it', u'will', u'this', u'mean', u'a', u'loss', u'of', u'data', u'or', u'will', u'the', u'magellan', u'transmit', u'data', u'later', u'on', u'btw', u'when', u'will', u'nasa', u'cut', u'off', u'the', u'connection', u'with', u'magellan', u'not', u'that', u'i', u'am', u'looking', u'forward', u'to', u'that', u'day', u'but', u'i', u'am', u'just', u'curious', u'i', u'believe', u'it', u'had', u'something', u'to', u'do', u'with', u'the', u'funding', u'from', u'the', u'goverment', u'or', u'rather', u'no', u'funding', u'ok', u'thats', u'it', u'for', u'now', u'see', u'you', u'guys', u'around', u'jurriaan']
+line is  
+Henry, I made the assumption that he who gets there firstest with the mostest
+wins. 
+
+Ohhh, you want to put in FINE PRINT which says "Thou shall do wonderous R&D
+rather than use off-the-shelf hardware"? Sorry, didn't see that in my copy.
+Most of the Pournellesque proposals run along the lines of <some dollar
+amount> reward for <some simple goal>.  
+
+You go ahead and do your development, I'll buy off the shelf at higher cost (or
+even Russian; but I also assume that there'd be some "Buy US" provos in there)
+and be camped out in the Moon while you are launching and assembling little
+itty-bitty payloads in LEO with your laser or gas gun.  And working out the
+bugs of assembly & integration in LEO. 
+
+Oh, hey, could I get a couple of CanadARMs tuned for the lunar environment?  I
+wanna do some teleoperated prospecting while I'm up there...
+
+
+ at j =  3
+words is  [u'henry', u'i', u'made', u'the', u'assumption', u'that', u'he', u'who', u'gets', u'there', u'firstest', u'with', u'the', u'mostest', u'wins', u'ohhh', u'you', u'want', u'to', u'put', u'in', u'fine', u'print', u'which', u'says', u'thou', u'shall', u'do', u'wonderous', u'rd', u'rather', u'than', u'use', u'offtheshelf', u'hardware', u'sorry', u'didnt', u'see', u'that', u'in', u'my', u'copy', u'most', u'of', u'the', u'pournellesque', u'proposals', u'run', u'along', u'the', u'lines', u'of', u'some', u'dollar', u'amount', u'reward', u'for', u'some', u'simple', u'goal', u'you', u'go', u'ahead', u'and', u'do', u'your', u'development', u'ill', u'buy', u'off', u'the', u'shelf', u'at', u'higher', u'cost', u'or', u'even', u'russian', u'but', u'i', u'also', u'assume', u'that', u'thered', u'be', u'some', u'buy', u'us', u'provos', u'in', u'there', u'and', u'be', u'camped', u'out', u'in', u'the', u'moon', u'while', u'you', u'are', u'launching', u'and', u'assembling', u'little', u'ittybitty', u'payloads', u'in', u'leo', u'with', u'your', u'laser', u'or', u'gas', u'gun', u'and', u'working', u'out', u'the', u'bugs', u'of', u'assembly', u'integration', u'in', u'leo', u'oh', u'hey', u'could', u'i', u'get', u'a', u'couple', u'of', u'canadarms', u'tuned', u'for', u'the', u'lunar', u'environment', u'i', u'wan', u'na', u'do', u'some', u'teleoperated', u'prospecting', u'while', u'im', u'up', u'there']
+line is  
+
+
+No. I estimate a 99 % probability the Gehrels referred to
+is Thomas Gehrels of the Spacewatch project, Kitt Peak observatory.
+
+Maybe in the 24th century they could do gamma ray spectroscopy on
+distant asteroids with an orbiting observatory, but here in the
+primitive 20th we have to send a probe there to get gamma ray
+spectroscopy done.
+
+
+You have the info on Mayan Television yet?
+ at j =  4
+words is  [u'no', u'i', u'estimate', u'a', u'probability', u'the', u'gehrels', u'referred', u'to', u'is', u'thomas', u'gehrels', u'of', u'the', u'spacewatch', u'project', u'kitt', u'peak', u'observatory', u'maybe', u'in', u'the', u'th', u'century', u'they', u'could', u'do', u'gamma', u'ray', u'spectroscopy', u'on', u'distant', u'asteroids', u'with', u'an', u'orbiting', u'observatory', u'but', u'here', u'in', u'the', u'primitive', u'th', u'we', u'have', u'to', u'send', u'a', u'probe', u'there', u'to', u'get', u'gamma', u'ray', u'spectroscopy', u'done', u'you', u'have', u'the', u'info', u'on', u'mayan', u'television', u'yet']
+line is  
+Lucky for them that the baby didn't have any obvious deformities!  I could
+just see it now: Mary gets pregnant out of wedlock so to save face she and
+Joseph say that it was God that got her pregnant and then the baby turns
+out to be deformed, or even worse, stillborn!  They'd have a lot of
+explaining to do.... :-)
+ at j =  5
+words is  [u'lucky', u'for', u'them', u'that', u'the', u'baby', u'didnt', u'have', u'any', u'obvious', u'deformities', u'i', u'could', u'just', u'see', u'it', u'now', u'mary', u'gets', u'pregnant', u'out', u'of', u'wedlock', u'so', u'to', u'save', u'face', u'she', u'and', u'joseph', u'say', u'that', u'it', u'was', u'god', u'that', u'got', u'her', u'pregnant', u'and', u'then', u'the', u'baby', u'turns', u'out', u'to', u'be', u'deformed', u'or', u'even', u'worse', u'stillborn', u'theyd', u'have', u'a', u'lot', u'of', u'explaining', u'to', u'do']
+line is  This discussion is better followed in talk.politics.space
+Joseph Cain		cain@geomag.gly.fsu.edu   
+cain@fsu.bitnet		scri::cain
+(904) 644-4014		FAX (904) 644-4214 or -0098
+ at j =  6
+words is  [u'this', u'discussion', u'is', u'better', u'followed', u'in', u'talkpoliticsspace', u'joseph', u'cain', u'caingeomagglyfsuedu', u'cainfsubitnet', u'scricain', u'fax', u'or']
+line is  Archive-name: space/acronyms
+Edition: 8
+
+Acronym List for sci.astro, sci.space, and sci.space.shuttle:
+Edition 8, 1992 Dec 7
+Last posted: 1992 Aug 27
+
+This list is offered as a reference for translating commonly appearing
+acronyms in the space-related newsgroups.  If I forgot or botched your
+favorite acronym, please let me know!  Also, if there's an acronym *not*
+on this list that confuses you, drop me a line, and if I can figure
+it out, I'll add it to the list.
+
+Note that this is intended to be a reference for *frequently seen*
+acronyms, and is most emphatically *not* encyclopedic.  If I incorporated
+every acronym I ever saw, I'd soon run out of disk space!  :-)
+
+The list will be posted at regular intervals, every 30 days.  All
+comments regarding it are welcome; I'm reachable as bradfrd2@ncar.ucar.edu.
+
+Note that this just tells what the acronyms stand for -- you're on your
+own for figuring out what they *mean*!  Note also that the total number of
+acronyms in use far exceeds what I can list; special-purpose acronyms that
+are essentially always explained as they're introduced are omitted.
+Further, some acronyms stand for more than one thing; as of Edition 3 of
+the list, these acronyms appear on multiple lines, unless they're simply
+different ways of referring to the same thing.
+
+Thanks to everybody who's sent suggestions since the first version of
+the list, and especially to Garrett A. Wollman (wollman@griffin.uvm.edu),
+who is maintaining an independent list, somewhat more verbose in
+character than mine, and to Daniel Fischer (dfi@specklec.mpifr-bonn.mpg.de),
+who is maintaining a truly HUGE list (535 at last count) of acronyms and
+terms, mostly in German (which I read, fortunately).
+
+Special thanks this time to Ken Hollis at NASA, who sent me a copy of NASA
+Reference Publication 1059 Revised: _Space Transportation System and
+Associated Payloads: Glossary, Acronyms, and Abbreviations_, a truly
+mammoth tome -- almost 300 pages of TLAs.
+
+Special Bonus!  At the end of this posting, you will find a perl program
+written by none other than Larry Wall, whose purpose is to scramble the
+acronym list in an entertaining fashion.  Thanks, Larry!
+
+A&A: Astronomy and Astrophysics
+AAO: Anglo-Australian Observatory
+AAS: American Astronomical Society
+AAS: American Astronautical Society
+AAVSO: American Association of Variable Star Observers
+ACE: Advanced Composition Explorer
+ACRV: Assured Crew Return Vehicle (or) Astronaut Crew Rescue Vehicle
+ADFRF: Ames-Dryden Flight Research Facility (was DFRF) (NASA)
+AGN: Active Galactic Nucleus
+AGU: American Geophysical Union
+AIAA: American Institute of Aeronautics and Astronautics
+AIPS: Astronomical Image Processing System
+AJ: Astronomical Journal
+ALEXIS: Array of Low Energy X-ray Imaging Sensors
+ALPO: Association of Lunar and Planetary Observers
+ALS: Advanced Launch System
+ANSI: American National Standards Institute
+AOA: Abort Once Around (Shuttle abort plan)
+AOCS: Attitude and Orbit Control System
+Ap.J: Astrophysical Journal
+APM: Attached Pressurized Module (a.k.a. Columbus)
+APU: Auxiliary Power Unit
+ARC: Ames Research Center (NASA)
+ARTEMIS: Advanced Relay TEchnology MISsion
+ASA: Astronomical Society of the Atlantic
+ASI: Agenzia Spaziale Italiano
+ASRM: Advanced Solid Rocket Motor
+ATDRS: Advanced Tracking and Data Relay Satellite
+ATLAS: Atmospheric Laboratory for Applications and Science
+ATM: Amateur Telescope Maker
+ATO: Abort To Orbit (Shuttle abort plan)
+AU: Astronomical Unit
+AURA: Association of Universities for Research in Astronomy
+AW&ST: Aviation Week and Space Technology (a.k.a. AvLeak)
+AXAF: Advanced X-ray Astrophysics Facility
+BATSE: Burst And Transient Source Experiment (on CGRO)
+BBXRT: Broad-Band X-Ray Telescope (ASTRO package)
+BEM: Bug-Eyed Monster
+BH: Black Hole
+BIMA: Berkeley Illinois Maryland Array
+BNSC: British National Space Centre
+BTW: By The Way
+C&T: Communications & Tracking
+CCAFS: Cape Canaveral Air Force Station
+CCD: Charge-Coupled Device
+CCDS: Centers for the Commercial Development of Space
+CD-ROM: Compact Disk Read-Only Memory
+CFA: Center For Astrophysics
+CFC: ChloroFluoroCarbon
+CFF: Columbus Free Flyer
+CFHT: Canada-France-Hawaii Telescope
+CGRO: (Arthur Holley) Compton Gamma Ray Observatory (was GRO)
+CHARA: Center for High Angular Resolution Astronomy
+CIRRIS: Cryogenic InfraRed Radiance Instrument for Shuttle
+CIT: Circumstellar Imaging Telescope
+CM: Command Module (Apollo spacecraft)
+CMCC: Central Mission Control Centre (ESA)
+CNES: Centre National d'Etude Spatiales
+CNO: Carbon-Nitrogen-Oxygen
+CNSR: Comet Nucleus Sample Return
+COBE: COsmic Background Explorer
+COMPTEL: COMPton TELescope (on CGRO)
+COSTAR: Corrective Optics Space Telescope Axial Replacement
+CRAF: Comet Rendezvous / Asteroid Flyby
+CRRES: Combined Release / Radiation Effects Satellite
+CSM: Command and Service Module (Apollo spacecraft)
+CSTC: Consolidated Satellite Test Center (USAF)
+CTIO: Cerro Tololo Interamerican Observatory
+DCX: Delta Clipper eXperimental
+DDCU: DC-to-DC Converter Unit
+DFRF: Dryden Flight Research Facility (now ADFRF)
+DMSP: Defense Meteorological Satellite Program
+DOD: Department Of Defense (sometimes DoD)
+DOE: Department Of Energy
+DOT: Department Of Transportation
+DSCS: Defense Satellite Communications System
+DSN: Deep Space Network
+DSP: Defense Support Program (USAF/NRO)
+EAFB: Edwards Air Force Base
+ECS: Environmental Control System
+EDO: Extended Duration Orbiter
+EGRET: Energetic Gamma Ray Experiment Telescope (on CGRO)
+EJASA: Electronic Journal of the Astronomical Society of the Atlantic
+ELV: Expendable Launch Vehicle
+EMU: Extravehicular Mobility Unit
+EOS: Earth Observing System
+ERS: Earth Resources Satellite (as in ERS-1)
+ESA: European Space Agency
+ESO: European Southern Observatory
+ET: (Shuttle) External Tank
+ETLA: Extended Three Letter Acronym
+ETR: Eastern Test Range
+EUV: Extreme UltraViolet
+EUVE: Extreme UltraViolet Explorer
+EVA: ExtraVehicular Activity
+FAQ: Frequently Asked Questions
+FAST: Fast Auroral SnapshoT explorer
+FFT: Fast Fourier Transform
+FGS: Fine Guidance Sensors (on HST)
+FHST: Fixed Head Star Trackers (on HST)
+FIR: Far InfraRed
+FITS: Flexible Image Transport System
+FOC: Faint Object Camera (on HST)
+FOS: Faint Object Spectrograph (on HST)
+FRR: Flight-Readiness Review
+FTP: File Transfer Protocol
+FTS: Flight Telerobotic Servicer
+FUSE: Far Ultraviolet Spectroscopic Explorer
+FWHM: Full Width at Half Maximum
+FYI: For Your Information
+GAS: Get-Away Special
+GBT: Green Bank Telescope
+GCVS: General Catalog of Variable Stars
+GEM: Giotto Extended Mission
+GEO: Geosynchronous Earth Orbit
+GDS: Great Dark Spot
+GHRS: Goddard High Resolution Spectrograph (on HST)
+GIF: Graphics Interchange Format
+GLOMR: Global Low-Orbiting Message Relay
+GMC: Giant Molecular Cloud
+GMRT: Giant Meter-wave Radio Telescope
+GMT: Greenwich Mean Time (also called UT)
+GOES: Geostationary Orbiting Environmental Satellite
+GOX: Gaseous OXygen
+GPC: General Purpose Computer
+GPS: Global Positioning System
+GRO: Gamma Ray Observatory (now CGRO)
+GRS: Gamma Ray Spectrometer (on Mars Observer)
+GRS: Great Red Spot
+GSC: Guide Star Catalog (for HST)
+GSFC: Goddard Space Flight Center (NASA)
+GTO: Geostationary Transfer Orbit
+HAO: High Altitude Observatory
+HD: Henry Draper catalog entry
+HEAO: High Energy Astronomical Observatory
+HeRA: Hermes Robotic Arm
+HF: High Frequency
+HGA: High Gain Antenna
+HLC: Heavy Lift Capability
+HLV: Heavy Lift Vehicle
+HMC: Halley Multicolor Camera (on Giotto)
+HR: Hertzsprung-Russell (diagram)
+HRI: High Resolution Imager (on ROSAT)
+HSP: High Speed Photometer (on HST)
+HST: Hubble Space Telescope
+HUT: Hopkins Ultraviolet Telescope (ASTRO package)
+HV: High Voltage
+IAPPP: International Amateur/Professional Photoelectric Photometry
+IAU: International Astronomical Union
+IAUC: IAU Circular
+ICE: International Cometary Explorer
+IDA: International Dark-sky Association
+IDL: Interactive Data Language
+IGM: InterGalactic Medium
+IGY: International Geophysical Year
+IMHO: In My Humble Opinion
+IOTA: Infrared-Optical Telescope Array
+IOTA: International Occultation Timing Association
+IPS: Inertial Pointing System
+IR: InfraRed
+IRAF: Image Reduction and Analysis Facility
+IRAS: InfraRed Astronomical Satellite
+ISAS: Institute of Space and Astronautical Science (Japan)
+ISM: InterStellar Medium
+ISO: Infrared Space Observatory
+ISO: International Standards Organization
+ISPM: International Solar Polar Mission (now Ulysses)
+ISY: International Space Year
+IUE: International Ultraviolet Explorer
+IUS: Inertial Upper Stage
+JEM: Japanese Experiment Module (for SSF)
+JGR: Journal of Geophysical Research
+JILA: Joint Institute for Laboratory Astrophysics
+JPL: Jet Propulsion Laboratory
+JSC: Johnson Space Center (NASA)
+KAO: Kuiper Airborne Observatory
+KPNO: Kitt Peak National Observatory
+KSC: Kennedy Space Center (NASA)
+KTB: Cretaceous-Tertiary Boundary (from German)
+LANL: Los Alamos National Laboratory
+LaRC: Langley Research Center (NASA)
+LDEF: Long Duration Exposure Facility
+LEM: Lunar Excursion Module (a.k.a. LM) (Apollo spacecraft)
+LEO: Low Earth Orbit
+LeRC: Lewis Research Center (NASA)
+LEST: Large Earth-based Solar Telescope
+LFSA: List of Frequently Seen Acronyms (!)
+LGA: Low Gain Antenna
+LGM: Little Green Men
+LH: Liquid Hydrogen (also LH2 or LHX)
+LLNL: Lawrence-Livermore National Laboratory
+LM: Lunar Module (a.k.a. LEM) (Apollo spacecraft)
+LMC: Large Magellanic Cloud
+LN2: Liquid N2 (Nitrogen)
+LOX: Liquid OXygen
+LRB: Liquid Rocket Booster
+LSR: Local Standard of Rest
+LTP: Lunar Transient Phenomenon
+MB: Manned Base
+MCC: Mission Control Center
+MECO: Main Engine CutOff
+MMH: MonoMethyl Hydrazine
+MMT: Multiple Mirror Telescope
+MMU: Manned Maneuvering Unit
+MNRAS: Monthly Notices of the Royal Astronomical Society
+MOC: Mars Observer Camera (on Mars Observer)
+MOL: Manned Orbiting Laboratory
+MOLA: Mars Observer Laser Altimeter (on Mars Observer)
+MOMV: Manned Orbital Maneuvering Vehicle
+MOTV: Manned Orbital Transfer Vehicle
+MPC: Minor Planets Circular
+MRSR: Mars Rover and Sample Return
+MRSRM: Mars Rover and Sample Return Mission
+MSFC: (George C.) Marshall Space Flight Center (NASA)
+MTC: Man Tended Capability
+NACA: National Advisory Committee on Aeronautics (became NASA)
+NASA: National Aeronautics and Space Administration
+NASDA: NAtional Space Development Agency (Japan)
+NASM: National Air and Space Museum
+NASP: National AeroSpace Plane
+NBS: National Bureau of Standards (now NIST)
+NDV: NASP Derived Vehicle
+NERVA: Nuclear Engine for Rocket Vehicle Application
+NGC: New General Catalog
+NICMOS: Near Infrared Camera / Multi Object Spectrometer (HST upgrade)
+NIMS: Near-Infrared Mapping Spectrometer (on Galileo)
+NIR: Near InfraRed
+NIST: National Institute for Standards and Technology (was NBS)
+NLDP: National Launch Development Program
+NOAA: National Oceanic and Atmospheric Administration
+NOAO: National Optical Astronomy Observatories
+NRAO: National Radio Astronomy Observatory
+NRO: National Reconnaissance Office
+NS: Neutron Star
+NSA: National Security Agency
+NSF: National Science Foundation
+NSO: National Solar Observatory
+NSSDC: National Space Science Data Center
+NTR: Nuclear Thermal Rocket(ry)
+NTT: New Technology Telescope
+OAO: Orbiting Astronomical Observatory
+OCST: Office of Commercial Space Transportation
+OMB: Office of Management and Budget
+OMS: Orbital Maneuvering System
+OPF: Orbiter Processing Facility
+ORFEUS: Orbiting and Retrievable Far and Extreme Ultraviolet Spectrometer
+OSC: Orbital Sciences Corporation
+OSCAR: Orbiting Satellite Carrying Amateur Radio
+OSSA: Office of Space Science and Applications
+OSSE: Oriented Scintillation Spectrometer Experiment (on CGRO)
+OTA: Optical Telescope Assembly (on HST)
+OTHB: Over The Horizon Backscatter
+OTV: Orbital Transfer Vehicle
+OV: Orbital Vehicle
+PAM: Payload Assist Module
+PAM-D: Payload Assist Module, Delta-class
+PI: Principal Investigator
+PLSS: Portable Life Support System
+PM: Pressurized Module
+PMC: Permanently Manned Capability
+PMIRR: Pressure Modulated InfraRed Radiometer (on Mars Observer)
+PMT: PhotoMultiplier Tube
+PSF: Point Spread Function
+PSR: PulSaR
+PV: Photovoltaic
+PVO: Pioneer Venus Orbiter
+QSO: Quasi-Stellar Object
+RCI: Rodent Cage Interface (for SLS mission)
+RCS: Reaction Control System
+REM: Rat Enclosure Module (for SLS mission)
+RF: Radio Frequency
+RFI: Radio Frequency Interference
+RIACS: Research Institute for Advanced Computer Science
+RMS: Remote Manipulator System
+RNGC: Revised New General Catalog
+ROSAT: ROentgen SATellite
+ROUS: Rodents Of Unusual Size (I don't believe they exist)
+RSN: Real Soon Now
+RTG: Radioisotope Thermoelectric Generator
+RTLS: Return To Launch Site (Shuttle abort plan)
+SAA: South Atlantic Anomaly
+SAGA: Solar Array Gain Augmentation (for HST)
+SAMPEX: Solar Anomalous and Magnetospheric Particle EXplorer
+SAO: Smithsonian Astrophysical Observatory
+SAR: Search And Rescue
+SAR: Synthetic Aperture Radar
+SARA: Satellite pour Astronomie Radio Amateur
+SAREX: Search and Rescue Exercise
+SAREX: Shuttle Amateur Radio Experiment
+SAS: Space Activity Suit
+SAS: Space Adaptation Syndrome
+SAT: Synthetic Aperture Telescope
+S/C: SpaceCraft
+SCA: Shuttle Carrier Aircraft
+SCT: Schmidt-Cassegrain Telescope
+SDI: Strategic Defense Initiative
+SDIO: Strategic Defense Initiative Organization
+SEI: Space Exploration Initiative
+SEST: Swedish ESO Submillimeter Telescope
+SETI: Search for ExtraTerrestrial Intelligence
+SID: Sudden Ionospheric Disturbance
+SIR: Shuttle Imaging Radar
+SIRTF: Space (formerly Shuttle) InfraRed Telescope Facility
+SL: SpaceLab
+SLAR: Side-Looking Airborne Radar
+SLC: Space Launch Complex
+SLS: Space(lab) Life Sciences
+SMC: Small Magellanic Cloud
+SME: Solar Mesosphere Explorer
+SMEX: SMall EXplorers
+SMM: Solar Maximum Mission
+SN: SuperNova (e.g., SN1987A)
+SNR: Signal to Noise Ratio
+SNR: SuperNova Remnant
+SNU: Solar Neutrino Units
+SOFIA: Stratospheric Observatory For Infrared Astronomy
+SOHO: SOlar Heliospheric Observatory
+SPAN: Space Physics and Analysis Network
+SPDM: Special Purpose Dextrous Manipulator
+SPOT: Systeme Probatoire pour l'Observation de la Terre
+SPS: Solar Power Satellite
+SRB: Solid Rocket Booster
+SRM: Solid Rocket Motor
+SSF: Space Station Fred (er, Freedom)
+SSI: Solid-State Imager (on Galileo)
+SSI: Space Studies Institut
+SSME: Space Shuttle Main Engine
+SSPF: Space Station Processing Facility
+SSRMS: Space Station Remote Manipulator System
+SST: Spectroscopic Survey Telescope
+SST: SuperSonic Transport
+SSTO: Single Stage To Orbit
+STIS: Space Telescope Imaging Spectrometer (to replace FOC and GHRS)
+STS: Shuttle Transport System (or) Space Transportation System
+STScI: Space Telescope Science Institute
+SWAS: Submillimeter Wave Astronomy Satellite
+SWF: ShortWave Fading
+TAL: Transatlantic Abort Landing (Shuttle abort plan)
+TAU: Thousand Astronomical Unit (mission)
+TCS: Thermal Control System
+TDRS: Tracking and Data Relay Satellite
+TDRSS: Tracking and Data Relay Satellite System
+TES: Thermal Emission Spectrometer (on Mars Observer)
+TIROS: Television InfraRed Observation Satellite
+TLA: Three Letter Acronym
+TOMS: Total Ozone Mapping Spectrometer
+TPS: Thermal Protection System
+TSS: Tethered Satellite System
+UARS: Upper Atmosphere Research Satellite
+UBM: Unpressurized Berthing Mechanism
+UDMH: Unsymmetrical DiMethyl Hydrazine
+UFO: Unidentified Flying Object
+UGC: Uppsala General Catalog
+UHF: Ultra High Frequency
+UIT: Ultraviolet Imaging Telescope (Astro package)
+UKST: United Kingdom Schmidt Telescope
+USAF: United States Air Force
+USMP: United States Microgravity Payload
+UT: Universal Time (a.k.a. GMT, UTC, or Zulu Time)
+UTC: Coordinated Universal Time (a.k.a. UT)
+UV: UltraViolet
+UVS: UltraViolet Spectrometer
+VAB: Vehicle Assembly Building (formerly Vertical Assembly Building)
+VAFB: Vandenberg Air Force Base
+VEEGA: Venus-Earth-Earth Gravity Assist (Galileo flight path)
+VHF: Very High Frequency
+VLA: Very Large Array
+VLBA: Very Long Baseline Array
+VLBI: Very Long Baseline Interferometry
+VLF: Very Low Frequency
+VLT: Very Large Telescope
+VMS: Vertical Motion Simulator
+VOIR: Venus Orbiting Imaging Radar (superseded by VRM)
+VPF: Vertical Processing Facility
+VRM: Venus Radar Mapper (now called Magellan)
+WD: White Dwarf
+WFPC: Wide Field / Planetary Camera (on HST)
+WFPCII: Replacement for WFPC
+WIYN: Wisconsin / Indiana / Yale / NOAO telescope
+WSMR: White Sands Missile Range
+WTR: Western Test Range
+WUPPE: Wisconsin Ultraviolet PhotoPolarimter Experiment (Astro package)
+XMM: X-ray Multi Mirror
+XUV: eXtreme UltraViolet
+YSO: Young Stellar Object
+
+
+#!/usr/bin/perl
+# 'alt', An Acronym Scrambling Program, by Larry Wall
+
+$THRESHOLD = 2;
+
+srand;
+while (<>) {
+    next unless /^([A-Z]\S+): */;
+    $key = $1;
+    $acro{$key} = $';
+    @words = split(/\W+/,$');
+    unshift(@words,$key);
+    $off = 0;
+    foreach $word (@words) {
+        next unless $word =~ /^[A-Z]/;
+        *w = $&;
+        vec($w{$word}, $off++ % 6, 1) = 1;
+    }
+}
+
+foreach $letter (A .. Z) {
+    *w = $letter;
+    @w = keys %w;
+    if (@w < $THRESHOLD) {
+        @d = `egrep '^$letter' /usr/dict/words`;
+        chop @d;
+        push(@w, @d);
+    }
+}
+
+foreach $key (sort keys %acro) {
+    $off = 0;
+    $acro = $acro{$key};
+    $acro =~ s/((([A-Z])[A-Z]*)[a-z]*)/ &pick($3, $2, $1, ++$off) || $& /eg;
+    print "$key: $acro";
+}
+
+sub pick {
+    local($letter, $prefix, $oldword, $off) = @_;
+    $i = 0;
+    if (length($prefix) > 1 && index($key,$prefix) < 0) {
+        if ($prefix eq $oldword) {
+            $prefix = '';
+        }
+        else {
+            $prefix = $letter;
+        }
+    }
+    if (length($prefix) > 1) {
+        local(*w) = substr($prefix,0,1);
+        do {
+            $word = $w[rand @w];
+        } until $word ne $oldword && $word =~ /^$prefix/i || ++$i > 30;
+        $word =~ s/^$prefix/$prefix/i;
+        $word;
+    }
+    elsif (length($prefix) == 1) {
+        local(*w) = $prefix;
+        do {
+            $word = $w[rand @w];
+        } until $word ne $oldword && vec($w{$word}, $off, 1) || ++$i > 10;
+        $word = "\u\L$word" if $word =~ tr/a-z/A-Z/;
+        $word;
+    }
+    else {
+        local(*w) = substr($oldword,0,1);
+        do {
+            $word = $w[rand @w];
+        } until $word ne $oldword && $word =~ tr/a-z/A-Z/ == 0 || ++$i > 30;
+        $word;
+    }
+}
+ at j =  7
+words is  [u'archivename', u'spaceacronyms', u'edition', u'acronym', u'list', u'for', u'sciastro', u'scispace', u'and', u'scispaceshuttle', u'edition', u'dec', u'last', u'posted', u'aug', u'this', u'list', u'is', u'offered', u'as', u'a', u'reference', u'for', u'translating', u'commonly', u'appearing', u'acronyms', u'in', u'the', u'spacerelated', u'newsgroups', u'if', u'i', u'forgot', u'or', u'botched', u'your', u'favorite', u'acronym', u'please', u'let', u'me', u'know', u'also', u'if', u'theres', u'an', u'acronym', u'not', u'on', u'this', u'list', u'that', u'confuses', u'you', u'drop', u'me', u'a', u'line', u'and', u'if', u'i', u'can', u'figure', u'it', u'out', u'ill', u'add', u'it', u'to', u'the', u'list', u'note', u'that', u'this', u'is', u'intended', u'to', u'be', u'a', u'reference', u'for', u'frequently', u'seen', u'acronyms', u'and', u'is', u'most', u'emphatically', u'not', u'encyclopedic', u'if', u'i', u'incorporated', u'every', u'acronym', u'i', u'ever', u'saw', u'id', u'soon', u'run', u'out', u'of', u'disk', u'space', u'the', u'list', u'will', u'be', u'posted', u'at', u'regular', u'intervals', u'every', u'days', u'all', u'comments', u'regarding', u'it', u'are', u'welcome', u'im', u'reachable', u'as', u'bradfrdncarucaredu', u'note', u'that', u'this', u'just', u'tells', u'what', u'the', u'acronyms', u'stand', u'for', u'youre', u'on', u'your', u'own', u'for', u'figuring', u'out', u'what', u'they', u'mean', u'note', u'also', u'that', u'the', u'total', u'number', u'of', u'acronyms', u'in', u'use', u'far', u'exceeds', u'what', u'i', u'can', u'list', u'specialpurpose', u'acronyms', u'that', u'are', u'essentially', u'always', u'explained', u'as', u'theyre', u'introduced', u'are', u'omitted', u'further', u'some', u'acronyms', u'stand', u'for', u'more', u'than', u'one', u'thing', u'as', u'of', u'edition', u'of', u'the', u'list', u'these', u'acronyms', u'appear', u'on', u'multiple', u'lines', u'unless', u'theyre', u'simply', u'different', u'ways', u'of', u'referring', u'to', u'the', u'same', u'thing', u'thanks', u'to', u'everybody', u'whos', u'sent', u'suggestions', u'since', u'the', u'first', u'version', u'of', u'the', u'list', u'and', u'especially', u'to', u'garrett', u'a', u'wollman', u'wollmangriffinuvmedu', u'who', u'is', u'maintaining', u'an', u'independent', u'list', u'somewhat', u'more', u'verbose', u'in', u'character', u'than', u'mine', u'and', u'to', u'daniel', u'fischer', u'dfispecklecmpifrbonnmpgde', u'who', u'is', u'maintaining', u'a', u'truly', u'huge', u'list', u'at', u'last', u'count', u'of', u'acronyms', u'and', u'terms', u'mostly', u'in', u'german', u'which', u'i', u'read', u'fortunately', u'special', u'thanks', u'this', u'time', u'to', u'ken', u'hollis', u'at', u'nasa', u'who', u'sent', u'me', u'a', u'copy', u'of', u'nasa', u'reference', u'publication', u'revised', u'space', u'transportation', u'system', u'and', u'associated', u'payloads', u'glossary', u'acronyms', u'and', u'abbreviations', u'a', u'truly', u'mammoth', u'tome', u'almost', u'pages', u'of', u'tlas', u'special', u'bonus', u'at', u'the', u'end', u'of', u'this', u'posting', u'you', u'will', u'find', u'a', u'perl', u'program', u'written', u'by', u'none', u'other', u'than', u'larry', u'wall', u'whose', u'purpose', u'is', u'to', u'scramble', u'the', u'acronym', u'list', u'in', u'an', u'entertaining', u'fashion', u'thanks', u'larry', u'aa', u'astronomy', u'and', u'astrophysics', u'aao', u'angloaustralian', u'observatory', u'aas', u'american', u'astronomical', u'society', u'aas', u'american', u'astronautical', u'society', u'aavso', u'american', u'association', u'of', u'variable', u'star', u'observers', u'ace', u'advanced', u'composition', u'explorer', u'acrv', u'assured', u'crew', u'return', u'vehicle', u'or', u'astronaut', u'crew', u'rescue', u'vehicle', u'adfrf', u'amesdryden', u'flight', u'research', u'facility', u'was', u'dfrf', u'nasa', u'agn', u'active', u'galactic', u'nucleus', u'agu', u'american', u'geophysical', u'union', u'aiaa', u'american', u'institute', u'of', u'aeronautics', u'and', u'astronautics', u'aips', u'astronomical', u'image', u'processing', u'system', u'aj', u'astronomical', u'journal', u'alexis', u'array', u'of', u'low', u'energy', u'xray', u'imaging', u'sensors', u'alpo', u'association', u'of', u'lunar', u'and', u'planetary', u'observers', u'als', u'advanced', u'launch', u'system', u'ansi', u'american', u'national', u'standards', u'institute', u'aoa', u'abort', u'once', u'around', u'shuttle', u'abort', u'plan', u'aocs', u'attitude', u'and', u'orbit', u'control', u'system', u'apj', u'astrophysical', u'journal', u'apm', u'attached', u'pressurized', u'module', u'aka', u'columbus', u'apu', u'auxiliary', u'power', u'unit', u'arc', u'ames', u'research', u'center', u'nasa', u'artemis', u'advanced', u'relay', u'technology', u'mission', u'asa', u'astronomical', u'society', u'of', u'the', u'atlantic', u'asi', u'agenzia', u'spaziale', u'italiano', u'asrm', u'advanced', u'solid', u'rocket', u'motor', u'atdrs', u'advanced', u'tracking', u'and', u'data', u'relay', u'satellite', u'atlas', u'atmospheric', u'laboratory', u'for', u'applications', u'and', u'science', u'atm', u'amateur', u'telescope', u'maker', u'ato', u'abort', u'to', u'orbit', u'shuttle', u'abort', u'plan', u'au', u'astronomical', u'unit', u'aura', u'association', u'of', u'universities', u'for', u'research', u'in', u'astronomy', u'awst', u'aviation', u'week', u'and', u'space', u'technology', u'aka', u'avleak', u'axaf', u'advanced', u'xray', u'astrophysics', u'facility', u'batse', u'burst', u'and', u'transient', u'source', u'experiment', u'on', u'cgro', u'bbxrt', u'broadband', u'xray', u'telescope', u'astro', u'package', u'bem', u'bugeyed', u'monster', u'bh', u'black', u'hole', u'bima', u'berkeley', u'illinois', u'maryland', u'array', u'bnsc', u'british', u'national', u'space', u'centre', u'btw', u'by', u'the', u'way', u'ct', u'communications', u'tracking', u'ccafs', u'cape', u'canaveral', u'air', u'force', u'station', u'ccd', u'chargecoupled', u'device', u'ccds', u'centers', u'for', u'the', u'commercial', u'development', u'of', u'space', u'cdrom', u'compact', u'disk', u'readonly', u'memory', u'cfa', u'center', u'for', u'astrophysics', u'cfc', u'chlorofluorocarbon', u'cff', u'columbus', u'free', u'flyer', u'cfht', u'canadafrancehawaii', u'telescope', u'cgro', u'arthur', u'holley', u'compton', u'gamma', u'ray', u'observatory', u'was', u'gro', u'chara', u'center', u'for', u'high', u'angular', u'resolution', u'astronomy', u'cirris', u'cryogenic', u'infrared', u'radiance', u'instrument', u'for', u'shuttle', u'cit', u'circumstellar', u'imaging', u'telescope', u'cm', u'command', u'module', u'apollo', u'spacecraft', u'cmcc', u'central', u'mission', u'control', u'centre', u'esa', u'cnes', u'centre', u'national', u'detude', u'spatiales', u'cno', u'carbonnitrogenoxygen', u'cnsr', u'comet', u'nucleus', u'sample', u'return', u'cobe', u'cosmic', u'background', u'explorer', u'comptel', u'compton', u'telescope', u'on', u'cgro', u'costar', u'corrective', u'optics', u'space', u'telescope', u'axial', u'replacement', u'craf', u'comet', u'rendezvous', u'asteroid', u'flyby', u'crres', u'combined', u'release', u'radiation', u'effects', u'satellite', u'csm', u'command', u'and', u'service', u'module', u'apollo', u'spacecraft', u'cstc', u'consolidated', u'satellite', u'test', u'center', u'usaf', u'ctio', u'cerro', u'tololo', u'interamerican', u'observatory', u'dcx', u'delta', u'clipper', u'experimental', u'ddcu', u'dctodc', u'converter', u'unit', u'dfrf', u'dryden', u'flight', u'research', u'facility', u'now', u'adfrf', u'dmsp', u'defense', u'meteorological', u'satellite', u'program', u'dod', u'department', u'of', u'defense', u'sometimes', u'dod', u'doe', u'department', u'of', u'energy', u'dot', u'department', u'of', u'transportation', u'dscs', u'defense', u'satellite', u'communications', u'system', u'dsn', u'deep', u'space', u'network', u'dsp', u'defense', u'support', u'program', u'usafnro', u'eafb', u'edwards', u'air', u'force', u'base', u'ecs', u'environmental', u'control', u'system', u'edo', u'extended', u'duration', u'orbiter', u'egret', u'energetic', u'gamma', u'ray', u'experiment', u'telescope', u'on', u'cgro', u'ejasa', u'electronic', u'journal', u'of', u'the', u'astronomical', u'society', u'of', u'the', u'atlantic', u'elv', u'expendable', u'launch', u'vehicle', u'emu', u'extravehicular', u'mobility', u'unit', u'eos', u'earth', u'observing', u'system', u'ers', u'earth', u'resources', u'satellite', u'as', u'in', u'ers', u'esa', u'european', u'space', u'agency', u'eso', u'european', u'southern', u'observatory', u'et', u'shuttle', u'external', u'tank', u'etla', u'extended', u'three', u'letter', u'acronym', u'etr', u'eastern', u'test', u'range', u'euv', u'extreme', u'ultraviolet', u'euve', u'extreme', u'ultraviolet', u'explorer', u'eva', u'extravehicular', u'activity', u'faq', u'frequently', u'asked', u'questions', u'fast', u'fast', u'auroral', u'snapshot', u'explorer', u'fft', u'fast', u'fourier', u'transform', u'fgs', u'fine', u'guidance', u'sensors', u'on', u'hst', u'fhst', u'fixed', u'head', u'star', u'trackers', u'on', u'hst', u'fir', u'far', u'infrared', u'fits', u'flexible', u'image', u'transport', u'system', u'foc', u'faint', u'object', u'camera', u'on', u'hst', u'fos', u'faint', u'object', u'spectrograph', u'on', u'hst', u'frr', u'flightreadiness', u'review', u'ftp', u'file', u'transfer', u'protocol', u'fts', u'flight', u'telerobotic', u'servicer', u'fuse', u'far', u'ultraviolet', u'spectroscopic', u'explorer', u'fwhm', u'full', u'width', u'at', u'half', u'maximum', u'fyi', u'for', u'your', u'information', u'gas', u'getaway', u'special', u'gbt', u'green', u'bank', u'telescope', u'gcvs', u'general', u'catalog', u'of', u'variable', u'stars', u'gem', u'giotto', u'extended', u'mission', u'geo', u'geosynchronous', u'earth', u'orbit', u'gds', u'great', u'dark', u'spot', u'ghrs', u'goddard', u'high', u'resolution', u'spectrograph', u'on', u'hst', u'gif', u'graphics', u'interchange', u'format', u'glomr', u'global', u'loworbiting', u'message', u'relay', u'gmc', u'giant', u'molecular', u'cloud', u'gmrt', u'giant', u'meterwave', u'radio', u'telescope', u'gmt', u'greenwich', u'mean', u'time', u'also', u'called', u'ut', u'goes', u'geostationary', u'orbiting', u'environmental', u'satellite', u'gox', u'gaseous', u'oxygen', u'gpc', u'general', u'purpose', u'computer', u'gps', u'global', u'positioning', u'system', u'gro', u'gamma', u'ray', u'observatory', u'now', u'cgro', u'grs', u'gamma', u'ray', u'spectrometer', u'on', u'mars', u'observer', u'grs', u'great', u'red', u'spot', u'gsc', u'guide', u'star', u'catalog', u'for', u'hst', u'gsfc', u'goddard', u'space', u'flight', u'center', u'nasa', u'gto', u'geostationary', u'transfer', u'orbit', u'hao', u'high', u'altitude', u'observatory', u'hd', u'henry', u'draper', u'catalog', u'entry', u'heao', u'high', u'energy', u'astronomical', u'observatory', u'hera', u'hermes', u'robotic', u'arm', u'hf', u'high', u'frequency', u'hga', u'high', u'gain', u'antenna', u'hlc', u'heavy', u'lift', u'capability', u'hlv', u'heavy', u'lift', u'vehicle', u'hmc', u'halley', u'multicolor', u'camera', u'on', u'giotto', u'hr', u'hertzsprungrussell', u'diagram', u'hri', u'high', u'resolution', u'imager', u'on', u'rosat', u'hsp', u'high', u'speed', u'photometer', u'on', u'hst', u'hst', u'hubble', u'space', u'telescope', u'hut', u'hopkins', u'ultraviolet', u'telescope', u'astro', u'package', u'hv', u'high', u'voltage', u'iappp', u'international', u'amateurprofessional', u'photoelectric', u'photometry', u'iau', u'international', u'astronomical', u'union', u'iauc', u'iau', u'circular', u'ice', u'international', u'cometary', u'explorer', u'ida', u'international', u'darksky', u'association', u'idl', u'interactive', u'data', u'language', u'igm', u'intergalactic', u'medium', u'igy', u'international', u'geophysical', u'year', u'imho', u'in', u'my', u'humble', u'opinion', u'iota', u'infraredoptical', u'telescope', u'array', u'iota', u'international', u'occultation', u'timing', u'association', u'ips', u'inertial', u'pointing', u'system', u'ir', u'infrared', u'iraf', u'image', u'reduction', u'and', u'analysis', u'facility', u'iras', u'infrared', u'astronomical', u'satellite', u'isas', u'institute', u'of', u'space', u'and', u'astronautical', u'science', u'japan', u'ism', u'interstellar', u'medium', u'iso', u'infrared', u'space', u'observatory', u'iso', u'international', u'standards', u'organization', u'ispm', u'international', u'solar', u'polar', u'mission', u'now', u'ulysses', u'isy', u'international', u'space', u'year', u'iue', u'international', u'ultraviolet', u'explorer', u'ius', u'inertial', u'upper', u'stage', u'jem', u'japanese', u'experiment', u'module', u'for', u'ssf', u'jgr', u'journal', u'of', u'geophysical', u'research', u'jila', u'joint', u'institute', u'for', u'laboratory', u'astrophysics', u'jpl', u'jet', u'propulsion', u'laboratory', u'jsc', u'johnson', u'space', u'center', u'nasa', u'kao', u'kuiper', u'airborne', u'observatory', u'kpno', u'kitt', u'peak', u'national', u'observatory', u'ksc', u'kennedy', u'space', u'center', u'nasa', u'ktb', u'cretaceoustertiary', u'boundary', u'from', u'german', u'lanl', u'los', u'alamos', u'national', u'laboratory', u'larc', u'langley', u'research', u'center', u'nasa', u'ldef', u'long', u'duration', u'exposure', u'facility', u'lem', u'lunar', u'excursion', u'module', u'aka', u'lm', u'apollo', u'spacecraft', u'leo', u'low', u'earth', u'orbit', u'lerc', u'lewis', u'research', u'center', u'nasa', u'lest', u'large', u'earthbased', u'solar', u'telescope', u'lfsa', u'list', u'of', u'frequently', u'seen', u'acronyms', u'lga', u'low', u'gain', u'antenna', u'lgm', u'little', u'green', u'men', u'lh', u'liquid', u'hydrogen', u'also', u'lh', u'or', u'lhx', u'llnl', u'lawrencelivermore', u'national', u'laboratory', u'lm', u'lunar', u'module', u'aka', u'lem', u'apollo', u'spacecraft', u'lmc', u'large', u'magellanic', u'cloud', u'ln', u'liquid', u'n', u'nitrogen', u'lox', u'liquid', u'oxygen', u'lrb', u'liquid', u'rocket', u'booster', u'lsr', u'local', u'standard', u'of', u'rest', u'ltp', u'lunar', u'transient', u'phenomenon', u'mb', u'manned', u'base', u'mcc', u'mission', u'control', u'center', u'meco', u'main', u'engine', u'cutoff', u'mmh', u'monomethyl', u'hydrazine', u'mmt', u'multiple', u'mirror', u'telescope', u'mmu', u'manned', u'maneuvering', u'unit', u'mnras', u'monthly', u'notices', u'of', u'the', u'royal', u'astronomical', u'society', u'moc', u'mars', u'observer', u'camera', u'on', u'mars', u'observer', u'mol', u'manned', u'orbiting', u'laboratory', u'mola', u'mars', u'observer', u'laser', u'altimeter', u'on', u'mars', u'observer', u'momv', u'manned', u'orbital', u'maneuvering', u'vehicle', u'motv', u'manned', u'orbital', u'transfer', u'vehicle', u'mpc', u'minor', u'planets', u'circular', u'mrsr', u'mars', u'rover', u'and', u'sample', u'return', u'mrsrm', u'mars', u'rover', u'and', u'sample', u'return', u'mission', u'msfc', u'george', u'c', u'marshall', u'space', u'flight', u'center', u'nasa', u'mtc', u'man', u'tended', u'capability', u'naca', u'national', u'advisory', u'committee', u'on', u'aeronautics', u'became', u'nasa', u'nasa', u'national', u'aeronautics', u'and', u'space', u'administration', u'nasda', u'national', u'space', u'development', u'agency', u'japan', u'nasm', u'national', u'air', u'and', u'space', u'museum', u'nasp', u'national', u'aerospace', u'plane', u'nbs', u'national', u'bureau', u'of', u'standards', u'now', u'nist', u'ndv', u'nasp', u'derived', u'vehicle', u'nerva', u'nuclear', u'engine', u'for', u'rocket', u'vehicle', u'application', u'ngc', u'new', u'general', u'catalog', u'nicmos', u'near', u'infrared', u'camera', u'multi', u'object', u'spectrometer', u'hst', u'upgrade', u'nims', u'nearinfrared', u'mapping', u'spectrometer', u'on', u'galileo', u'nir', u'near', u'infrared', u'nist', u'national', u'institute', u'for', u'standards', u'and', u'technology', u'was', u'nbs', u'nldp', u'national', u'launch', u'development', u'program', u'noaa', u'national', u'oceanic', u'and', u'atmospheric', u'administration', u'noao', u'national', u'optical', u'astronomy', u'observatories', u'nrao', u'national', u'radio', u'astronomy', u'observatory', u'nro', u'national', u'reconnaissance', u'office', u'ns', u'neutron', u'star', u'nsa', u'national', u'security', u'agency', u'nsf', u'national', u'science', u'foundation', u'nso', u'national', u'solar', u'observatory', u'nssdc', u'national', u'space', u'science', u'data', u'center', u'ntr', u'nuclear', u'thermal', u'rocketry', u'ntt', u'new', u'technology', u'telescope', u'oao', u'orbiting', u'astronomical', u'observatory', u'ocst', u'office', u'of', u'commercial', u'space', u'transportation', u'omb', u'office', u'of', u'management', u'and', u'budget', u'oms', u'orbital', u'maneuvering', u'system', u'opf', u'orbiter', u'processing', u'facility', u'orfeus', u'orbiting', u'and', u'retrievable', u'far', u'and', u'extreme', u'ultraviolet', u'spectrometer', u'osc', u'orbital', u'sciences', u'corporation', u'oscar', u'orbiting', u'satellite', u'carrying', u'amateur', u'radio', u'ossa', u'office', u'of', u'space', u'science', u'and', u'applications', u'osse', u'oriented', u'scintillation', u'spectrometer', u'experiment', u'on', u'cgro', u'ota', u'optical', u'telescope', u'assembly', u'on', u'hst', u'othb', u'over', u'the', u'horizon', u'backscatter', u'otv', u'orbital', u'transfer', u'vehicle', u'ov', u'orbital', u'vehicle', u'pam', u'payload', u'assist', u'module', u'pamd', u'payload', u'assist', u'module', u'deltaclass', u'pi', u'principal', u'investigator', u'plss', u'portable', u'life', u'support', u'system', u'pm', u'pressurized', u'module', u'pmc', u'permanently', u'manned', u'capability', u'pmirr', u'pressure', u'modulated', u'infrared', u'radiometer', u'on', u'mars', u'observer', u'pmt', u'photomultiplier', u'tube', u'psf', u'point', u'spread', u'function', u'psr', u'pulsar', u'pv', u'photovoltaic', u'pvo', u'pioneer', u'venus', u'orbiter', u'qso', u'quasistellar', u'object', u'rci', u'rodent', u'cage', u'interface', u'for', u'sls', u'mission', u'rcs', u'reaction', u'control', u'system', u'rem', u'rat', u'enclosure', u'module', u'for', u'sls', u'mission', u'rf', u'radio', u'frequency', u'rfi', u'radio', u'frequency', u'interference', u'riacs', u'research', u'institute', u'for', u'advanced', u'computer', u'science', u'rms', u'remote', u'manipulator', u'system', u'rngc', u'revised', u'new', u'general', u'catalog', u'rosat', u'roentgen', u'satellite', u'rous', u'rodents', u'of', u'unusual', u'size', u'i', u'dont', u'believe', u'they', u'exist', u'rsn', u'real', u'soon', u'now', u'rtg', u'radioisotope', u'thermoelectric', u'generator', u'rtls', u'return', u'to', u'launch', u'site', u'shuttle', u'abort', u'plan', u'saa', u'south', u'atlantic', u'anomaly', u'saga', u'solar', u'array', u'gain', u'augmentation', u'for', u'hst', u'sampex', u'solar', u'anomalous', u'and', u'magnetospheric', u'particle', u'explorer', u'sao', u'smithsonian', u'astrophysical', u'observatory', u'sar', u'search', u'and', u'rescue', u'sar', u'synthetic', u'aperture', u'radar', u'sara', u'satellite', u'pour', u'astronomie', u'radio', u'amateur', u'sarex', u'search', u'and', u'rescue', u'exercise', u'sarex', u'shuttle', u'amateur', u'radio', u'experiment', u'sas', u'space', u'activity', u'suit', u'sas', u'space', u'adaptation', u'syndrome', u'sat', u'synthetic', u'aperture', u'telescope', u'sc', u'spacecraft', u'sca', u'shuttle', u'carrier', u'aircraft', u'sct', u'schmidtcassegrain', u'telescope', u'sdi', u'strategic', u'defense', u'initiative', u'sdio', u'strategic', u'defense', u'initiative', u'organization', u'sei', u'space', u'exploration', u'initiative', u'sest', u'swedish', u'eso', u'submillimeter', u'telescope', u'seti', u'search', u'for', u'extraterrestrial', u'intelligence', u'sid', u'sudden', u'ionospheric', u'disturbance', u'sir', u'shuttle', u'imaging', u'radar', u'sirtf', u'space', u'formerly', u'shuttle', u'infrared', u'telescope', u'facility', u'sl', u'spacelab', u'slar', u'sidelooking', u'airborne', u'radar', u'slc', u'space', u'launch', u'complex', u'sls', u'spacelab', u'life', u'sciences', u'smc', u'small', u'magellanic', u'cloud', u'sme', u'solar', u'mesosphere', u'explorer', u'smex', u'small', u'explorers', u'smm', u'solar', u'maximum', u'mission', u'sn', u'supernova', u'eg', u'sna', u'snr', u'signal', u'to', u'noise', u'ratio', u'snr', u'supernova', u'remnant', u'snu', u'solar', u'neutrino', u'units', u'sofia', u'stratospheric', u'observatory', u'for', u'infrared', u'astronomy', u'soho', u'solar', u'heliospheric', u'observatory', u'span', u'space', u'physics', u'and', u'analysis', u'network', u'spdm', u'special', u'purpose', u'dextrous', u'manipulator', u'spot', u'systeme', u'probatoire', u'pour', u'lobservation', u'de', u'la', u'terre', u'sps', u'solar', u'power', u'satellite', u'srb', u'solid', u'rocket', u'booster', u'srm', u'solid', u'rocket', u'motor', u'ssf', u'space', u'station', u'fred', u'er', u'freedom', u'ssi', u'solidstate', u'imager', u'on', u'galileo', u'ssi', u'space', u'studies', u'institut', u'ssme', u'space', u'shuttle', u'main', u'engine', u'sspf', u'space', u'station', u'processing', u'facility', u'ssrms', u'space', u'station', u'remote', u'manipulator', u'system', u'sst', u'spectroscopic', u'survey', u'telescope', u'sst', u'supersonic', u'transport', u'ssto', u'single', u'stage', u'to', u'orbit', u'stis', u'space', u'telescope', u'imaging', u'spectrometer', u'to', u'replace', u'foc', u'and', u'ghrs', u'sts', u'shuttle', u'transport', u'system', u'or', u'space', u'transportation', u'system', u'stsci', u'space', u'telescope', u'science', u'institute', u'swas', u'submillimeter', u'wave', u'astronomy', u'satellite', u'swf', u'shortwave', u'fading', u'tal', u'transatlantic', u'abort', u'landing', u'shuttle', u'abort', u'plan', u'tau', u'thousand', u'astronomical', u'unit', u'mission', u'tcs', u'thermal', u'control', u'system', u'tdrs', u'tracking', u'and', u'data', u'relay', u'satellite', u'tdrss', u'tracking', u'and', u'data', u'relay', u'satellite', u'system', u'tes', u'thermal', u'emission', u'spectrometer', u'on', u'mars', u'observer', u'tiros', u'television', u'infrared', u'observation', u'satellite', u'tla', u'three', u'letter', u'acronym', u'toms', u'total', u'ozone', u'mapping', u'spectrometer', u'tps', u'thermal', u'protection', u'system', u'tss', u'tethered', u'satellite', u'system', u'uars', u'upper', u'atmosphere', u'research', u'satellite', u'ubm', u'unpressurized', u'berthing', u'mechanism', u'udmh', u'unsymmetrical', u'dimethyl', u'hydrazine', u'ufo', u'unidentified', u'flying', u'object', u'ugc', u'uppsala', u'general', u'catalog', u'uhf', u'ultra', u'high', u'frequency', u'uit', u'ultraviolet', u'imaging', u'telescope', u'astro', u'package', u'ukst', u'united', u'kingdom', u'schmidt', u'telescope', u'usaf', u'united', u'states', u'air', u'force', u'usmp', u'united', u'states', u'microgravity', u'payload', u'ut', u'universal', u'time', u'aka', u'gmt', u'utc', u'or', u'zulu', u'time', u'utc', u'coordinated', u'universal', u'time', u'aka', u'ut', u'uv', u'ultraviolet', u'uvs', u'ultraviolet', u'spectrometer', u'vab', u'vehicle', u'assembly', u'building', u'formerly', u'vertical', u'assembly', u'building', u'vafb', u'vandenberg', u'air', u'force', u'base', u'veega', u'venusearthearth', u'gravity', u'assist', u'galileo', u'flight', u'path', u'vhf', u'very', u'high', u'frequency', u'vla', u'very', u'large', u'array', u'vlba', u'very', u'long', u'baseline', u'array', u'vlbi', u'very', u'long', u'baseline', u'interferometry', u'vlf', u'very', u'low', u'frequency', u'vlt', u'very', u'large', u'telescope', u'vms', u'vertical', u'motion', u'simulator', u'voir', u'venus', u'orbiting', u'imaging', u'radar', u'superseded', u'by', u'vrm', u'vpf', u'vertical', u'processing', u'facility', u'vrm', u'venus', u'radar', u'mapper', u'now', u'called', u'magellan', u'wd', u'white', u'dwarf', u'wfpc', u'wide', u'field', u'planetary', u'camera', u'on', u'hst', u'wfpcii', u'replacement', u'for', u'wfpc', u'wiyn', u'wisconsin', u'indiana', u'yale', u'noao', u'telescope', u'wsmr', u'white', u'sands', u'missile', u'range', u'wtr', u'western', u'test', u'range', u'wuppe', u'wisconsin', u'ultraviolet', u'photopolarimter', u'experiment', u'astro', u'package', u'xmm', u'xray', u'multi', u'mirror', u'xuv', u'extreme', u'ultraviolet', u'yso', u'young', u'stellar', u'object', u'usrbinperl', u'alt', u'an', u'acronym', u'scrambling', u'program', u'by', u'larry', u'wall', u'threshold', u'srand', u'while', u'next', u'unless', u'azs', u'key', u'acrokey', u'words', u'splitw', u'unshiftwordskey', u'off', u'foreach', u'word', u'words', u'next', u'unless', u'word', u'az', u'w', u'vecwword', u'off', u'foreach', u'letter', u'a', u'z', u'w', u'letter', u'w', u'keys', u'w', u'if', u'w', u'threshold', u'd', u'egrep', u'letter', u'usrdictwords', u'chop', u'd', u'pushw', u'd', u'foreach', u'key', u'sort', u'keys', u'acro', u'off', u'acro', u'acrokey', u'acro', u'sazazaz', u'pick', u'off', u'eg', u'print', u'key', u'acro', u'sub', u'pick', u'localletter', u'prefix', u'oldword', u'off', u'i', u'if', u'lengthprefix', u'indexkeyprefix', u'if', u'prefix', u'eq', u'oldword', u'prefix', u'else', u'prefix', u'letter', u'if', u'lengthprefix', u'localw', u'substrprefix', u'do', u'word', u'wrand', u'w', u'until', u'word', u'ne', u'oldword', u'word', u'prefixi', u'i', u'word', u'sprefixprefixi', u'word', u'elsif', u'lengthprefix', u'localw', u'prefix', u'do', u'word', u'wrand', u'w', u'until', u'word', u'ne', u'oldword', u'vecwword', u'off', u'i', u'word', u'ulword', u'if', u'word', u'trazaz', u'word', u'else', u'localw', u'substroldword', u'do', u'word', u'wrand', u'w', u'until', u'word', u'ne', u'oldword', u'word', u'trazaz', u'i', u'word']
+line is  excuse me for my ignorance. But I remember reading once that the 
+Biblical tribe known as the Philistines still exists...they are the modern 
+day Palestinians.
+Anyone out there with more info, please post it!!!  at j =  8
+words is  [u'excuse', u'me', u'for', u'my', u'ignorance', u'but', u'i', u'remember', u'reading', u'once', u'that', u'the', u'biblical', u'tribe', u'known', u'as', u'the', u'philistines', u'still', u'existsthey', u'are', u'the', u'modern', u'day', u'palestinians', u'anyone', u'out', u'there', u'with', u'more', u'info', u'please', u'post', u'it']
+line is  
+: Mr Connor's assertion that "more complex" == later in paleontology
+: is simply incorrect.  Many lineages are known in which whole
+: structures are lost -- for example, snakes have lost their legs.
+: Cave fish have lost their eyes.  Some species have almost completely
+: lost their males.  Kiwis are descended from birds with functional
+: wings.
+
+Joel,
+
+The statements I made were illustrative of the inescapably
+anthrpomorphic quality of any desciption of an evolutionary process.
+There is no way evolution can be described or explained in terms other
+than teleological, that is my whole point. Even those who have reason
+to believe they understand evolution (biologists for instance) tend to
+personify nature and I can't help but wonder if it's because of the
+limits of the language or the nature of nature.  at j =  9
+words is  [u'mr', u'connors', u'assertion', u'that', u'more', u'complex', u'later', u'in', u'paleontology', u'is', u'simply', u'incorrect', u'many', u'lineages', u'are', u'known', u'in', u'which', u'whole', u'structures', u'are', u'lost', u'for', u'example', u'snakes', u'have', u'lost', u'their', u'legs', u'cave', u'fish', u'have', u'lost', u'their', u'eyes', u'some', u'species', u'have', u'almost', u'completely', u'lost', u'their', u'males', u'kiwis', u'are', u'descended', u'from', u'birds', u'with', u'functional', u'wings', u'joel', u'the', u'statements', u'i', u'made', u'were', u'illustrative', u'of', u'the', u'inescapably', u'anthrpomorphic', u'quality', u'of', u'any', u'desciption', u'of', u'an', u'evolutionary', u'process', u'there', u'is', u'no', u'way', u'evolution', u'can', u'be', u'described', u'or', u'explained', u'in', u'terms', u'other', u'than', u'teleological', u'that', u'is', u'my', u'whole', u'point', u'even', u'those', u'who', u'have', u'reason', u'to', u'believe', u'they', u'understand', u'evolution', u'biologists', u'for', u'instance', u'tend', u'to', u'personify', u'nature', u'and', u'i', u'cant', u'help', u'but', u'wonder', u'if', u'its', u'because', u'of', u'the', u'limits', u'of', u'the', u'language', u'or', u'the', u'nature', u'of', u'nature']
+line is  
+
+AHA! He admits it! He IS a moral relativist!
+
+Keith, if you start wafffling on about how it is different for a human
+to maul someone thrown into it's cage (so to speak), you'd better start
+posting tome decent evidence or retract your 'I think there is an absolute
+morality' blurb a few weeks ago.
+
+
+The Desert Brat  at j =  10
+words is  [u'aha', u'he', u'admits', u'it', u'he', u'is', u'a', u'moral', u'relativist', u'keith', u'if', u'you', u'start', u'wafffling', u'on', u'about', u'how', u'it', u'is', u'different', u'for', u'a', u'human', u'to', u'maul', u'someone', u'thrown', u'into', u'its', u'cage', u'so', u'to', u'speak', u'youd', u'better', u'start', u'posting', u'tome', u'decent', u'evidence', u'or', u'retract', u'your', u'i', u'think', u'there', u'is', u'an', u'absolute', u'morality', u'blurb', u'a', u'few', u'weeks', u'ago', u'the', u'desert', u'brat']
+line is  This might a real wierd idea or maybe not..
+
+I have seen where people have blown up ballons then sprayed material into them
+that then drys and makes hard walls...
+
+Why not do the same thing for a space station..
+
+Fly up the docking rings and baloon materials and such, blow up the baloons,
+spin then around (I know a problem in micro gravity) let them dry/cure/harden?
+and cut a hole for the docking/attaching ring and bingo a space station..
+
+Of course the ballons would have to be foil covered or someother radiation
+protective covering/heat shield(?) and the material used to make the wals would
+have to meet the out gasing and other specs or atleast the paint/covering of
+the inner wall would have to be human safe.. Maybe a special congrete or maybe
+the same material as makes caplets but with some changes (saw where someone
+instea dof water put beer in the caplet mixture, got a mix that was just as
+strong as congret but easier to carry around and such..)
+
+Sorry for any spelling errors, I missed school today.. (grin)..
+
+Why musta  space station be so difficult?? why must we have girders? why be
+confined to earth based ideas, lets think new ideas, after all space is not
+earth, why be limited by earth based ideas??  at j =  11
+words is  [u'this', u'might', u'a', u'real', u'wierd', u'idea', u'or', u'maybe', u'not', u'i', u'have', u'seen', u'where', u'people', u'have', u'blown', u'up', u'ballons', u'then', u'sprayed', u'material', u'into', u'them', u'that', u'then', u'drys', u'and', u'makes', u'hard', u'walls', u'why', u'not', u'do', u'the', u'same', u'thing', u'for', u'a', u'space', u'station', u'fly', u'up', u'the', u'docking', u'rings', u'and', u'baloon', u'materials', u'and', u'such', u'blow', u'up', u'the', u'baloons', u'spin', u'then', u'around', u'i', u'know', u'a', u'problem', u'in', u'micro', u'gravity', u'let', u'them', u'drycureharden', u'and', u'cut', u'a', u'hole', u'for', u'the', u'dockingattaching', u'ring', u'and', u'bingo', u'a', u'space', u'station', u'of', u'course', u'the', u'ballons', u'would', u'have', u'to', u'be', u'foil', u'covered', u'or', u'someother', u'radiation', u'protective', u'coveringheat', u'shield', u'and', u'the', u'material', u'used', u'to', u'make', u'the', u'wals', u'would', u'have', u'to', u'meet', u'the', u'out', u'gasing', u'and', u'other', u'specs', u'or', u'atleast', u'the', u'paintcovering', u'of', u'the', u'inner', u'wall', u'would', u'have', u'to', u'be', u'human', u'safe', u'maybe', u'a', u'special', u'congrete', u'or', u'maybe', u'the', u'same', u'material', u'as', u'makes', u'caplets', u'but', u'with', u'some', u'changes', u'saw', u'where', u'someone', u'instea', u'dof', u'water', u'put', u'beer', u'in', u'the', u'caplet', u'mixture', u'got', u'a', u'mix', u'that', u'was', u'just', u'as', u'strong', u'as', u'congret', u'but', u'easier', u'to', u'carry', u'around', u'and', u'such', u'sorry', u'for', u'any', u'spelling', u'errors', u'i', u'missed', u'school', u'today', u'grin', u'why', u'musta', u'space', u'station', u'be', u'so', u'difficult', u'why', u'must', u'we', u'have', u'girders', u'why', u'be', u'confined', u'to', u'earth', u'based', u'ideas', u'lets', u'think', u'new', u'ideas', u'after', u'all', u'space', u'is', u'not', u'earth', u'why', u'be', u'limited', u'by', u'earth', u'based', u'ideas']
+line is  I've been following discussions about the Delta Clipper program, and I
+have one small question.  As I understand it, the DC-X derived orbital
+vehicle (DC-Y & 1) is to reenter the atmosphere sort of sideways, not
+completely nose-first.  So why is the DC-Y look symmetric in every drawing
+I've seen?  I would think that an asymmetric design, sort of like 
+wingless Orbiter, may work better, since less shielding is required on the
+top side.  Can anybody explain?  
+
+- Ken Kobayashi
+kkobayas@husc.harvard.edu
+
+--   at j =  12
+words is  [u'ive', u'been', u'following', u'discussions', u'about', u'the', u'delta', u'clipper', u'program', u'and', u'i', u'have', u'one', u'small', u'question', u'as', u'i', u'understand', u'it', u'the', u'dcx', u'derived', u'orbital', u'vehicle', u'dcy', u'is', u'to', u'reenter', u'the', u'atmosphere', u'sort', u'of', u'sideways', u'not', u'completely', u'nosefirst', u'so', u'why', u'is', u'the', u'dcy', u'look', u'symmetric', u'in', u'every', u'drawing', u'ive', u'seen', u'i', u'would', u'think', u'that', u'an', u'asymmetric', u'design', u'sort', u'of', u'like', u'wingless', u'orbiter', u'may', u'work', u'better', u'since', u'less', u'shielding', u'is', u'required', u'on', u'the', u'top', u'side', u'can', u'anybody', u'explain', u'ken', u'kobayashi', u'kkobayashuscharvardedu']
+line is  
+You'd need to launch HLVs to send up large amounts of stuff *if* you assume
+no new launcher development.  If you assume new launcher development, with
+lower costs as a specific objective, then you probably don't want to
+build something HLV-sized anyway.  at j =  13
+words is  [u'youd', u'need', u'to', u'launch', u'hlvs', u'to', u'send', u'up', u'large', u'amounts', u'of', u'stuff', u'if', u'you', u'assume', u'no', u'new', u'launcher', u'development', u'if', u'you', u'assume', u'new', u'launcher', u'development', u'with', u'lower', u'costs', u'as', u'a', u'specific', u'objective', u'then', u'you', u'probably', u'dont', u'want', u'to', u'build', u'something', u'hlvsized', u'anyway']
+line is  
+
+
+American, perhaps, but nothing military about it.  I learned (mostly)
+slugs when we talked English units in high school physics and while
+the teacher was an ex-Navy fighter jock the book certainly wasn't
+produced by the military.
+
+[Poundals were just too flinking small and made the math come out
+funny; sort of the same reason proponents of SI give for using that.] 
+
+-- 
+"Insisting on perfect safety is for people who don't have the balls to live
+ in the real world."   -- Mary Shafer, NASA Ames Dryden  at j =  14
+words is  [u'american', u'perhaps', u'but', u'nothing', u'military', u'about', u'it', u'i', u'learned', u'mostly', u'slugs', u'when', u'we', u'talked', u'english', u'units', u'in', u'high', u'school', u'physics', u'and', u'while', u'the', u'teacher', u'was', u'an', u'exnavy', u'fighter', u'jock', u'the', u'book', u'certainly', u'wasnt', u'produced', u'by', u'the', u'military', u'poundals', u'were', u'just', u'too', u'flinking', u'small', u'and', u'made', u'the', u'math', u'come', u'out', u'funny', u'sort', u'of', u'the', u'same', u'reason', u'proponents', u'of', u'si', u'give', u'for', u'using', u'that', u'insisting', u'on', u'perfect', u'safety', u'is', u'for', u'people', u'who', u'dont', u'have', u'the', u'balls', u'to', u'live', u'in', u'the', u'real', u'world', u'mary', u'shafer', u'nasa', u'ames', u'dryden']
+line is  How about transferring control to a non-profit organisation that is
+able to accept donations to keep craft operational.  at j =  15
+words is  [u'how', u'about', u'transferring', u'control', u'to', u'a', u'nonprofit', u'organisation', u'that', u'is', u'able', u'to', u'accept', u'donations', u'to', u'keep', u'craft', u'operational']
+line is  
+What do you mean by omnipotent here?  Do you mean by "omnipotent"
+that God should be able to do anything/everything?  This creates
+a self-contradictory definition of omnipotence which is effectively
+useless.
+
+To be descriptive, omnipotence must mean "being all-powerful" and
+not "being able to do anything/everything".
+
+Let me illustrate by analogy.
+Suppose the United States were the only nuclear power on earth.  Suppose
+further that the US military could not effectively be countered by any
+nation or group of nations.  The US has the power to go into any country
+at any time for any reason to straighten things out as the leaders of the
+US see fit.  The US would be militarily "omnipotent".
+
+But suppose further that the US holds to a doctrine/philosophy of not
+interfering in the internal affairs of any nation, such as the current
+civil war in the former Yugoslavian states.
+
+Technically (in this scenario) the US would have the power to 
+unilaterally go into Yugoslavia and straighten out the mess.  But
+effectively the US could not intervene without violating its own policy 
+of non-interference.  If the policy of non-interference were held to
+strongly enough, then there would never be a question that it would
+ever be violated.  Effectively, the US would be limited in what it
+could actually do, although it had the power to do "whatever it wanted".
+The US would simply "never want to interfere" for such an idea would
+be beyond the consideration of its leaders given such an inviolate
+non-interference policy.
+
+God is effectively limited in the same sense.  He is all powerful, but
+He cannot use His power in a way that would violate the essence of what
+He, Himself is.
+
+I hope this helps to clear up some of the misunderstanding concerning
+omnipotence.
+
+Regards,  at j =  16
+words is  [u'what', u'do', u'you', u'mean', u'by', u'omnipotent', u'here', u'do', u'you', u'mean', u'by', u'omnipotent', u'that', u'god', u'should', u'be', u'able', u'to', u'do', u'anythingeverything', u'this', u'creates', u'a', u'selfcontradictory', u'definition', u'of', u'omnipotence', u'which', u'is', u'effectively', u'useless', u'to', u'be', u'descriptive', u'omnipotence', u'must', u'mean', u'being', u'allpowerful', u'and', u'not', u'being', u'able', u'to', u'do', u'anythingeverything', u'let', u'me', u'illustrate', u'by', u'analogy', u'suppose', u'the', u'united', u'states', u'were', u'the', u'only', u'nuclear', u'power', u'on', u'earth', u'suppose', u'further', u'that', u'the', u'us', u'military', u'could', u'not', u'effectively', u'be', u'countered', u'by', u'any', u'nation', u'or', u'group', u'of', u'nations', u'the', u'us', u'has', u'the', u'power', u'to', u'go', u'into', u'any', u'country', u'at', u'any', u'time', u'for', u'any', u'reason', u'to', u'straighten', u'things', u'out', u'as', u'the', u'leaders', u'of', u'the', u'us', u'see', u'fit', u'the', u'us', u'would', u'be', u'militarily', u'omnipotent', u'but', u'suppose', u'further', u'that', u'the', u'us', u'holds', u'to', u'a', u'doctrinephilosophy', u'of', u'not', u'interfering', u'in', u'the', u'internal', u'affairs', u'of', u'any', u'nation', u'such', u'as', u'the', u'current', u'civil', u'war', u'in', u'the', u'former', u'yugoslavian', u'states', u'technically', u'in', u'this', u'scenario', u'the', u'us', u'would', u'have', u'the', u'power', u'to', u'unilaterally', u'go', u'into', u'yugoslavia', u'and', u'straighten', u'out', u'the', u'mess', u'but', u'effectively', u'the', u'us', u'could', u'not', u'intervene', u'without', u'violating', u'its', u'own', u'policy', u'of', u'noninterference', u'if', u'the', u'policy', u'of', u'noninterference', u'were', u'held', u'to', u'strongly', u'enough', u'then', u'there', u'would', u'never', u'be', u'a', u'question', u'that', u'it', u'would', u'ever', u'be', u'violated', u'effectively', u'the', u'us', u'would', u'be', u'limited', u'in', u'what', u'it', u'could', u'actually', u'do', u'although', u'it', u'had', u'the', u'power', u'to', u'do', u'whatever', u'it', u'wanted', u'the', u'us', u'would', u'simply', u'never', u'want', u'to', u'interfere', u'for', u'such', u'an', u'idea', u'would', u'be', u'beyond', u'the', u'consideration', u'of', u'its', u'leaders', u'given', u'such', u'an', u'inviolate', u'noninterference', u'policy', u'god', u'is', u'effectively', u'limited', u'in', u'the', u'same', u'sense', u'he', u'is', u'all', u'powerful', u'but', u'he', u'can', u'not', u'use', u'his', u'power', u'in', u'a', u'way', u'that', u'would', u'violate', u'the', u'essence', u'of', u'what', u'he', u'himself', u'is', u'i', u'hope', u'this', u'helps', u'to', u'clear', u'up', u'some', u'of', u'the', u'misunderstanding', u'concerning', u'omnipotence', u'regards']
+line is  
+Sorry.   Wrong.    This is how banks got started in the first place.
+Sooner or later your father and his pals will lend money to someone
+who eventually goes broke, and then they will realise that they
+havn't been managing risk very well.   Then they will ask themselves
+what it is that they need to quantify risk, and to persuade borrowers
+not to take on greater loans than they can carry.    And since they
+don't all want the worry of doing the calculations and handling the
+money, some of them will specialise in that.
+
+Then they'll reinvent interest, but like good Muslims, they'll call
+it something else.
+
+
+Riiiight.   That's why John Major opened a new government department
+a couple of months ago to help to promote minority business.   Because
+they can do it all themselves by lending one another cups of sugar.  at j =  17
+words is  [u'sorry', u'wrong', u'this', u'is', u'how', u'banks', u'got', u'started', u'in', u'the', u'first', u'place', u'sooner', u'or', u'later', u'your', u'father', u'and', u'his', u'pals', u'will', u'lend', u'money', u'to', u'someone', u'who', u'eventually', u'goes', u'broke', u'and', u'then', u'they', u'will', u'realise', u'that', u'they', u'havnt', u'been', u'managing', u'risk', u'very', u'well', u'then', u'they', u'will', u'ask', u'themselves', u'what', u'it', u'is', u'that', u'they', u'need', u'to', u'quantify', u'risk', u'and', u'to', u'persuade', u'borrowers', u'not', u'to', u'take', u'on', u'greater', u'loans', u'than', u'they', u'can', u'carry', u'and', u'since', u'they', u'dont', u'all', u'want', u'the', u'worry', u'of', u'doing', u'the', u'calculations', u'and', u'handling', u'the', u'money', u'some', u'of', u'them', u'will', u'specialise', u'in', u'that', u'then', u'theyll', u'reinvent', u'interest', u'but', u'like', u'good', u'muslims', u'theyll', u'call', u'it', u'something', u'else', u'riiiight', u'thats', u'why', u'john', u'major', u'opened', u'a', u'new', u'government', u'department', u'a', u'couple', u'of', u'months', u'ago', u'to', u'help', u'to', u'promote', u'minority', u'business', u'because', u'they', u'can', u'do', u'it', u'all', u'themselves', u'by', u'lending', u'one', u'another', u'cups', u'of', u'sugar']
+line is  We are not at the end of the Space Age, but only at the end of Its
+beginning.
+
+That space exploration is no longer a driver for technical innovation,
+or a focus of American cultural attention is certainly debatable; however,
+technical developments in other quarters will always be examined for
+possible applications in the space area and we can look forward to
+many innovations that might enhance the capabilities and lower the
+cost of future space operations. 
+
+The Dream is Alive and Well.  at j =  18
+words is  [u'we', u'are', u'not', u'at', u'the', u'end', u'of', u'the', u'space', u'age', u'but', u'only', u'at', u'the', u'end', u'of', u'its', u'beginning', u'that', u'space', u'exploration', u'is', u'no', u'longer', u'a', u'driver', u'for', u'technical', u'innovation', u'or', u'a', u'focus', u'of', u'american', u'cultural', u'attention', u'is', u'certainly', u'debatable', u'however', u'technical', u'developments', u'in', u'other', u'quarters', u'will', u'always', u'be', u'examined', u'for', u'possible', u'applications', u'in', u'the', u'space', u'area', u'and', u'we', u'can', u'look', u'forward', u'to', u'many', u'innovations', u'that', u'might', u'enhance', u'the', u'capabilities', u'and', u'lower', u'the', u'cost', u'of', u'future', u'space', u'operations', u'the', u'dream', u'is', u'alive', u'and', u'well']
+line is  What would all of you out there in net land think of the big 6 (Martin
+Mariatta, Boeing, Mcdonell Douglas, General Dynamics, Lockheed, Rockwell)
+getting together, and forming a consortium to study exactly what the market
+price pints are for building reusable launch vehicles, and spending say
+$3million to do that.  Recognizing that most of the military requirements
+for launch vehicles are pulled out of a hat somewhere (say, has the shuttle 
+ever really used that 1200mi crossrange capability?  You get the idea, figure
+out how many, how often, where to, etc...)
+
+Then taking this data, and forming a sematech type company (bad example, I
+know... but at least its an example...)  To develop between 3 and 5 craft
+designs.  Then to take all of those designs, and figure out EXACTLY what
+the technologies are, and demonstrate those technologies, in order to 
+eliminate designs that can't be built today.  And lets say that this
+portion again funded by the GOV cost about $20 million.
+
+And from here all of these companies went their separate ways, with the
+intention of taking all of the market data and the design data to wall
+street, and saying "I want to build this vehicle, and here are the numbers
+that show %20 ROI, fund me...)
+
+
+Now many of you think that this is a joke, but I have it on good authority that
+just this project is shaping up in the background. It seems that the aerospace
+companies have learned that everyone yelling similar but different things
+ends up in many programs that do nothing much and get canceled (NASP, NLS,
+ALS, DCY?, etc...)  They need to work more in the japaneese, and european
+spirit of initial cooperation.  They have also learned that design requirements
+that are phony (I.E. some generals idea of what a space vehicle ought to be)
+ends up getting chopped up in congress, because it is not a REAL requirement.
+
+Any feedback?  at j =  19
+words is  [u'what', u'would', u'all', u'of', u'you', u'out', u'there', u'in', u'net', u'land', u'think', u'of', u'the', u'big', u'martin', u'mariatta', u'boeing', u'mcdonell', u'douglas', u'general', u'dynamics', u'lockheed', u'rockwell', u'getting', u'together', u'and', u'forming', u'a', u'consortium', u'to', u'study', u'exactly', u'what', u'the', u'market', u'price', u'pints', u'are', u'for', u'building', u'reusable', u'launch', u'vehicles', u'and', u'spending', u'say', u'million', u'to', u'do', u'that', u'recognizing', u'that', u'most', u'of', u'the', u'military', u'requirements', u'for', u'launch', u'vehicles', u'are', u'pulled', u'out', u'of', u'a', u'hat', u'somewhere', u'say', u'has', u'the', u'shuttle', u'ever', u'really', u'used', u'that', u'mi', u'crossrange', u'capability', u'you', u'get', u'the', u'idea', u'figure', u'out', u'how', u'many', u'how', u'often', u'where', u'to', u'etc', u'then', u'taking', u'this', u'data', u'and', u'forming', u'a', u'sematech', u'type', u'company', u'bad', u'example', u'i', u'know', u'but', u'at', u'least', u'its', u'an', u'example', u'to', u'develop', u'between', u'and', u'craft', u'designs', u'then', u'to', u'take', u'all', u'of', u'those', u'designs', u'and', u'figure', u'out', u'exactly', u'what', u'the', u'technologies', u'are', u'and', u'demonstrate', u'those', u'technologies', u'in', u'order', u'to', u'eliminate', u'designs', u'that', u'cant', u'be', u'built', u'today', u'and', u'lets', u'say', u'that', u'this', u'portion', u'again', u'funded', u'by', u'the', u'gov', u'cost', u'about', u'million', u'and', u'from', u'here', u'all', u'of', u'these', u'companies', u'went', u'their', u'separate', u'ways', u'with', u'the', u'intention', u'of', u'taking', u'all', u'of', u'the', u'market', u'data', u'and', u'the', u'design', u'data', u'to', u'wall', u'street', u'and', u'saying', u'i', u'want', u'to', u'build', u'this', u'vehicle', u'and', u'here', u'are', u'the', u'numbers', u'that', u'show', u'roi', u'fund', u'me', u'now', u'many', u'of', u'you', u'think', u'that', u'this', u'is', u'a', u'joke', u'but', u'i', u'have', u'it', u'on', u'good', u'authority', u'that', u'just', u'this', u'project', u'is', u'shaping', u'up', u'in', u'the', u'background', u'it', u'seems', u'that', u'the', u'aerospace', u'companies', u'have', u'learned', u'that', u'everyone', u'yelling', u'similar', u'but', u'different', u'things', u'ends', u'up', u'in', u'many', u'programs', u'that', u'do', u'nothing', u'much', u'and', u'get', u'canceled', u'nasp', u'nls', u'als', u'dcy', u'etc', u'they', u'need', u'to', u'work', u'more', u'in', u'the', u'japaneese', u'and', u'european', u'spirit', u'of', u'initial', u'cooperation', u'they', u'have', u'also', u'learned', u'that', u'design', u'requirements', u'that', u'are', u'phony', u'ie', u'some', u'generals', u'idea', u'of', u'what', u'a', u'space', u'vehicle', u'ought', u'to', u'be', u'ends', u'up', u'getting', u'chopped', u'up', u'in', u'congress', u'because', u'it', u'is', u'not', u'a', u'real', u'requirement', u'any', u'feedback']
+line is  
+Well, this particular thread of vituperation slopped its venom over
+into alt.atheism, where we spend most of our time entertaining
+arguments against our belief system, without resorting to accusing
+others of bigotry.  It's somewhat ironic that our exposure to bigotry
+happens in this instance to have originated in rec.scouting, since I
+always understood scouting to teach tolerance and diversity.  I
+understand bigotry to be irrational prejudice against other people who
+happen to be of a different race, religion, ethnic background, sex, or
+other inconsequential characteristics.  All the evidence I've seen
+indicates that sexual orientation and lack of belief in gods are
+exactly such inconsequential characteristics.  Thus, pending further
+evidence, I conclude that those who show prejudice against such people
+are bigots, and organizations that exclude such people are
+discriminatory.  at j =  20
+words is  [u'well', u'this', u'particular', u'thread', u'of', u'vituperation', u'slopped', u'its', u'venom', u'over', u'into', u'altatheism', u'where', u'we', u'spend', u'most', u'of', u'our', u'time', u'entertaining', u'arguments', u'against', u'our', u'belief', u'system', u'without', u'resorting', u'to', u'accusing', u'others', u'of', u'bigotry', u'its', u'somewhat', u'ironic', u'that', u'our', u'exposure', u'to', u'bigotry', u'happens', u'in', u'this', u'instance', u'to', u'have', u'originated', u'in', u'recscouting', u'since', u'i', u'always', u'understood', u'scouting', u'to', u'teach', u'tolerance', u'and', u'diversity', u'i', u'understand', u'bigotry', u'to', u'be', u'irrational', u'prejudice', u'against', u'other', u'people', u'who', u'happen', u'to', u'be', u'of', u'a', u'different', u'race', u'religion', u'ethnic', u'background', u'sex', u'or', u'other', u'inconsequential', u'characteristics', u'all', u'the', u'evidence', u'ive', u'seen', u'indicates', u'that', u'sexual', u'orientation', u'and', u'lack', u'of', u'belief', u'in', u'gods', u'are', u'exactly', u'such', u'inconsequential', u'characteristics', u'thus', u'pending', u'further', u'evidence', u'i', u'conclude', u'that', u'those', u'who', u'show', u'prejudice', u'against', u'such', u'people', u'are', u'bigots', u'and', u'organizations', u'that', u'exclude', u'such', u'people', u'are', u'discriminatory']
+line is  
+Actually, Hiten wasn't originally intended to go into lunar orbit at all,
+so it indeed didn't have much fuel on hand.  The lunar-orbit mission was
+an afterthought, after Hagoromo (a tiny subsatellite deployed by Hiten
+during a lunar flyby) had a transmitter failure and its proper insertion
+into lunar orbit couldn't be positively confirmed.
+
+It should be noted that the technique does have disadvantages.  It takes
+a long time, and you end up with a relatively inconvenient lunar orbit.
+If you want something useful like a low circular polar orbit, you do have
+to plan to expend a certain amount of fuel, although it is reduced from
+what you'd need for the brute-force approach.  at j =  21
+words is  [u'actually', u'hiten', u'wasnt', u'originally', u'intended', u'to', u'go', u'into', u'lunar', u'orbit', u'at', u'all', u'so', u'it', u'indeed', u'didnt', u'have', u'much', u'fuel', u'on', u'hand', u'the', u'lunarorbit', u'mission', u'was', u'an', u'afterthought', u'after', u'hagoromo', u'a', u'tiny', u'subsatellite', u'deployed', u'by', u'hiten', u'during', u'a', u'lunar', u'flyby', u'had', u'a', u'transmitter', u'failure', u'and', u'its', u'proper', u'insertion', u'into', u'lunar', u'orbit', u'couldnt', u'be', u'positively', u'confirmed', u'it', u'should', u'be', u'noted', u'that', u'the', u'technique', u'does', u'have', u'disadvantages', u'it', u'takes', u'a', u'long', u'time', u'and', u'you', u'end', u'up', u'with', u'a', u'relatively', u'inconvenient', u'lunar', u'orbit', u'if', u'you', u'want', u'something', u'useful', u'like', u'a', u'low', u'circular', u'polar', u'orbit', u'you', u'do', u'have', u'to', u'plan', u'to', u'expend', u'a', u'certain', u'amount', u'of', u'fuel', u'although', u'it', u'is', u'reduced', u'from', u'what', u'youd', u'need', u'for', u'the', u'bruteforce', u'approach']
+line is  News-Software: UReply 3.1
+X-X-From: Wingert@VNET.IBM.com (Bret Wingert)
+            <C5uBn5.tz@zoo.toronto.edu>
+
+ ========================================================================
+A couple of points on this thread.
+
+1. We have been using our processes since way before Challenger.  Challenger
+   in and of it self did not uncover flaws.
+
+2. What Mr. Spencer says is by and large true.  We have a process that is
+   not dependent on "sophisticated tools"  (CASE tools?).  However, tools
+   cannot fix a bad process.  Also, tool support for HAL/S (the Shuttle
+   Language) is somewhat limited.
+
+3. The Onboard Flight Software project was rated "Level 5" by a NASA team.
+   This group generates 20-40 KSLOCs of verified code per year for NASA.
+
+4. Feel free to call me if you or your organization is interested in more info
+   on our software development process.
+
+Bret Wingert
+
+
+(713)-282-7534
+FAX: (713)-282-8077
+
+
+Bret Wingert
+ at j =  22
+words is  [u'newssoftware', u'ureply', u'xxfrom', u'wingertvnetibmcom', u'bret', u'wingert', u'cubntzzootorontoedu', u'a', u'couple', u'of', u'points', u'on', u'this', u'thread', u'we', u'have', u'been', u'using', u'our', u'processes', u'since', u'way', u'before', u'challenger', u'challenger', u'in', u'and', u'of', u'it', u'self', u'did', u'not', u'uncover', u'flaws', u'what', u'mr', u'spencer', u'says', u'is', u'by', u'and', u'large', u'true', u'we', u'have', u'a', u'process', u'that', u'is', u'not', u'dependent', u'on', u'sophisticated', u'tools', u'case', u'tools', u'however', u'tools', u'can', u'not', u'fix', u'a', u'bad', u'process', u'also', u'tool', u'support', u'for', u'hals', u'the', u'shuttle', u'language', u'is', u'somewhat', u'limited', u'the', u'onboard', u'flight', u'software', u'project', u'was', u'rated', u'level', u'by', u'a', u'nasa', u'team', u'this', u'group', u'generates', u'kslocs', u'of', u'verified', u'code', u'per', u'year', u'for', u'nasa', u'feel', u'free', u'to', u'call', u'me', u'if', u'you', u'or', u'your', u'organization', u'is', u'interested', u'in', u'more', u'info', u'on', u'our', u'software', u'development', u'process', u'bret', u'wingert', u'fax', u'bret', u'wingert']
+line is  
+  [snip]
+
+Honest, it just ended like that, I swear!  
+
+Hmmmm...I recognize the warning signs...alternating polite and
+rude...coming into newsgroup with huge chip on shoulder...calls
+people names and then makes nice...whirrr...click...whirrr
+
+"Clam" Bake Timmons = Bill "Shit Stirrer Connor"
+
+Q.E.D.
+
+Whirr click whirr...Frank O'Dwyer might also be contained
+in that shell...pop stack to determine...whirr...click..whirr
+
+"Killfile" Keith Allen Schneider = Frank "Closet Theist" O'Dwyer =
+
+the mind reels.  Maybe they're all Bobby Mozumder.
+
+-- 
+Maddi Hausmann                       madhaus@netcom.com
+Centigram Communications Corp        San Jose California  408/428-3553  at j =  23
+words is  [u'snip', u'honest', u'it', u'just', u'ended', u'like', u'that', u'i', u'swear', u'hmmmmi', u'recognize', u'the', u'warning', u'signsalternating', u'polite', u'and', u'rudecoming', u'into', u'newsgroup', u'with', u'huge', u'chip', u'on', u'shouldercalls', u'people', u'names', u'and', u'then', u'makes', u'nicewhirrrclickwhirrr', u'clam', u'bake', u'timmons', u'bill', u'shit', u'stirrer', u'connor', u'qed', u'whirr', u'click', u'whirrfrank', u'odwyer', u'might', u'also', u'be', u'contained', u'in', u'that', u'shellpop', u'stack', u'to', u'determinewhirrclickwhirr', u'killfile', u'keith', u'allen', u'schneider', u'frank', u'closet', u'theist', u'odwyer', u'the', u'mind', u'reels', u'maybe', u'theyre', u'all', u'bobby', u'mozumder', u'maddi', u'hausmann', u'madhausnetcomcom', u'centigram', u'communications', u'corp', u'san', u'jose', u'california']
+line is  )
+)That's your mistake.  It would be better for the children if the mother
+)raised the child.
+)
+)One thing that relates is among Navy men that get tatoos that say "Mom",
+)because of the love of their mom.  It makes for more virile men.
+)Compare that with how homos are raised.  Do a study and you will get my
+)point.
+)
+)But in no way do you have a claim that it would be better if the men
+)stayed home and raised the child.  That is something false made up by
+)feminists that seek a status above men.  You do not recognize the fact
+)that men and women have natural differences.  Not just physically, but
+)mentally also.
+) [...]
+)Your logic.  I didn't say americans were the cause of worlds problems, I
+)said atheists.
+) [...]
+)Becuase they have no code of ethics to follow, which means that atheists
+)can do whatever they want which they feel is right.  Something totally
+)based on their feelings and those feelings cloud their rational
+)thinking.
+) [...]
+)Yeah.  I didn't say that all atheists are bad, but that they could be
+)bad or good, with nothing to define bad or good.
+)
+
+  Awright!  Bobby's back, in all of his shit-for-brains glory.  Just
+  when I thought he'd turned the corner of progress, his Thorazine
+  prescription runs out.  
+
+  I'd put him in my kill file, but man, this is good stuff.  I wish
+  I had his staying power.
+
+  Fortunately, I learned not to take him too seriously long,long,long
+  ago.
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ 
+
+Bob Beauchaine bobbe@vice.ICO.TEK.COM 
+
+They said that Queens could stay, they blew the Bronx away,
+and sank Manhattan out at sea.  at j =  24
+words is  [u'thats', u'your', u'mistake', u'it', u'would', u'be', u'better', u'for', u'the', u'children', u'if', u'the', u'mother', u'raised', u'the', u'child', u'one', u'thing', u'that', u'relates', u'is', u'among', u'navy', u'men', u'that', u'get', u'tatoos', u'that', u'say', u'mom', u'because', u'of', u'the', u'love', u'of', u'their', u'mom', u'it', u'makes', u'for', u'more', u'virile', u'men', u'compare', u'that', u'with', u'how', u'homos', u'are', u'raised', u'do', u'a', u'study', u'and', u'you', u'will', u'get', u'my', u'point', u'but', u'in', u'no', u'way', u'do', u'you', u'have', u'a', u'claim', u'that', u'it', u'would', u'be', u'better', u'if', u'the', u'men', u'stayed', u'home', u'and', u'raised', u'the', u'child', u'that', u'is', u'something', u'false', u'made', u'up', u'by', u'feminists', u'that', u'seek', u'a', u'status', u'above', u'men', u'you', u'do', u'not', u'recognize', u'the', u'fact', u'that', u'men', u'and', u'women', u'have', u'natural', u'differences', u'not', u'just', u'physically', u'but', u'mentally', u'also', u'your', u'logic', u'i', u'didnt', u'say', u'americans', u'were', u'the', u'cause', u'of', u'worlds', u'problems', u'i', u'said', u'atheists', u'becuase', u'they', u'have', u'no', u'code', u'of', u'ethics', u'to', u'follow', u'which', u'means', u'that', u'atheists', u'can', u'do', u'whatever', u'they', u'want', u'which', u'they', u'feel', u'is', u'right', u'something', u'totally', u'based', u'on', u'their', u'feelings', u'and', u'those', u'feelings', u'cloud', u'their', u'rational', u'thinking', u'yeah', u'i', u'didnt', u'say', u'that', u'all', u'atheists', u'are', u'bad', u'but', u'that', u'they', u'could', u'be', u'bad', u'or', u'good', u'with', u'nothing', u'to', u'define', u'bad', u'or', u'good', u'awright', u'bobbys', u'back', u'in', u'all', u'of', u'his', u'shitforbrains', u'glory', u'just', u'when', u'i', u'thought', u'hed', u'turned', u'the', u'corner', u'of', u'progress', u'his', u'thorazine', u'prescription', u'runs', u'out', u'id', u'put', u'him', u'in', u'my', u'kill', u'file', u'but', u'man', u'this', u'is', u'good', u'stuff', u'i', u'wish', u'i', u'had', u'his', u'staying', u'power', u'fortunately', u'i', u'learned', u'not', u'to', u'take', u'him', u'too', u'seriously', u'longlonglong', u'ago', u'bob', u'beauchaine', u'bobbeviceicotekcom', u'they', u'said', u'that', u'queens', u'could', u'stay', u'they', u'blew', u'the', u'bronx', u'away', u'and', u'sank', u'manhattan', u'out', u'at', u'sea']
+line is  
+
+
+
+
+
+I have made this clear elsewhere but will do so again. Khomeini put a 
+price on the head of someone in another country, this makes him a jerk
+as well as an international outlaw. Khomeini advocates the view that
+there was a series of twelve Islamic leaders (the Twelve Imams) who
+are free of error or sin. This makes him a heretic. In the Qur'an 
+Muhammad is chastised for error directly by God; the Qur'an says that
+Muhammad is the greatest example of proper Islamic behavior; thus
+no muslim is free from error. 
+
+
+
+Perhaps it seems so to you, but this is hardly the case. There is
+widespread agreement about matters of Islam. There certainly are
+many viewpoints on issues which are not particularly Islamic in
+and of themselves, but this is so for any large group of people
+under the same name. 
+
+
+The Qur'an is not particularly imprecise in wording, though it is true
+that several interpretations are possible in the interpretations of
+many words. However, as an entire text the Qur'an makes its meanings
+precise enough for intelligent people free from power lust to come
+to agreement about them. 
+
+ at j =  25
+words is  [u'i', u'have', u'made', u'this', u'clear', u'elsewhere', u'but', u'will', u'do', u'so', u'again', u'khomeini', u'put', u'a', u'price', u'on', u'the', u'head', u'of', u'someone', u'in', u'another', u'country', u'this', u'makes', u'him', u'a', u'jerk', u'as', u'well', u'as', u'an', u'international', u'outlaw', u'khomeini', u'advocates', u'the', u'view', u'that', u'there', u'was', u'a', u'series', u'of', u'twelve', u'islamic', u'leaders', u'the', u'twelve', u'imams', u'who', u'are', u'free', u'of', u'error', u'or', u'sin', u'this', u'makes', u'him', u'a', u'heretic', u'in', u'the', u'quran', u'muhammad', u'is', u'chastised', u'for', u'error', u'directly', u'by', u'god', u'the', u'quran', u'says', u'that', u'muhammad', u'is', u'the', u'greatest', u'example', u'of', u'proper', u'islamic', u'behavior', u'thus', u'no', u'muslim', u'is', u'free', u'from', u'error', u'perhaps', u'it', u'seems', u'so', u'to', u'you', u'but', u'this', u'is', u'hardly', u'the', u'case', u'there', u'is', u'widespread', u'agreement', u'about', u'matters', u'of', u'islam', u'there', u'certainly', u'are', u'many', u'viewpoints', u'on', u'issues', u'which', u'are', u'not', u'particularly', u'islamic', u'in', u'and', u'of', u'themselves', u'but', u'this', u'is', u'so', u'for', u'any', u'large', u'group', u'of', u'people', u'under', u'the', u'same', u'name', u'the', u'quran', u'is', u'not', u'particularly', u'imprecise', u'in', u'wording', u'though', u'it', u'is', u'true', u'that', u'several', u'interpretations', u'are', u'possible', u'in', u'the', u'interpretations', u'of', u'many', u'words', u'however', u'as', u'an', u'entire', u'text', u'the', u'quran', u'makes', u'its', u'meanings', u'precise', u'enough', u'for', u'intelligent', u'people', u'free', u'from', u'power', u'lust', u'to', u'come', u'to', u'agreement', u'about', u'them']
+line is  
+
+
+
+
+
+
+What loyalty!
+
+Jim, it seems you've been reading a little too much Russell Hoban
+lately. As Hemingway said, my imitators always imitate the _bad_
+aspects of my writing. Hoban would, no doubt, say the same here.
+
+ at j =  26
+words is  [u'what', u'loyalty', u'jim', u'it', u'seems', u'youve', u'been', u'reading', u'a', u'little', u'too', u'much', u'russell', u'hoban', u'lately', u'as', u'hemingway', u'said', u'my', u'imitators', u'always', u'imitate', u'the', u'bad', u'aspects', u'of', u'my', u'writing', u'hoban', u'would', u'no', u'doubt', u'say', u'the', u'same', u'here']
+line is   
+
+
+It's not really their _decision_ to be tried. The rulings _do_ have
+legal consequences, but only in Islamic law and not in UK law (this
+should be obvious). Enforcing a judgment is distinct from the making
+of a judgment. Take for example the judgments of the World Court. This
+is an internationally recognized tribunal whose judgments often have no
+physical or economic effect but which _are_ important despite the fact
+that their judgments cannot be enforced
+
+
+
+Of course, have you read any of this thread before this post? 
+
+
+
+Of course, it is a sort of anarchism. Anarchism is explicitly against
+Islam. Thank you for your well reasoned response, but it is beside the
+points I've been making in this thread. 
+ at j =  27
+words is  [u'its', u'not', u'really', u'their', u'decision', u'to', u'be', u'tried', u'the', u'rulings', u'do', u'have', u'legal', u'consequences', u'but', u'only', u'in', u'islamic', u'law', u'and', u'not', u'in', u'uk', u'law', u'this', u'should', u'be', u'obvious', u'enforcing', u'a', u'judgment', u'is', u'distinct', u'from', u'the', u'making', u'of', u'a', u'judgment', u'take', u'for', u'example', u'the', u'judgments', u'of', u'the', u'world', u'court', u'this', u'is', u'an', u'internationally', u'recognized', u'tribunal', u'whose', u'judgments', u'often', u'have', u'no', u'physical', u'or', u'economic', u'effect', u'but', u'which', u'are', u'important', u'despite', u'the', u'fact', u'that', u'their', u'judgments', u'can', u'not', u'be', u'enforced', u'of', u'course', u'have', u'you', u'read', u'any', u'of', u'this', u'thread', u'before', u'this', u'post', u'of', u'course', u'it', u'is', u'a', u'sort', u'of', u'anarchism', u'anarchism', u'is', u'explicitly', u'against', u'islam', u'thank', u'you', u'for', u'your', u'well', u'reasoned', u'response', u'but', u'it', u'is', u'beside', u'the', u'points', u'ive', u'been', u'making', u'in', u'this', u'thread']
+line is  I have received my copies of Cosmonautics 1990 and
+Cosmonautics 1991, as well as Soviet Space 1990 and Space
+Station [MIR] Handbook from Aerospace Ambassadors with no
+problem.
+     I'm getting ready to FAX them some material in Huntsville,
+and I'll include a printout of your inquiry.
+ ____________________________________________________________  at j =  28
+words is  [u'i', u'have', u'received', u'my', u'copies', u'of', u'cosmonautics', u'and', u'cosmonautics', u'as', u'well', u'as', u'soviet', u'space', u'and', u'space', u'station', u'mir', u'handbook', u'from', u'aerospace', u'ambassadors', u'with', u'no', u'problem', u'im', u'getting', u'ready', u'to', u'fax', u'them', u'some', u'material', u'in', u'huntsville', u'and', u'ill', u'include', u'a', u'printout', u'of', u'your', u'inquiry']
+line is  
+That's the craziest thing I ever heard.   Are you serious?
+
+	"it doesn't take much work to be moral?"
+
+
+Really?   And that's why people discuss morality on a daily basis?
+Because it's a kind of evolutionary hangover, like your little toe?
+
+
+This must be some novel use of the phrase "based on" with which I
+am not sufficiently familiar.    What do you mean by "based on" and 
+what is the significance of it for your argument?
+
+
+Well, we can.   What would you like to know about my particular moral
+beliefs?
+
+If you raise a topic I've never considered, I'll be quite happy to 
+invent a moral belief out of thin air.  at j =  29
+words is  [u'thats', u'the', u'craziest', u'thing', u'i', u'ever', u'heard', u'are', u'you', u'serious', u'it', u'doesnt', u'take', u'much', u'work', u'to', u'be', u'moral', u'really', u'and', u'thats', u'why', u'people', u'discuss', u'morality', u'on', u'a', u'daily', u'basis', u'because', u'its', u'a', u'kind', u'of', u'evolutionary', u'hangover', u'like', u'your', u'little', u'toe', u'this', u'must', u'be', u'some', u'novel', u'use', u'of', u'the', u'phrase', u'based', u'on', u'with', u'which', u'i', u'am', u'not', u'sufficiently', u'familiar', u'what', u'do', u'you', u'mean', u'by', u'based', u'on', u'and', u'what', u'is', u'the', u'significance', u'of', u'it', u'for', u'your', u'argument', u'well', u'we', u'can', u'what', u'would', u'you', u'like', u'to', u'know', u'about', u'my', u'particular', u'moral', u'beliefs', u'if', u'you', u'raise', u'a', u'topic', u'ive', u'never', u'considered', u'ill', u'be', u'quite', u'happy', u'to', u'invent', u'a', u'moral', u'belief', u'out', u'of', u'thin', u'air']
+line is  Archive-name: space/controversy
+Last-modified: $Date: 93/04/01 14:39:06 $
+
+CONTROVERSIAL QUESTIONS
+
+    These issues periodically come up with much argument and few facts being
+    offered. The summaries below attempt to represent the position on which
+    much of the net community has settled. Please DON'T bring them up again
+    unless there's something truly new to be discussed. The net can't set
+    public policy, that's what your representatives are for.
+
+
+    WHAT HAPPENED TO THE SATURN V PLANS
+
+    Despite a widespread belief to the contrary, the Saturn V blueprints
+    have not been lost. They are kept at Marshall Space Flight Center on
+    microfilm.
+
+    The problem in re-creating the Saturn V is not finding the drawings, it
+    is finding vendors who can supply mid-1960's vintage hardware (like
+    guidance system components), and the fact that the launch pads and VAB
+    have been converted to Space Shuttle use, so you have no place to launch
+    from.
+
+    By the time you redesign to accommodate available hardware and re-modify
+    the launch pads, you may as well have started from scratch with a clean
+    sheet design.
+
+
+    WHY DATA FROM SPACE MISSIONS ISN'T IMMEDIATELY AVAILABLE
+
+    Investigators associated with NASA missions are allowed exclusive access
+    for one year after the data is obtained in order to give them an
+    opportunity to analyze the data and publish results without being
+    "scooped" by people uninvolved in the mission. However, NASA frequently
+    releases examples (in non-digital form, e.g. photos) to the public early
+    in a mission.
+
+
+    RISKS OF NUCLEAR (RTG) POWER SOURCES FOR SPACE PROBES
+
+    There has been extensive discussion on this topic sparked by attempts to
+    block the Galileo and Ulysses launches on grounds of the plutonium
+    thermal sources being dangerous. Numerous studies claim that even in
+    worst-case scenarios (shuttle explosion during launch, or accidental
+    reentry at interplanetary velocities), the risks are extremely small.
+    Two interesting data points are (1) The May 1968 loss of two SNAP 19B2
+    RTGs, which landed intact in the Pacific Ocean after a Nimbus B weather
+    satellite failed to reach orbit. The fuel was recovered after 5 months
+    with no release of plutonium. (2) In April 1970, the Apollo 13 lunar
+    module reentered the atmosphere and its SNAP 27 RTG heat source, which
+    was jettisoned, fell intact into the 20,000 feet deep Tonga Trench in
+    the Pacific Ocean. The corrosion resistant materials of the RTG are
+    expected to prevent release of the fuel for a period of time equal to 10
+    half-lives of the Pu-238 fuel or about 870 years [DOE 1980].
+
+    To make your own informed judgement, some references you may wish to
+    pursue are:
+
+    A good review of the technical facts and issues is given by Daniel
+    Salisbury in "Radiation Risk and Planetary Exploration-- The RTG
+    Controversy," *Planetary Report*, May-June 1987, pages 3-7. Another good
+    article, which also reviews the events preceding Galileo's launch,
+    "Showdown at Pad 39-B," by Robert G. Nichols, appeared in the November
+    1989 issue of *Ad Astra*. (Both magazines are published by pro-space
+    organizations, the Planetary Society and the National Space Society
+    respectively.)
+
+    Gordon L Chipman, Jr., "Advanced Space Nuclear Systems" (AAS 82-261), in
+    *Developing the Space Frontier*, edited by Albert Naumann and Grover
+    Alexander, Univelt, 1983, p. 193-213.
+
+    "Hazards from Plutonium Toxicity", by Bernard L. Cohen, Health Physics,
+    Vol 32 (may) 1977, page 359-379.
+
+    NUS Corporation, Safety Status Report for the Ulysses Mission: Risk
+    Analysis (Book 1). Document number is NUS 5235; there is no GPO #;
+    published Jan 31, 1990.
+
+    NASA Office of Space Science and Applications, *Final Environmental
+    Impact Statement for the Ulysses Mission (Tier 2)*, (no serial number or
+    GPO number, but probably available from NTIS or NASA) June 1990.
+
+    [DOE 1980] U.S.  Department of Energy, *Transuranic Elements in the
+    Environment*, Wayne C.  Hanson, editor; DOE Document No.  DOE/TIC-22800;
+    Government Printing Office, Washington, D.C., April 1980.)
+
+
+    IMPACT OF THE SPACE SHUTTLE ON THE OZONE LAYER
+
+    From time to time, claims are made that chemicals released from
+    the Space Shuttle's Solid Rocket Boosters (SRBs) are responsible
+    for a significant amount of damage to the ozone layer. Studies
+    indicate that they in reality have only a minute impact, both in
+    absolute terms and relative to other chemical sources. The
+    remainder of this item is a response from the author of the quoted
+    study, Charles Jackman.
+
+    The atmospheric modelling study of the space shuttle effects on the
+    stratosphere involved three independent theoretical groups, and was
+    organized by Dr. Michael Prather, NASA/Goddard Institute for Space
+    Studies.  The three groups involved Michael Prather and Maria Garcia
+    (NASA/GISS), Charlie Jackman and Anne Douglass (NASA/Goddard Space
+    Flight Center), and Malcolm Ko and Dak Sze (Atmospheric and
+    Environmental Research, Inc.).  The effort was to look at the effects
+    of the space shuttle and Titan rockets on the stratosphere.
+
+    The following are the estimated sources of stratospheric chlorine:
+
+       Industrial sources:    300,000,000 kilograms/year
+	  Natural sources:     75,000,000 kilograms/year
+	  Shuttle sources:	  725,000 kilograms/year
+
+    The shuttle source assumes 9 space shuttles and 6 Titan rockets are
+    launched yearly. Thus the launches would add less than 0.25% to the
+    total stratospheric chlorine sources.
+
+    The effect on ozone is minimal:  global yearly average total ozone would
+    be decreased by 0.0065%. This is much less than total ozone variability
+    associated with volcanic activity and solar flares.
+
+    The influence of human-made chlorine products on ozone is computed
+    by atmospheric model calculations to be a 1% decrease in globally
+    averaged ozone between 1980 and 1990. The influence of the space shuttle and
+    Titan rockets on the stratosphere is negligible.  The launch
+    schedule of the Space Shuttle and Titan rockets would need to be
+    increased by over a factor of a hundred in order to have about
+    the same effect on ozone as our increases in industrial halocarbons
+    do at the present time.
+
+    Theoretical results of this study have been published in _The Space
+    Shuttle's Impact on the Stratosphere_, MJ Prather, MM Garcia, AR
+    Douglass, CH Jackman, M.K.W. Ko and N.D. Sze, Journal of Geophysical
+    Research, 95, 18583-18590, 1990.
+
+    Charles Jackman, Atmospheric Chemistry and Dynamics Branch,
+    Code 916, NASA/Goddard Space Flight Center,
+    Greenbelt, MD  20771
+
+    Also see _Chemical Rockets and the Environment_, A McDonald, R Bennett,
+    J Hinshaw, and M Barnes, Aerospace America, May 1991.
+
+
+    HOW LONG CAN A HUMAN LIVE UNPROTECTED IN SPACE
+
+    If you *don't* try to hold your breath, exposure to space for half a
+    minute or so is unlikely to produce permanent injury. Holding your
+    breath is likely to damage your lungs, something scuba divers have to
+    watch out for when ascending, and you'll have eardrum trouble if your
+    Eustachian tubes are badly plugged up, but theory predicts -- and animal
+    experiments confirm -- that otherwise, exposure to vacuum causes no
+    immediate injury. You do not explode. Your blood does not boil. You do
+    not freeze. You do not instantly lose consciousness.
+
+    Various minor problems (sunburn, possibly "the bends", certainly some
+    [mild, reversible, painless] swelling of skin and underlying tissue)
+    start after ten seconds or so. At some point you lose consciousness from
+    lack of oxygen. Injuries accumulate. After perhaps one or two minutes,
+    you're dying. The limits are not really known.
+
+    References:
+
+    _The Effect on the Chimpanzee of Rapid Decompression to a Near Vacuum_,
+    Alfred G. Koestler ed., NASA CR-329 (Nov 1965).
+
+    _Experimental Animal Decompression to a Near Vacuum Environment_, R.W.
+    Bancroft, J.E. Dunn, eds, Report SAM-TR-65-48 (June 1965), USAF School
+    of Aerospace Medicine, Brooks AFB, Texas.
+
+
+    HOW THE CHALLENGER ASTRONAUTS DIED
+
+    The Challenger shuttle launch was not destroyed in an explosion. This is
+    a well-documented fact; see the Rogers Commission report, for example.
+    What looked like an explosion was fuel burning after the external tank
+    came apart. The forces on the crew cabin were not sufficient to kill the
+    astronauts, never mind destroy their bodies, according to the Kerwin
+    team's medical/forensic report.
+
+    The astronauts were killed when the more-or-less intact cabin hit the
+    water at circa 200MPH, and their bodies then spent several weeks
+    underwater. Their remains were recovered, and after the Kerwin team
+    examined them, they were sent off to be buried.
+
+
+    USING THE SHUTTLE BEYOND LOW EARTH ORBIT
+
+    You can't use the shuttle orbiter for missions beyond low Earth orbit
+    because it can't get there. It is big and heavy and does not carry
+    enough fuel, even if you fill part of the cargo bay with tanks.
+
+    Furthermore, it is not particularly sensible to do so, because much of
+    that weight is things like wings, which are totally useless except in
+    the immediate vicinity of the Earth. The shuttle orbiter is highly
+    specialized for travel between Earth's surface and low orbit. Taking it
+    higher is enormously costly and wasteful. A much better approach would
+    be to use shuttle subsystems to build a specialized high-orbit
+    spacecraft.
+
+    [Yet another concise answer by Henry Spencer.]
+
+
+    THE "FACE ON MARS"
+
+    There really is a big rock on Mars that looks remarkably like a humanoid
+    face. It appears in two different frames of Viking Orbiter imagery:
+    35A72 (much more facelike in appearance, and the one more often
+    published, with the Sun 10 degrees above western horizon) and 70A13
+    (with the Sun 27 degrees from the west).
+
+    Science writer Richard Hoagland has championed the idea that the Face is
+    artificial, intended to resemble a human, and erected by an
+    extraterrestrial civilization. Most other analysts concede that the
+    resemblance is most likely accidental. Other Viking images show a
+    smiley-faced crater and a lava flow resembling Kermit the Frog elsewhere
+    on Mars. There exists a Mars Anomalies Research Society (sorry, don't
+    know the address) to study the Face.
+
+    The Mars Observer mission will carry an extremely high-resolution
+    camera, and better images of the formation will hopefully settle this
+    question in a few years. In the meantime, speculation about the Face is
+    best carried on in the altnet group alt.alien.visitors, not sci.space or
+    sci.astro.
+
+    V. DiPeitro and G. Molenaar, *Unusual Martian Surface Features*, Mars
+    Research, P.O. Box 284, Glen Dale, Maryland, USA, 1982. $18 by mail.
+
+    R.R. Pozos, *The Face of Mars*, Chicago Review Press, 1986. [Account of
+    an interdisciplinary speculative conference Hoagland organized to
+    investigate the Face]
+
+    R.C. Hoagland, *The Monuments of Mars: A City on the Edge of Forever*,
+    North Atlantic Books, Berkeley, California, USA, 1987. [Elaborate
+    discussion of evidence and speculation that formations near the Face
+    form a city]
+
+    M.J. Carlotto, "Digital Imagery Analysis of Unusual Martian Surface
+    Features," *Applied Optics*, 27, pp. 1926-1933, 1987. [Extracts
+    three-dimensional model for the Face from the 2-D images]
+
+    M.J. Carlotto & M.C. Stein, "A Method of Searching for Artificial
+    Objects on Planetary Surfaces," *Journal of the British Interplanetary
+    Society*, Vol. 43 no. 5 (May 1990), p.209-216. [Uses a fractal image
+    analysis model to guess whether the Face is artificial]
+
+    B. O'Leary, "Analysis of Images of the `Face' on Mars and Possible
+    Intelligent Origin," *JBIS*, Vol. 43 no. 5 (May 1990), p. 203-208.
+    [Lights Carlotto's model from the two angles and shows it's consistent;
+    shows that the Face doesn't look facelike if observed from the surface]
+ at j =  30
+words is  [u'archivename', u'spacecontroversy', u'lastmodified', u'date', u'controversial', u'questions', u'these', u'issues', u'periodically', u'come', u'up', u'with', u'much', u'argument', u'and', u'few', u'facts', u'being', u'offered', u'the', u'summaries', u'below', u'attempt', u'to', u'represent', u'the', u'position', u'on', u'which', u'much', u'of', u'the', u'net', u'community', u'has', u'settled', u'please', u'dont', u'bring', u'them', u'up', u'again', u'unless', u'theres', u'something', u'truly', u'new', u'to', u'be', u'discussed', u'the', u'net', u'cant', u'set', u'public', u'policy', u'thats', u'what', u'your', u'representatives', u'are', u'for', u'what', u'happened', u'to', u'the', u'saturn', u'v', u'plans', u'despite', u'a', u'widespread', u'belief', u'to', u'the', u'contrary', u'the', u'saturn', u'v', u'blueprints', u'have', u'not', u'been', u'lost', u'they', u'are', u'kept', u'at', u'marshall', u'space', u'flight', u'center', u'on', u'microfilm', u'the', u'problem', u'in', u'recreating', u'the', u'saturn', u'v', u'is', u'not', u'finding', u'the', u'drawings', u'it', u'is', u'finding', u'vendors', u'who', u'can', u'supply', u'mids', u'vintage', u'hardware', u'like', u'guidance', u'system', u'components', u'and', u'the', u'fact', u'that', u'the', u'launch', u'pads', u'and', u'vab', u'have', u'been', u'converted', u'to', u'space', u'shuttle', u'use', u'so', u'you', u'have', u'no', u'place', u'to', u'launch', u'from', u'by', u'the', u'time', u'you', u'redesign', u'to', u'accommodate', u'available', u'hardware', u'and', u'remodify', u'the', u'launch', u'pads', u'you', u'may', u'as', u'well', u'have', u'started', u'from', u'scratch', u'with', u'a', u'clean', u'sheet', u'design', u'why', u'data', u'from', u'space', u'missions', u'isnt', u'immediately', u'available', u'investigators', u'associated', u'with', u'nasa', u'missions', u'are', u'allowed', u'exclusive', u'access', u'for', u'one', u'year', u'after', u'the', u'data', u'is', u'obtained', u'in', u'order', u'to', u'give', u'them', u'an', u'opportunity', u'to', u'analyze', u'the', u'data', u'and', u'publish', u'results', u'without', u'being', u'scooped', u'by', u'people', u'uninvolved', u'in', u'the', u'mission', u'however', u'nasa', u'frequently', u'releases', u'examples', u'in', u'nondigital', u'form', u'eg', u'photos', u'to', u'the', u'public', u'early', u'in', u'a', u'mission', u'risks', u'of', u'nuclear', u'rtg', u'power', u'sources', u'for', u'space', u'probes', u'there', u'has', u'been', u'extensive', u'discussion', u'on', u'this', u'topic', u'sparked', u'by', u'attempts', u'to', u'block', u'the', u'galileo', u'and', u'ulysses', u'launches', u'on', u'grounds', u'of', u'the', u'plutonium', u'thermal', u'sources', u'being', u'dangerous', u'numerous', u'studies', u'claim', u'that', u'even', u'in', u'worstcase', u'scenarios', u'shuttle', u'explosion', u'during', u'launch', u'or', u'accidental', u'reentry', u'at', u'interplanetary', u'velocities', u'the', u'risks', u'are', u'extremely', u'small', u'two', u'interesting', u'data', u'points', u'are', u'the', u'may', u'loss', u'of', u'two', u'snap', u'b', u'rtgs', u'which', u'landed', u'intact', u'in', u'the', u'pacific', u'ocean', u'after', u'a', u'nimbus', u'b', u'weather', u'satellite', u'failed', u'to', u'reach', u'orbit', u'the', u'fuel', u'was', u'recovered', u'after', u'months', u'with', u'no', u'release', u'of', u'plutonium', u'in', u'april', u'the', u'apollo', u'lunar', u'module', u'reentered', u'the', u'atmosphere', u'and', u'its', u'snap', u'rtg', u'heat', u'source', u'which', u'was', u'jettisoned', u'fell', u'intact', u'into', u'the', u'feet', u'deep', u'tonga', u'trench', u'in', u'the', u'pacific', u'ocean', u'the', u'corrosion', u'resistant', u'materials', u'of', u'the', u'rtg', u'are', u'expected', u'to', u'prevent', u'release', u'of', u'the', u'fuel', u'for', u'a', u'period', u'of', u'time', u'equal', u'to', u'halflives', u'of', u'the', u'pu', u'fuel', u'or', u'about', u'years', u'doe', u'to', u'make', u'your', u'own', u'informed', u'judgement', u'some', u'references', u'you', u'may', u'wish', u'to', u'pursue', u'are', u'a', u'good', u'review', u'of', u'the', u'technical', u'facts', u'and', u'issues', u'is', u'given', u'by', u'daniel', u'salisbury', u'in', u'radiation', u'risk', u'and', u'planetary', u'exploration', u'the', u'rtg', u'controversy', u'planetary', u'report', u'mayjune', u'pages', u'another', u'good', u'article', u'which', u'also', u'reviews', u'the', u'events', u'preceding', u'galileos', u'launch', u'showdown', u'at', u'pad', u'b', u'by', u'robert', u'g', u'nichols', u'appeared', u'in', u'the', u'november', u'issue', u'of', u'ad', u'astra', u'both', u'magazines', u'are', u'published', u'by', u'prospace', u'organizations', u'the', u'planetary', u'society', u'and', u'the', u'national', u'space', u'society', u'respectively', u'gordon', u'l', u'chipman', u'jr', u'advanced', u'space', u'nuclear', u'systems', u'aas', u'in', u'developing', u'the', u'space', u'frontier', u'edited', u'by', u'albert', u'naumann', u'and', u'grover', u'alexander', u'univelt', u'p', u'hazards', u'from', u'plutonium', u'toxicity', u'by', u'bernard', u'l', u'cohen', u'health', u'physics', u'vol', u'may', u'page', u'nus', u'corporation', u'safety', u'status', u'report', u'for', u'the', u'ulysses', u'mission', u'risk', u'analysis', u'book', u'document', u'number', u'is', u'nus', u'there', u'is', u'no', u'gpo', u'published', u'jan', u'nasa', u'office', u'of', u'space', u'science', u'and', u'applications', u'final', u'environmental', u'impact', u'statement', u'for', u'the', u'ulysses', u'mission', u'tier', u'no', u'serial', u'number', u'or', u'gpo', u'number', u'but', u'probably', u'available', u'from', u'ntis', u'or', u'nasa', u'june', u'doe', u'us', u'department', u'of', u'energy', u'transuranic', u'elements', u'in', u'the', u'environment', u'wayne', u'c', u'hanson', u'editor', u'doe', u'document', u'no', u'doetic', u'government', u'printing', u'office', u'washington', u'dc', u'april', u'impact', u'of', u'the', u'space', u'shuttle', u'on', u'the', u'ozone', u'layer', u'from', u'time', u'to', u'time', u'claims', u'are', u'made', u'that', u'chemicals', u'released', u'from', u'the', u'space', u'shuttles', u'solid', u'rocket', u'boosters', u'srbs', u'are', u'responsible', u'for', u'a', u'significant', u'amount', u'of', u'damage', u'to', u'the', u'ozone', u'layer', u'studies', u'indicate', u'that', u'they', u'in', u'reality', u'have', u'only', u'a', u'minute', u'impact', u'both', u'in', u'absolute', u'terms', u'and', u'relative', u'to', u'other', u'chemical', u'sources', u'the', u'remainder', u'of', u'this', u'item', u'is', u'a', u'response', u'from', u'the', u'author', u'of', u'the', u'quoted', u'study', u'charles', u'jackman', u'the', u'atmospheric', u'modelling', u'study', u'of', u'the', u'space', u'shuttle', u'effects', u'on', u'the', u'stratosphere', u'involved', u'three', u'independent', u'theoretical', u'groups', u'and', u'was', u'organized', u'by', u'dr', u'michael', u'prather', u'nasagoddard', u'institute', u'for', u'space', u'studies', u'the', u'three', u'groups', u'involved', u'michael', u'prather', u'and', u'maria', u'garcia', u'nasagiss', u'charlie', u'jackman', u'and', u'anne', u'douglass', u'nasagoddard', u'space', u'flight', u'center', u'and', u'malcolm', u'ko', u'and', u'dak', u'sze', u'atmospheric', u'and', u'environmental', u'research', u'inc', u'the', u'effort', u'was', u'to', u'look', u'at', u'the', u'effects', u'of', u'the', u'space', u'shuttle', u'and', u'titan', u'rockets', u'on', u'the', u'stratosphere', u'the', u'following', u'are', u'the', u'estimated', u'sources', u'of', u'stratospheric', u'chlorine', u'industrial', u'sources', u'kilogramsyear', u'natural', u'sources', u'kilogramsyear', u'shuttle', u'sources', u'kilogramsyear', u'the', u'shuttle', u'source', u'assumes', u'space', u'shuttles', u'and', u'titan', u'rockets', u'are', u'launched', u'yearly', u'thus', u'the', u'launches', u'would', u'add', u'less', u'than', u'to', u'the', u'total', u'stratospheric', u'chlorine', u'sources', u'the', u'effect', u'on', u'ozone', u'is', u'minimal', u'global', u'yearly', u'average', u'total', u'ozone', u'would', u'be', u'decreased', u'by', u'this', u'is', u'much', u'less', u'than', u'total', u'ozone', u'variability', u'associated', u'with', u'volcanic', u'activity', u'and', u'solar', u'flares', u'the', u'influence', u'of', u'humanmade', u'chlorine', u'products', u'on', u'ozone', u'is', u'computed', u'by', u'atmospheric', u'model', u'calculations', u'to', u'be', u'a', u'decrease', u'in', u'globally', u'averaged', u'ozone', u'between', u'and', u'the', u'influence', u'of', u'the', u'space', u'shuttle', u'and', u'titan', u'rockets', u'on', u'the', u'stratosphere', u'is', u'negligible', u'the', u'launch', u'schedule', u'of', u'the', u'space', u'shuttle', u'and', u'titan', u'rockets', u'would', u'need', u'to', u'be', u'increased', u'by', u'over', u'a', u'factor', u'of', u'a', u'hundred', u'in', u'order', u'to', u'have', u'about', u'the', u'same', u'effect', u'on', u'ozone', u'as', u'our', u'increases', u'in', u'industrial', u'halocarbons', u'do', u'at', u'the', u'present', u'time', u'theoretical', u'results', u'of', u'this', u'study', u'have', u'been', u'published', u'in', u'the', u'space', u'shuttles', u'impact', u'on', u'the', u'stratosphere', u'mj', u'prather', u'mm', u'garcia', u'ar', u'douglass', u'ch', u'jackman', u'mkw', u'ko', u'and', u'nd', u'sze', u'journal', u'of', u'geophysical', u'research', u'charles', u'jackman', u'atmospheric', u'chemistry', u'and', u'dynamics', u'branch', u'code', u'nasagoddard', u'space', u'flight', u'center', u'greenbelt', u'md', u'also', u'see', u'chemical', u'rockets', u'and', u'the', u'environment', u'a', u'mcdonald', u'r', u'bennett', u'j', u'hinshaw', u'and', u'm', u'barnes', u'aerospace', u'america', u'may', u'how', u'long', u'can', u'a', u'human', u'live', u'unprotected', u'in', u'space', u'if', u'you', u'dont', u'try', u'to', u'hold', u'your', u'breath', u'exposure', u'to', u'space', u'for', u'half', u'a', u'minute', u'or', u'so', u'is', u'unlikely', u'to', u'produce', u'permanent', u'injury', u'holding', u'your', u'breath', u'is', u'likely', u'to', u'damage', u'your', u'lungs', u'something', u'scuba', u'divers', u'have', u'to', u'watch', u'out', u'for', u'when', u'ascending', u'and', u'youll', u'have', u'eardrum', u'trouble', u'if', u'your', u'eustachian', u'tubes', u'are', u'badly', u'plugged', u'up', u'but', u'theory', u'predicts', u'and', u'animal', u'experiments', u'confirm', u'that', u'otherwise', u'exposure', u'to', u'vacuum', u'causes', u'no', u'immediate', u'injury', u'you', u'do', u'not', u'explode', u'your', u'blood', u'does', u'not', u'boil', u'you', u'do', u'not', u'freeze', u'you', u'do', u'not', u'instantly', u'lose', u'consciousness', u'various', u'minor', u'problems', u'sunburn', u'possibly', u'the', u'bends', u'certainly', u'some', u'mild', u'reversible', u'painless', u'swelling', u'of', u'skin', u'and', u'underlying', u'tissue', u'start', u'after', u'ten', u'seconds', u'or', u'so', u'at', u'some', u'point', u'you', u'lose', u'consciousness', u'from', u'lack', u'of', u'oxygen', u'injuries', u'accumulate', u'after', u'perhaps', u'one', u'or', u'two', u'minutes', u'youre', u'dying', u'the', u'limits', u'are', u'not', u'really', u'known', u'references', u'the', u'effect', u'on', u'the', u'chimpanzee', u'of', u'rapid', u'decompression', u'to', u'a', u'near', u'vacuum', u'alfred', u'g', u'koestler', u'ed', u'nasa', u'cr', u'nov', u'experimental', u'animal', u'decompression', u'to', u'a', u'near', u'vacuum', u'environment', u'rw', u'bancroft', u'je', u'dunn', u'eds', u'report', u'samtr', u'june', u'usaf', u'school', u'of', u'aerospace', u'medicine', u'brooks', u'afb', u'texas', u'how', u'the', u'challenger', u'astronauts', u'died', u'the', u'challenger', u'shuttle', u'launch', u'was', u'not', u'destroyed', u'in', u'an', u'explosion', u'this', u'is', u'a', u'welldocumented', u'fact', u'see', u'the', u'rogers', u'commission', u'report', u'for', u'example', u'what', u'looked', u'like', u'an', u'explosion', u'was', u'fuel', u'burning', u'after', u'the', u'external', u'tank', u'came', u'apart', u'the', u'forces', u'on', u'the', u'crew', u'cabin', u'were', u'not', u'sufficient', u'to', u'kill', u'the', u'astronauts', u'never', u'mind', u'destroy', u'their', u'bodies', u'according', u'to', u'the', u'kerwin', u'teams', u'medicalforensic', u'report', u'the', u'astronauts', u'were', u'killed', u'when', u'the', u'moreorless', u'intact', u'cabin', u'hit', u'the', u'water', u'at', u'circa', u'mph', u'and', u'their', u'bodies', u'then', u'spent', u'several', u'weeks', u'underwater', u'their', u'remains', u'were', u'recovered', u'and', u'after', u'the', u'kerwin', u'team', u'examined', u'them', u'they', u'were', u'sent', u'off', u'to', u'be', u'buried', u'using', u'the', u'shuttle', u'beyond', u'low', u'earth', u'orbit', u'you', u'cant', u'use', u'the', u'shuttle', u'orbiter', u'for', u'missions', u'beyond', u'low', u'earth', u'orbit', u'because', u'it', u'cant', u'get', u'there', u'it', u'is', u'big', u'and', u'heavy', u'and', u'does', u'not', u'carry', u'enough', u'fuel', u'even', u'if', u'you', u'fill', u'part', u'of', u'the', u'cargo', u'bay', u'with', u'tanks', u'furthermore', u'it', u'is', u'not', u'particularly', u'sensible', u'to', u'do', u'so', u'because', u'much', u'of', u'that', u'weight', u'is', u'things', u'like', u'wings', u'which', u'are', u'totally', u'useless', u'except', u'in', u'the', u'immediate', u'vicinity', u'of', u'the', u'earth', u'the', u'shuttle', u'orbiter', u'is', u'highly', u'specialized', u'for', u'travel', u'between', u'earths', u'surface', u'and', u'low', u'orbit', u'taking', u'it', u'higher', u'is', u'enormously', u'costly', u'and', u'wasteful', u'a', u'much', u'better', u'approach', u'would', u'be', u'to', u'use', u'shuttle', u'subsystems', u'to', u'build', u'a', u'specialized', u'highorbit', u'spacecraft', u'yet', u'another', u'concise', u'answer', u'by', u'henry', u'spencer', u'the', u'face', u'on', u'mars', u'there', u'really', u'is', u'a', u'big', u'rock', u'on', u'mars', u'that', u'looks', u'remarkably', u'like', u'a', u'humanoid', u'face', u'it', u'appears', u'in', u'two', u'different', u'frames', u'of', u'viking', u'orbiter', u'imagery', u'a', u'much', u'more', u'facelike', u'in', u'appearance', u'and', u'the', u'one', u'more', u'often', u'published', u'with', u'the', u'sun', u'degrees', u'above', u'western', u'horizon', u'and', u'a', u'with', u'the', u'sun', u'degrees', u'from', u'the', u'west', u'science', u'writer', u'richard', u'hoagland', u'has', u'championed', u'the', u'idea', u'that', u'the', u'face', u'is', u'artificial', u'intended', u'to', u'resemble', u'a', u'human', u'and', u'erected', u'by', u'an', u'extraterrestrial', u'civilization', u'most', u'other', u'analysts', u'concede', u'that', u'the', u'resemblance', u'is', u'most', u'likely', u'accidental', u'other', u'viking', u'images', u'show', u'a', u'smileyfaced', u'crater', u'and', u'a', u'lava', u'flow', u'resembling', u'kermit', u'the', u'frog', u'elsewhere', u'on', u'mars', u'there', u'exists', u'a', u'mars', u'anomalies', u'research', u'society', u'sorry', u'dont', u'know', u'the', u'address', u'to', u'study', u'the', u'face', u'the', u'mars', u'observer', u'mission', u'will', u'carry', u'an', u'extremely', u'highresolution', u'camera', u'and', u'better', u'images', u'of', u'the', u'formation', u'will', u'hopefully', u'settle', u'this', u'question', u'in', u'a', u'few', u'years', u'in', u'the', u'meantime', u'speculation', u'about', u'the', u'face', u'is', u'best', u'carried', u'on', u'in', u'the', u'altnet', u'group', u'altalienvisitors', u'not', u'scispace', u'or', u'sciastro', u'v', u'dipeitro', u'and', u'g', u'molenaar', u'unusual', u'martian', u'surface', u'features', u'mars', u'research', u'po', u'box', u'glen', u'dale', u'maryland', u'usa', u'by', u'mail', u'rr', u'pozos', u'the', u'face', u'of', u'mars', u'chicago', u'review', u'press', u'account', u'of', u'an', u'interdisciplinary', u'speculative', u'conference', u'hoagland', u'organized', u'to', u'investigate', u'the', u'face', u'rc', u'hoagland', u'the', u'monuments', u'of', u'mars', u'a', u'city', u'on', u'the', u'edge', u'of', u'forever', u'north', u'atlantic', u'books', u'berkeley', u'california', u'usa', u'elaborate', u'discussion', u'of', u'evidence', u'and', u'speculation', u'that', u'formations', u'near', u'the', u'face', u'form', u'a', u'city', u'mj', u'carlotto', u'digital', u'imagery', u'analysis', u'of', u'unusual', u'martian', u'surface', u'features', u'applied', u'optics', u'pp', u'extracts', u'threedimensional', u'model', u'for', u'the', u'face', u'from', u'the', u'd', u'images', u'mj', u'carlotto', u'mc', u'stein', u'a', u'method', u'of', u'searching', u'for', u'artificial', u'objects', u'on', u'planetary', u'surfaces', u'journal', u'of', u'the', u'british', u'interplanetary', u'society', u'vol', u'no', u'may', u'p', u'uses', u'a', u'fractal', u'image', u'analysis', u'model', u'to', u'guess', u'whether', u'the', u'face', u'is', u'artificial', u'b', u'oleary', u'analysis', u'of', u'images', u'of', u'the', u'face', u'on', u'mars', u'and', u'possible', u'intelligent', u'origin', u'jbis', u'vol', u'no', u'may', u'p', u'lights', u'carlottos', u'model', u'from', u'the', u'two', u'angles', u'and', u'shows', u'its', u'consistent', u'shows', u'that', u'the', u'face', u'doesnt', u'look', u'facelike', u'if', u'observed', u'from', u'the', u'surface']
+line is  One thing I think is interesting about alt.athiesm is the fact that
+without bible-thumpers and their ilk this would be a much duller newsgroup.
+It almost needs the deluded masses to write silly things for athiests to
+tear apart. Oh well, that little tidbit aside here is what I really wanted
+write about.
+
+      How can anyone believe in such a sorry document as the bible? If you
+want to be religious aren't there more plausable books out there? Seriously,
+the bible was written by multiple authors who repeatedly contradict each
+other. One minute it tells you to kill your kid if he talks back and the next
+it says not to kill at all. I think that if xtians really want to follow a
+deity they should pick one that can be consistent, unlike the last one they
+invented.
+
+      For people who say Jesus was the son of god, didn't god say not to
+EVER put ANYONE else before him? Looks like you did just that. Didn't god
+say not to make any symbols or idols? What are crosses then? Don't you think
+that if you do in fact believe in the bible that you are rather far off track?
+
+Was Jesus illiterate? Why didn't he write anything? Anyone know?
+
+      I honestly hope that people who believe in the bible understand that
+it is just one of the religious texts out there and that it is one of the
+poorer quality ones to boot. The only reason xtianity escaped the middle east
+is because a certain roman who's wine was poisoned with lead made all of rome
+xtian after a bad dream.
+
+      If this posting keeps one person, just ONE person, from standing on a
+streetcorner and telling people they are going to hell I will be happy.
+
+
+
+ at j =  31
+words is  [u'one', u'thing', u'i', u'think', u'is', u'interesting', u'about', u'altathiesm', u'is', u'the', u'fact', u'that', u'without', u'biblethumpers', u'and', u'their', u'ilk', u'this', u'would', u'be', u'a', u'much', u'duller', u'newsgroup', u'it', u'almost', u'needs', u'the', u'deluded', u'masses', u'to', u'write', u'silly', u'things', u'for', u'athiests', u'to', u'tear', u'apart', u'oh', u'well', u'that', u'little', u'tidbit', u'aside', u'here', u'is', u'what', u'i', u'really', u'wanted', u'write', u'about', u'how', u'can', u'anyone', u'believe', u'in', u'such', u'a', u'sorry', u'document', u'as', u'the', u'bible', u'if', u'you', u'want', u'to', u'be', u'religious', u'arent', u'there', u'more', u'plausable', u'books', u'out', u'there', u'seriously', u'the', u'bible', u'was', u'written', u'by', u'multiple', u'authors', u'who', u'repeatedly', u'contradict', u'each', u'other', u'one', u'minute', u'it', u'tells', u'you', u'to', u'kill', u'your', u'kid', u'if', u'he', u'talks', u'back', u'and', u'the', u'next', u'it', u'says', u'not', u'to', u'kill', u'at', u'all', u'i', u'think', u'that', u'if', u'xtians', u'really', u'want', u'to', u'follow', u'a', u'deity', u'they', u'should', u'pick', u'one', u'that', u'can', u'be', u'consistent', u'unlike', u'the', u'last', u'one', u'they', u'invented', u'for', u'people', u'who', u'say', u'jesus', u'was', u'the', u'son', u'of', u'god', u'didnt', u'god', u'say', u'not', u'to', u'ever', u'put', u'anyone', u'else', u'before', u'him', u'looks', u'like', u'you', u'did', u'just', u'that', u'didnt', u'god', u'say', u'not', u'to', u'make', u'any', u'symbols', u'or', u'idols', u'what', u'are', u'crosses', u'then', u'dont', u'you', u'think', u'that', u'if', u'you', u'do', u'in', u'fact', u'believe', u'in', u'the', u'bible', u'that', u'you', u'are', u'rather', u'far', u'off', u'track', u'was', u'jesus', u'illiterate', u'why', u'didnt', u'he', u'write', u'anything', u'anyone', u'know', u'i', u'honestly', u'hope', u'that', u'people', u'who', u'believe', u'in', u'the', u'bible', u'understand', u'that', u'it', u'is', u'just', u'one', u'of', u'the', u'religious', u'texts', u'out', u'there', u'and', u'that', u'it', u'is', u'one', u'of', u'the', u'poorer', u'quality', u'ones', u'to', u'boot', u'the', u'only', u'reason', u'xtianity', u'escaped', u'the', u'middle', u'east', u'is', u'because', u'a', u'certain', u'roman', u'whos', u'wine', u'was', u'poisoned', u'with', u'lead', u'made', u'all', u'of', u'rome', u'xtian', u'after', u'a', u'bad', u'dream', u'if', u'this', u'posting', u'keeps', u'one', u'person', u'just', u'one', u'person', u'from', u'standing', u'on', u'a', u'streetcorner', u'and', u'telling', u'people', u'they', u'are', u'going', u'to', u'hell', u'i', u'will', u'be', u'happy']
+line is  Is there a few Grasp pictures of space related items, namely Space Station
+Designs, so you can see the "finished" revolt around..
+
+If you don't know what a grasp prograsm is.. Check out some adult entertainment
+files and see what I mean.. Or maybe geta few GIF files and create a "slide
+shows" (I think Cshow can do this)..   at j =  32
+words is  [u'is', u'there', u'a', u'few', u'grasp', u'pictures', u'of', u'space', u'related', u'items', u'namely', u'space', u'station', u'designs', u'so', u'you', u'can', u'see', u'the', u'finished', u'revolt', u'around', u'if', u'you', u'dont', u'know', u'what', u'a', u'grasp', u'prograsm', u'is', u'check', u'out', u'some', u'adult', u'entertainment', u'files', u'and', u'see', u'what', u'i', u'mean', u'or', u'maybe', u'geta', u'few', u'gif', u'files', u'and', u'create', u'a', u'slide', u'shows', u'i', u'think', u'cshow', u'can', u'do', u'this']
+line is  
+Then not murdering would have no moral significance, since there
+would be nothing voluntary about it.
+
+
+You are starting to get the point.   Mimicry is not necessarily the 
+same as the action being imitated.   A Parrot saying "Pretty Polly" 
+isn't necessarily commenting on the pulchritude of Polly.
+
+
+See above.
+
+
+They do.   I and other posters have given you many examples of exactly
+this, but you seem to have a very short memory.
+
+
+I'm saying:
+
+	"There must be the possibility that the organism - it's not 
+	just people we are talking about - can consider alternatives."
+
+It's right there in the posting you are replying to.  at j =  33
+words is  [u'then', u'not', u'murdering', u'would', u'have', u'no', u'moral', u'significance', u'since', u'there', u'would', u'be', u'nothing', u'voluntary', u'about', u'it', u'you', u'are', u'starting', u'to', u'get', u'the', u'point', u'mimicry', u'is', u'not', u'necessarily', u'the', u'same', u'as', u'the', u'action', u'being', u'imitated', u'a', u'parrot', u'saying', u'pretty', u'polly', u'isnt', u'necessarily', u'commenting', u'on', u'the', u'pulchritude', u'of', u'polly', u'see', u'above', u'they', u'do', u'i', u'and', u'other', u'posters', u'have', u'given', u'you', u'many', u'examples', u'of', u'exactly', u'this', u'but', u'you', u'seem', u'to', u'have', u'a', u'very', u'short', u'memory', u'im', u'saying', u'there', u'must', u'be', u'the', u'possibility', u'that', u'the', u'organism', u'its', u'not', u'just', u'people', u'we', u'are', u'talking', u'about', u'can', u'consider', u'alternatives', u'its', u'right', u'there', u'in', u'the', u'posting', u'you', u'are', u'replying', u'to']
+line is  
+
+See, we are disagreeing on the definition of moral here.  Earlier, you said
+that it must be a conscious act.  By your definition, no instinctive
+behavior pattern could be an act of morality.  You are trying to apply
+human terms to non-humans.  I think that even if someone is not conscious
+of an alternative, this does not prevent his behavior from being moral.
+
+
+I try to show it, but by your definition, it can't be shown.
+
+And, morality can be thought of a large class of princples.  It could be
+defined in terms of many things--the laws of physics if you wish.  However,
+it seems silly to talk of a "moral" planet because it obeys the laws of
+phyics.  It is less silly to talk about animals, as they have at least
+some free will.  at j =  34
+words is  [u'see', u'we', u'are', u'disagreeing', u'on', u'the', u'definition', u'of', u'moral', u'here', u'earlier', u'you', u'said', u'that', u'it', u'must', u'be', u'a', u'conscious', u'act', u'by', u'your', u'definition', u'no', u'instinctive', u'behavior', u'pattern', u'could', u'be', u'an', u'act', u'of', u'morality', u'you', u'are', u'trying', u'to', u'apply', u'human', u'terms', u'to', u'nonhumans', u'i', u'think', u'that', u'even', u'if', u'someone', u'is', u'not', u'conscious', u'of', u'an', u'alternative', u'this', u'does', u'not', u'prevent', u'his', u'behavior', u'from', u'being', u'moral', u'i', u'try', u'to', u'show', u'it', u'but', u'by', u'your', u'definition', u'it', u'cant', u'be', u'shown', u'and', u'morality', u'can', u'be', u'thought', u'of', u'a', u'large', u'class', u'of', u'princples', u'it', u'could', u'be', u'defined', u'in', u'terms', u'of', u'many', u'thingsthe', u'laws', u'of', u'physics', u'if', u'you', u'wish', u'however', u'it', u'seems', u'silly', u'to', u'talk', u'of', u'a', u'moral', u'planet', u'because', u'it', u'obeys', u'the', u'laws', u'of', u'phyics', u'it', u'is', u'less', u'silly', u'to', u'talk', u'about', u'animals', u'as', u'they', u'have', u'at', u'least', u'some', u'free', u'will']
+line is  As for SF and advertising in space. There is a romantic episode
+in Mead's "The Big Ball of Wax" where the lovers are watching 
+the constellation Pepsi Cola rising over the horizon and noting
+the some 'stars' had slipped cause the Teamsters were on strike.
+
+This was the inspiration for my article on orbiting a formation
+of space mirrors published in Spaceflight in 1986. As the reviews
+but is it aesthetically desirable?  These days the only aesthetics
+that count are the ones you can count!  at j =  35
+words is  [u'as', u'for', u'sf', u'and', u'advertising', u'in', u'space', u'there', u'is', u'a', u'romantic', u'episode', u'in', u'meads', u'the', u'big', u'ball', u'of', u'wax', u'where', u'the', u'lovers', u'are', u'watching', u'the', u'constellation', u'pepsi', u'cola', u'rising', u'over', u'the', u'horizon', u'and', u'noting', u'the', u'some', u'stars', u'had', u'slipped', u'cause', u'the', u'teamsters', u'were', u'on', u'strike', u'this', u'was', u'the', u'inspiration', u'for', u'my', u'article', u'on', u'orbiting', u'a', u'formation', u'of', u'space', u'mirrors', u'published', u'in', u'spaceflight', u'in', u'as', u'the', u'reviews', u'but', u'is', u'it', u'aesthetically', u'desirable', u'these', u'days', u'the', u'only', u'aesthetics', u'that', u'count', u'are', u'the', u'ones', u'you', u'can', u'count']
+line is  
+J> YOU BLASHEPHEMERS!!! YOU WILL ALL GO TO HELL FOR NOT BELIEVING IN GOD!!!!  BE
+J> PREPARED FOR YOUR ETERNAL DAMNATION!!!
+
+Hmm, I've got my MST3K lunch box, my travel scrabble, and a couple of
+kegs of Bass Ale.  I'm all set!  Let's go everybody!   at j =  36
+words is  [u'j', u'you', u'blashephemers', u'you', u'will', u'all', u'go', u'to', u'hell', u'for', u'not', u'believing', u'in', u'god', u'be', u'j', u'prepared', u'for', u'your', u'eternal', u'damnation', u'hmm', u'ive', u'got', u'my', u'mstk', u'lunch', u'box', u'my', u'travel', u'scrabble', u'and', u'a', u'couple', u'of', u'kegs', u'of', u'bass', u'ale', u'im', u'all', u'set', u'lets', u'go', u'everybody']
+line is  
+As far as I know, tigers are not sentient.  If I were pushed into a pool with
+some dolphins and they attacked me, I might be inclined to blame the dolphins
+rather than the person doing the pushing, as (a) dolphins are not usually
+aggressive and (b) they seem to have well-developed brains and a capacity for
+abstract thought.
+
+As a matter of fact, tigers rarely attack humans unless the human provokes
+them.  Of course, if they are in a cage which is far too small, that might
+count as provocation...
+ at j =  37
+words is  [u'as', u'far', u'as', u'i', u'know', u'tigers', u'are', u'not', u'sentient', u'if', u'i', u'were', u'pushed', u'into', u'a', u'pool', u'with', u'some', u'dolphins', u'and', u'they', u'attacked', u'me', u'i', u'might', u'be', u'inclined', u'to', u'blame', u'the', u'dolphins', u'rather', u'than', u'the', u'person', u'doing', u'the', u'pushing', u'as', u'a', u'dolphins', u'are', u'not', u'usually', u'aggressive', u'and', u'b', u'they', u'seem', u'to', u'have', u'welldeveloped', u'brains', u'and', u'a', u'capacity', u'for', u'abstract', u'thought', u'as', u'a', u'matter', u'of', u'fact', u'tigers', u'rarely', u'attack', u'humans', u'unless', u'the', u'human', u'provokes', u'them', u'of', u'course', u'if', u'they', u'are', u'in', u'a', u'cage', u'which', u'is', u'far', u'too', u'small', u'that', u'might', u'count', u'as', u'provocation']
+line is  ------- Blind-Carbon-Copy
+
+To: spacenews@austen.rand.org, cti@austen.rand.org
+Subject: White House outlines options for station, Russian cooperation
+Date: Tue, 06 Apr 93 16:00:21 PDT
+From: Richard Buenneke <buenneke@austen.rand.org>
+
+4/06/93:  GIBBONS OUTLINES SPACE STATION REDESIGN GUIDANCE
+
+NASA Headquarters, Washington, D.C.
+April 6, 1993
+
+RELEASE:  93-64
+
+        Dr.  John H.  Gibbons, Director, Office of Science and Technology
+Policy, outlined to the members-designate of the Advisory Committee on the
+Redesign of the Space Station on April 3, three budget options as guidance
+to the committee in their deliberations on the redesign of the space
+station.
+
+        A low option of $5 billion, a mid-range option of $7 billion and a
+high option of $9 billion will be considered by the committee.  Each
+option would cover the total expenditures for space station from fiscal
+year 1994 through 1998 and would include funds for development,
+operations, utilization, Shuttle integration, facilities, research
+operations support, transition cost and also must include adequate program
+reserves to insure program implementation within the available funds.
+
+        Over the next 5 years, $4 billion is reserved within the NASA
+budget for the President's new technology investment.  As a result,
+station options above $7 billion must be accompanied by offsetting
+reductions in the rest of the NASA budget.  For example, a space station
+option of $9 billion would require $2 billion in offsets from the NASA
+budget over the next 5 years.
+
+        Gibbons presented the information at an organizational session of
+the advisory committee.  Generally, the members-designate focused upon
+administrative topics and used the session to get acquainted.  They also
+received a legal and ethics briefing and an orientation on the process the
+Station Redesign Team is following to develop options for the advisory
+committee to consider.
+
+        Gibbons also announced that the United States and its
+international partners -- the Europeans, Japanese and Canadians -- have
+decided, after consultation, to give "full consideration" to use of
+Russian assets in the course of the space station redesign process.
+
+        To that end, the Russians will be asked to participate in the
+redesign effort on an as-needed consulting basis, so that the redesign
+team can make use of their expertise in assessing the capabilities of MIR
+and the possible use of MIR and other Russian capabilities and systems.
+The U.S. and international partners hope to benefit from the expertise of
+the Russian participants in assessing Russian systems and technology.  The
+overall goal of the redesign effort is to develop options for reducing
+station costs while preserving key research and exploration capabilitiaes.
+Careful integration of Russian assets could be a key factor in achieving
+that goal.
+
+        Gibbons reiterated that, "President Clinton is committed to the
+redesigned space station and to making every effort to preserve the
+science, the technology and the jobs that the space station program
+represents.  However, he also is committed to a space station that is well
+managed and one that does not consume the national resources which should
+be used to invest in the future of this industry and this nation."
+
+        NASA Administrator Daniel S.  Goldin said the Russian
+participation will be accomplished through the East-West Space Science
+Center at the University of Maryland under the leadership of Roald
+Sagdeev.  at j =  38
+words is  [u'blindcarboncopy', u'to', u'spacenewsaustenrandorg', u'ctiaustenrandorg', u'subject', u'white', u'house', u'outlines', u'options', u'for', u'station', u'russian', u'cooperation', u'date', u'tue', u'apr', u'pdt', u'from', u'richard', u'buenneke', u'buennekeaustenrandorg', u'gibbons', u'outlines', u'space', u'station', u'redesign', u'guidance', u'nasa', u'headquarters', u'washington', u'dc', u'april', u'release', u'dr', u'john', u'h', u'gibbons', u'director', u'office', u'of', u'science', u'and', u'technology', u'policy', u'outlined', u'to', u'the', u'membersdesignate', u'of', u'the', u'advisory', u'committee', u'on', u'the', u'redesign', u'of', u'the', u'space', u'station', u'on', u'april', u'three', u'budget', u'options', u'as', u'guidance', u'to', u'the', u'committee', u'in', u'their', u'deliberations', u'on', u'the', u'redesign', u'of', u'the', u'space', u'station', u'a', u'low', u'option', u'of', u'billion', u'a', u'midrange', u'option', u'of', u'billion', u'and', u'a', u'high', u'option', u'of', u'billion', u'will', u'be', u'considered', u'by', u'the', u'committee', u'each', u'option', u'would', u'cover', u'the', u'total', u'expenditures', u'for', u'space', u'station', u'from', u'fiscal', u'year', u'through', u'and', u'would', u'include', u'funds', u'for', u'development', u'operations', u'utilization', u'shuttle', u'integration', u'facilities', u'research', u'operations', u'support', u'transition', u'cost', u'and', u'also', u'must', u'include', u'adequate', u'program', u'reserves', u'to', u'insure', u'program', u'implementation', u'within', u'the', u'available', u'funds', u'over', u'the', u'next', u'years', u'billion', u'is', u'reserved', u'within', u'the', u'nasa', u'budget', u'for', u'the', u'presidents', u'new', u'technology', u'investment', u'as', u'a', u'result', u'station', u'options', u'above', u'billion', u'must', u'be', u'accompanied', u'by', u'offsetting', u'reductions', u'in', u'the', u'rest', u'of', u'the', u'nasa', u'budget', u'for', u'example', u'a', u'space', u'station', u'option', u'of', u'billion', u'would', u'require', u'billion', u'in', u'offsets', u'from', u'the', u'nasa', u'budget', u'over', u'the', u'next', u'years', u'gibbons', u'presented', u'the', u'information', u'at', u'an', u'organizational', u'session', u'of', u'the', u'advisory', u'committee', u'generally', u'the', u'membersdesignate', u'focused', u'upon', u'administrative', u'topics', u'and', u'used', u'the', u'session', u'to', u'get', u'acquainted', u'they', u'also', u'received', u'a', u'legal', u'and', u'ethics', u'briefing', u'and', u'an', u'orientation', u'on', u'the', u'process', u'the', u'station', u'redesign', u'team', u'is', u'following', u'to', u'develop', u'options', u'for', u'the', u'advisory', u'committee', u'to', u'consider', u'gibbons', u'also', u'announced', u'that', u'the', u'united', u'states', u'and', u'its', u'international', u'partners', u'the', u'europeans', u'japanese', u'and', u'canadians', u'have', u'decided', u'after', u'consultation', u'to', u'give', u'full', u'consideration', u'to', u'use', u'of', u'russian', u'assets', u'in', u'the', u'course', u'of', u'the', u'space', u'station', u'redesign', u'process', u'to', u'that', u'end', u'the', u'russians', u'will', u'be', u'asked', u'to', u'participate', u'in', u'the', u'redesign', u'effort', u'on', u'an', u'asneeded', u'consulting', u'basis', u'so', u'that', u'the', u'redesign', u'team', u'can', u'make', u'use', u'of', u'their', u'expertise', u'in', u'assessing', u'the', u'capabilities', u'of', u'mir', u'and', u'the', u'possible', u'use', u'of', u'mir', u'and', u'other', u'russian', u'capabilities', u'and', u'systems', u'the', u'us', u'and', u'international', u'partners', u'hope', u'to', u'benefit', u'from', u'the', u'expertise', u'of', u'the', u'russian', u'participants', u'in', u'assessing', u'russian', u'systems', u'and', u'technology', u'the', u'overall', u'goal', u'of', u'the', u'redesign', u'effort', u'is', u'to', u'develop', u'options', u'for', u'reducing', u'station', u'costs', u'while', u'preserving', u'key', u'research', u'and', u'exploration', u'capabilitiaes', u'careful', u'integration', u'of', u'russian', u'assets', u'could', u'be', u'a', u'key', u'factor', u'in', u'achieving', u'that', u'goal', u'gibbons', u'reiterated', u'that', u'president', u'clinton', u'is', u'committed', u'to', u'the', u'redesigned', u'space', u'station', u'and', u'to', u'making', u'every', u'effort', u'to', u'preserve', u'the', u'science', u'the', u'technology', u'and', u'the', u'jobs', u'that', u'the', u'space', u'station', u'program', u'represents', u'however', u'he', u'also', u'is', u'committed', u'to', u'a', u'space', u'station', u'that', u'is', u'well', u'managed', u'and', u'one', u'that', u'does', u'not', u'consume', u'the', u'national', u'resources', u'which', u'should', u'be', u'used', u'to', u'invest', u'in', u'the', u'future', u'of', u'this', u'industry', u'and', u'this', u'nation', u'nasa', u'administrator', u'daniel', u's', u'goldin', u'said', u'the', u'russian', u'participation', u'will', u'be', u'accomplished', u'through', u'the', u'eastwest', u'space', u'science', u'center', u'at', u'the', u'university', u'of', u'maryland', u'under', u'the', u'leadership', u'of', u'roald', u'sagdeev']
+line is  
+RB>   
+RB>   No, that's praying on the young.  Preying on the young comes
+RB>   later, when the bright eyed little altar boy finds out what the
+RB>   priest really wears under that chasible.
+
+The same thing Scotsmen where under there kilt.
+
+I'll never forget the day when I was about tweleve and accidently
+walked in on a roomfull of priests sitting around in their underware
+drinking beer and watching football.  
+
+Kind of changed my opinion a bit.  They didn't seem so menacing after
+that.
+
+ at j =  39
+words is  [u'rb', u'rb', u'no', u'thats', u'praying', u'on', u'the', u'young', u'preying', u'on', u'the', u'young', u'comes', u'rb', u'later', u'when', u'the', u'bright', u'eyed', u'little', u'altar', u'boy', u'finds', u'out', u'what', u'the', u'rb', u'priest', u'really', u'wears', u'under', u'that', u'chasible', u'the', u'same', u'thing', u'scotsmen', u'where', u'under', u'there', u'kilt', u'ill', u'never', u'forget', u'the', u'day', u'when', u'i', u'was', u'about', u'tweleve', u'and', u'accidently', u'walked', u'in', u'on', u'a', u'roomfull', u'of', u'priests', u'sitting', u'around', u'in', u'their', u'underware', u'drinking', u'beer', u'and', u'watching', u'football', u'kind', u'of', u'changed', u'my', u'opinion', u'a', u'bit', u'they', u'didnt', u'seem', u'so', u'menacing', u'after', u'that']
+line is  
+: Regardless of people's hidden motivations, the stated reasons for many
+: wars include religion.  Of course you can always claim that the REAL
+: reason was economics, politics, ethnic strife, or whatever.  But the
+: fact remains that the justification for many wars has been to conquer
+: the heathens.
+
+: If you want to say, for instance, that economics was the chief cause
+: of the Crusades, you could certainly make that point.  But someone
+: could come along and demonstrate that it was REALLY something else, in
+: the same manner you show that it was REALLY not religion.  You could
+: in this manner eliminate all possible causes for the Crusades.
+:         
+
+Scott,
+
+I don't have to make outrageous claims about religion's affecting and
+effecting history, for the purpsoe of a.a, all I have to do point out
+that many claims made here are wrong and do nothing to validate
+atheism. At no time have I made any statement that religion was the
+sole cause of anything, what I have done is point out that those who
+do make that kind of claim are mistaken, usually deliberately. 
+
+To credit religion with the awesome power to dominate history is to
+misunderstand human nature, the function of religion and of course,
+history. I believe that those who distort history in this way know
+exaclty what they're doing, and do it only for affect.  at j =  40
+words is  [u'regardless', u'of', u'peoples', u'hidden', u'motivations', u'the', u'stated', u'reasons', u'for', u'many', u'wars', u'include', u'religion', u'of', u'course', u'you', u'can', u'always', u'claim', u'that', u'the', u'real', u'reason', u'was', u'economics', u'politics', u'ethnic', u'strife', u'or', u'whatever', u'but', u'the', u'fact', u'remains', u'that', u'the', u'justification', u'for', u'many', u'wars', u'has', u'been', u'to', u'conquer', u'the', u'heathens', u'if', u'you', u'want', u'to', u'say', u'for', u'instance', u'that', u'economics', u'was', u'the', u'chief', u'cause', u'of', u'the', u'crusades', u'you', u'could', u'certainly', u'make', u'that', u'point', u'but', u'someone', u'could', u'come', u'along', u'and', u'demonstrate', u'that', u'it', u'was', u'really', u'something', u'else', u'in', u'the', u'same', u'manner', u'you', u'show', u'that', u'it', u'was', u'really', u'not', u'religion', u'you', u'could', u'in', u'this', u'manner', u'eliminate', u'all', u'possible', u'causes', u'for', u'the', u'crusades', u'scott', u'i', u'dont', u'have', u'to', u'make', u'outrageous', u'claims', u'about', u'religions', u'affecting', u'and', u'effecting', u'history', u'for', u'the', u'purpsoe', u'of', u'aa', u'all', u'i', u'have', u'to', u'do', u'point', u'out', u'that', u'many', u'claims', u'made', u'here', u'are', u'wrong', u'and', u'do', u'nothing', u'to', u'validate', u'atheism', u'at', u'no', u'time', u'have', u'i', u'made', u'any', u'statement', u'that', u'religion', u'was', u'the', u'sole', u'cause', u'of', u'anything', u'what', u'i', u'have', u'done', u'is', u'point', u'out', u'that', u'those', u'who', u'do', u'make', u'that', u'kind', u'of', u'claim', u'are', u'mistaken', u'usually', u'deliberately', u'to', u'credit', u'religion', u'with', u'the', u'awesome', u'power', u'to', u'dominate', u'history', u'is', u'to', u'misunderstand', u'human', u'nature', u'the', u'function', u'of', u'religion', u'and', u'of', u'course', u'history', u'i', u'believe', u'that', u'those', u'who', u'distort', u'history', u'in', u'this', u'way', u'know', u'exaclty', u'what', u'theyre', u'doing', u'and', u'do', u'it', u'only', u'for', u'affect']
+line is  
+
+
+	They did the rollout already??!?  I am going to have to pay more
+attention to the news.  Are any of the gifs headed for wuarchive??
+ 
+
+Patrick
+
+ at j =  41
+words is  [u'they', u'did', u'the', u'rollout', u'already', u'i', u'am', u'going', u'to', u'have', u'to', u'pay', u'more', u'attention', u'to', u'the', u'news', u'are', u'any', u'of', u'the', u'gifs', u'headed', u'for', u'wuarchive', u'patrick']
+line is  I hope you're not going to flame him.  Please give him the same coutesy you'
+ve given me.  at j =  42
+words is  [u'i', u'hope', u'youre', u'not', u'going', u'to', u'flame', u'him', u'please', u'give', u'him', u'the', u'same', u'coutesy', u'you', u've', u'given', u'me']
+line is  I saw in the newspaper last night that Dr. Mae Jemison, the first
+black woman in space (she's a physician and chemical engineer who flew
+on Endeavour last year) will appear as a transporter operator on the
+"Star Trek: The Next Generation" episode that airs the week of May 31.
+It's hardly space science, I know, but it's interesting.  at j =  43
+words is  [u'i', u'saw', u'in', u'the', u'newspaper', u'last', u'night', u'that', u'dr', u'mae', u'jemison', u'the', u'first', u'black', u'woman', u'in', u'space', u'shes', u'a', u'physician', u'and', u'chemical', u'engineer', u'who', u'flew', u'on', u'endeavour', u'last', u'year', u'will', u'appear', u'as', u'a', u'transporter', u'operator', u'on', u'the', u'star', u'trek', u'the', u'next', u'generation', u'episode', u'that', u'airs', u'the', u'week', u'of', u'may', u'its', u'hardly', u'space', u'science', u'i', u'know', u'but', u'its', u'interesting']
+line is  
+Damn!  So it was YOU who was drinking beer with ROBERT McELWANE in the PARKING
+LOT of the K-MART!
+
+				UNLIMITED INSEMINATION OF THIS MESSAGE
+					RIGIDLY REFUSED
+
+ at j =  44
+words is  [u'damn', u'so', u'it', u'was', u'you', u'who', u'was', u'drinking', u'beer', u'with', u'robert', u'mcelwane', u'in', u'the', u'parking', u'lot', u'of', u'the', u'kmart', u'unlimited', u'insemination', u'of', u'this', u'message', u'rigidly', u'refused']
+line is  
+Or have different classes of competetors.. and made the total purse $6billion
+or $7billion (depending on how many different classes there are, as in auto
+racing/motocycle racing and such)..  at j =  45
+words is  [u'or', u'have', u'different', u'classes', u'of', u'competetors', u'and', u'made', u'the', u'total', u'purse', u'billion', u'or', u'billion', u'depending', u'on', u'how', u'many', u'different', u'classes', u'there', u'are', u'as', u'in', u'auto', u'racingmotocycle', u'racing', u'and', u'such']
+line is  
+It sounds to me like it's just SCREAMING OUT for parody.  Give a copy to your
+friendly neighbourhood SubGenius preacher; with luck, he'll run it through the
+mental mincer and hand you back an outrageously offensive and gut-bustingly
+funny parody you can paste over the originals.
+
+I can see it now:
+
+                               The Stool Scroll
+         Thoughts on Religion, Spirituality, and Matters of the Colon
+
+                       (You can use this text to wipe)
+ at j =  46
+words is  [u'it', u'sounds', u'to', u'me', u'like', u'its', u'just', u'screaming', u'out', u'for', u'parody', u'give', u'a', u'copy', u'to', u'your', u'friendly', u'neighbourhood', u'subgenius', u'preacher', u'with', u'luck', u'hell', u'run', u'it', u'through', u'the', u'mental', u'mincer', u'and', u'hand', u'you', u'back', u'an', u'outrageously', u'offensive', u'and', u'gutbustingly', u'funny', u'parody', u'you', u'can', u'paste', u'over', u'the', u'originals', u'i', u'can', u'see', u'it', u'now', u'the', u'stool', u'scroll', u'thoughts', u'on', u'religion', u'spirituality', u'and', u'matters', u'of', u'the', u'colon', u'you', u'can', u'use', u'this', u'text', u'to', u'wipe']
+line is  Henry,
+
+didn't the Little Joe  and Big Joe  get built in under a year?
+6 months for little Joe,  and 12 Months for Big Joe?
+
+i thought i saw something on that for  a old mercury film.  at j =  47
+words is  [u'henry', u'didnt', u'the', u'little', u'joe', u'and', u'big', u'joe', u'get', u'built', u'in', u'under', u'a', u'year', u'months', u'for', u'little', u'joe', u'and', u'months', u'for', u'big', u'joe', u'i', u'thought', u'i', u'saw', u'something', u'on', u'that', u'for', u'a', u'old', u'mercury', u'film']
+line is  Sounds similar to something Wally Schirra said.  at j =  48
+words is  [u'sounds', u'similar', u'to', u'something', u'wally', u'schirra', u'said']
+line is  I am coordinating the Space Shuttle Program Office's e-mail traffic to
+NPO Energia for our on-going Joint Missions.  I have several e-mail
+addresses for NPO Energia folks, but I won't post them on the 'Net for
+obvious reasons.  If you need to know, give me a yell.
+
+-- Ken Jenks, NASA/JSC/GM2, Space Shuttle Program Office
+      kjenks@gothamcity.jsc.nasa.gov  (713) 483-4368  at j =  49
+words is  [u'i', u'am', u'coordinating', u'the', u'space', u'shuttle', u'program', u'offices', u'email', u'traffic', u'to', u'npo', u'energia', u'for', u'our', u'ongoing', u'joint', u'missions', u'i', u'have', u'several', u'email', u'addresses', u'for', u'npo', u'energia', u'folks', u'but', u'i', u'wont', u'post', u'them', u'on', u'the', u'net', u'for', u'obvious', u'reasons', u'if', u'you', u'need', u'to', u'know', u'give', u'me', u'a', u'yell', u'ken', u'jenks', u'nasajscgm', u'space', u'shuttle', u'program', u'office', u'kjenksgothamcityjscnasagov']
+line is  
+
+
+
+
+Okay... I argued this thoroughly about 3-4 weeks ago.  Men and women are
+different ... physically, physiologically, and psychologically.  Much
+recent evidence for this statement is present in the book "Brainsex" by
+Anne Moir and David Jessel.  I recommend you find a copy and read it.
+Their book is an overview of recent scientific research on this topic
+and is well referenced. 
+
+Now, if women and men are different in some ways, the law can only
+adequately take into account their needs in these areas where they are
+different by also taking into account the ways in which men and women
+are different.  Maternity leave is an example of this -- it takes into
+account that women get pregnant.  It does not give women the same rules
+it would give to men, because to treat women like it treats men in this
+instance would be unjust.  This is just simply an obvious example of
+where men and women are intrinsically different!!!!!
+
+Now, people make the _naive_ argument that sexism = oppression.
+However, maternity leave is sexist because MEN DO NOT GET PREGNANT. 
+Men do not have the same access to leave that women do (not to the same
+extent or degree), and therefore IT IS SEXIST.  No matter however much a
+man _wants_ to get pregnant and have maternity leave, HE NEVER CAN.  And
+therefore the law IS SEXIST.  No man can have access to maternity leave,
+NO MATTER HOW HARD HE TRIES TO GET PREGNANT.  I hope this is clear.
+
+Maternity leave is an example where a sexist law is just, because the
+sexism here just reflects the "sexism" of nature in making men and women
+different.  There are many other differences between men and women which
+are far more subtle than pregnancy, and to find out more of these I
+recommend you have a look at the book "Brainsex".
+
+Your point that perhaps some day men can also be pregnant is fallacious.
+If men can one day become pregnant it will be by having biologically
+become women!  To have a womb and the other factors required for
+pregnancy is usually wrapped up in the definition of what a woman is --
+so your argument, when it is examined, is seen to be fallacious.  You
+are saying that men can have the sexist maternity leave privilege that 
+women can have if they also become women -- which actually just supports
+my statement that maternity leave is sexist.
+
+
+There is no official priesthood in Islam -- much of this function is
+taken by Islamic scholars.  There are female Islamic scholars and
+female Islamic scholars have always existed in Islam.  An example from
+early Islamic history is the Prophet's widow, Aisha, who was recognized
+in her time and is recognized in our time as an Islamic scholar.
+
+
+You have no evidence for your blanket statement about all religions, and
+I dispute it.  I could go on and on about women in Islam, etc., but I
+recently reposted something here under the heading "Islam and Women" --
+if it is still at your news-site I suggest you read it.  It is reposted
+from soc.religion.islam, so if it has disappeared from alt.atheism it
+still might be in soc.religion.islam (I forgot what its original title
+was though).  I will email it to you if you like. 
+
+
+Your statement that "other religions are no different" is, I think, a
+statement based simply on lack of knowledge about religions other than
+Christianity and perhaps Judaism.
+
+
+Aisha, who I mentioned earlier, was not only an Islamic scholar but also
+was, at one stage, a military leader.
+
+
+The Prophet's first wife, who died just before the "Hijra" (the
+Prophet's journey from Mecca to Medina) was a successful businesswoman.
+
+Lucio, you cannot make a strong case for your viewpoint when your
+viewpoint is based on ignorance about world religions.  at j =  50
+words is  [u'okay', u'i', u'argued', u'this', u'thoroughly', u'about', u'weeks', u'ago', u'men', u'and', u'women', u'are', u'different', u'physically', u'physiologically', u'and', u'psychologically', u'much', u'recent', u'evidence', u'for', u'this', u'statement', u'is', u'present', u'in', u'the', u'book', u'brainsex', u'by', u'anne', u'moir', u'and', u'david', u'jessel', u'i', u'recommend', u'you', u'find', u'a', u'copy', u'and', u'read', u'it', u'their', u'book', u'is', u'an', u'overview', u'of', u'recent', u'scientific', u'research', u'on', u'this', u'topic', u'and', u'is', u'well', u'referenced', u'now', u'if', u'women', u'and', u'men', u'are', u'different', u'in', u'some', u'ways', u'the', u'law', u'can', u'only', u'adequately', u'take', u'into', u'account', u'their', u'needs', u'in', u'these', u'areas', u'where', u'they', u'are', u'different', u'by', u'also', u'taking', u'into', u'account', u'the', u'ways', u'in', u'which', u'men', u'and', u'women', u'are', u'different', u'maternity', u'leave', u'is', u'an', u'example', u'of', u'this', u'it', u'takes', u'into', u'account', u'that', u'women', u'get', u'pregnant', u'it', u'does', u'not', u'give', u'women', u'the', u'same', u'rules', u'it', u'would', u'give', u'to', u'men', u'because', u'to', u'treat', u'women', u'like', u'it', u'treats', u'men', u'in', u'this', u'instance', u'would', u'be', u'unjust', u'this', u'is', u'just', u'simply', u'an', u'obvious', u'example', u'of', u'where', u'men', u'and', u'women', u'are', u'intrinsically', u'different', u'now', u'people', u'make', u'the', u'naive', u'argument', u'that', u'sexism', u'oppression', u'however', u'maternity', u'leave', u'is', u'sexist', u'because', u'men', u'do', u'not', u'get', u'pregnant', u'men', u'do', u'not', u'have', u'the', u'same', u'access', u'to', u'leave', u'that', u'women', u'do', u'not', u'to', u'the', u'same', u'extent', u'or', u'degree', u'and', u'therefore', u'it', u'is', u'sexist', u'no', u'matter', u'however', u'much', u'a', u'man', u'wants', u'to', u'get', u'pregnant', u'and', u'have', u'maternity', u'leave', u'he', u'never', u'can', u'and', u'therefore', u'the', u'law', u'is', u'sexist', u'no', u'man', u'can', u'have', u'access', u'to', u'maternity', u'leave', u'no', u'matter', u'how', u'hard', u'he', u'tries', u'to', u'get', u'pregnant', u'i', u'hope', u'this', u'is', u'clear', u'maternity', u'leave', u'is', u'an', u'example', u'where', u'a', u'sexist', u'law', u'is', u'just', u'because', u'the', u'sexism', u'here', u'just', u'reflects', u'the', u'sexism', u'of', u'nature', u'in', u'making', u'men', u'and', u'women', u'different', u'there', u'are', u'many', u'other', u'differences', u'between', u'men', u'and', u'women', u'which', u'are', u'far', u'more', u'subtle', u'than', u'pregnancy', u'and', u'to', u'find', u'out', u'more', u'of', u'these', u'i', u'recommend', u'you', u'have', u'a', u'look', u'at', u'the', u'book', u'brainsex', u'your', u'point', u'that', u'perhaps', u'some', u'day', u'men', u'can', u'also', u'be', u'pregnant', u'is', u'fallacious', u'if', u'men', u'can', u'one', u'day', u'become', u'pregnant', u'it', u'will', u'be', u'by', u'having', u'biologically', u'become', u'women', u'to', u'have', u'a', u'womb', u'and', u'the', u'other', u'factors', u'required', u'for', u'pregnancy', u'is', u'usually', u'wrapped', u'up', u'in', u'the', u'definition', u'of', u'what', u'a', u'woman', u'is', u'so', u'your', u'argument', u'when', u'it', u'is', u'examined', u'is', u'seen', u'to', u'be', u'fallacious', u'you', u'are', u'saying', u'that', u'men', u'can', u'have', u'the', u'sexist', u'maternity', u'leave', u'privilege', u'that', u'women', u'can', u'have', u'if', u'they', u'also', u'become', u'women', u'which', u'actually', u'just', u'supports', u'my', u'statement', u'that', u'maternity', u'leave', u'is', u'sexist', u'there', u'is', u'no', u'official', u'priesthood', u'in', u'islam', u'much', u'of', u'this', u'function', u'is', u'taken', u'by', u'islamic', u'scholars', u'there', u'are', u'female', u'islamic', u'scholars', u'and', u'female', u'islamic', u'scholars', u'have', u'always', u'existed', u'in', u'islam', u'an', u'example', u'from', u'early', u'islamic', u'history', u'is', u'the', u'prophets', u'widow', u'aisha', u'who', u'was', u'recognized', u'in', u'her', u'time', u'and', u'is', u'recognized', u'in', u'our', u'time', u'as', u'an', u'islamic', u'scholar', u'you', u'have', u'no', u'evidence', u'for', u'your', u'blanket', u'statement', u'about', u'all', u'religions', u'and', u'i', u'dispute', u'it', u'i', u'could', u'go', u'on', u'and', u'on', u'about', u'women', u'in', u'islam', u'etc', u'but', u'i', u'recently', u'reposted', u'something', u'here', u'under', u'the', u'heading', u'islam', u'and', u'women', u'if', u'it', u'is', u'still', u'at', u'your', u'newssite', u'i', u'suggest', u'you', u'read', u'it', u'it', u'is', u'reposted', u'from', u'socreligionislam', u'so', u'if', u'it', u'has', u'disappeared', u'from', u'altatheism', u'it', u'still', u'might', u'be', u'in', u'socreligionislam', u'i', u'forgot', u'what', u'its', u'original', u'title', u'was', u'though', u'i', u'will', u'email', u'it', u'to', u'you', u'if', u'you', u'like', u'your', u'statement', u'that', u'other', u'religions', u'are', u'no', u'different', u'is', u'i', u'think', u'a', u'statement', u'based', u'simply', u'on', u'lack', u'of', u'knowledge', u'about', u'religions', u'other', u'than', u'christianity', u'and', u'perhaps', u'judaism', u'aisha', u'who', u'i', u'mentioned', u'earlier', u'was', u'not', u'only', u'an', u'islamic', u'scholar', u'but', u'also', u'was', u'at', u'one', u'stage', u'a', u'military', u'leader', u'the', u'prophets', u'first', u'wife', u'who', u'died', u'just', u'before', u'the', u'hijra', u'the', u'prophets', u'journey', u'from', u'mecca', u'to', u'medina', u'was', u'a', u'successful', u'businesswoman', u'lucio', u'you', u'can', u'not', u'make', u'a', u'strong', u'case', u'for', u'your', u'viewpoint', u'when', u'your', u'viewpoint', u'is', u'based', u'on', u'ignorance', u'about', u'world', u'religions']
+line is       Since when does atheism mean trashing other religions?There must be a God
+     of inbreeding to which you are his only son.  at j =  51
+words is  [u'since', u'when', u'does', u'atheism', u'mean', u'trashing', u'other', u'religionsthere', u'must', u'be', u'a', u'god', u'of', u'inbreeding', u'to', u'which', u'you', u'are', u'his', u'only', u'son']
+line is  
+If I'm not mistaken, this is the usual sort of precaution against loss of
+communications.  That timer is counting down continuously; if it ever hits
+zero, that means Galileo hasn't heard from Earth in a suspiciously long
+time and it may be Galileo's fault... so it's time to go into a fallback
+mode that minimizes chances of spacecraft damage and maximizes chances
+of restoring contact.  I don't know exactly what-all Galileo does in such
+a situation, but a common example is to switch receivers, on the theory
+that maybe the one you're listening with has died.  at j =  52
+words is  [u'if', u'im', u'not', u'mistaken', u'this', u'is', u'the', u'usual', u'sort', u'of', u'precaution', u'against', u'loss', u'of', u'communications', u'that', u'timer', u'is', u'counting', u'down', u'continuously', u'if', u'it', u'ever', u'hits', u'zero', u'that', u'means', u'galileo', u'hasnt', u'heard', u'from', u'earth', u'in', u'a', u'suspiciously', u'long', u'time', u'and', u'it', u'may', u'be', u'galileos', u'fault', u'so', u'its', u'time', u'to', u'go', u'into', u'a', u'fallback', u'mode', u'that', u'minimizes', u'chances', u'of', u'spacecraft', u'damage', u'and', u'maximizes', u'chances', u'of', u'restoring', u'contact', u'i', u'dont', u'know', u'exactly', u'whatall', u'galileo', u'does', u'in', u'such', u'a', u'situation', u'but', u'a', u'common', u'example', u'is', u'to', u'switch', u'receivers', u'on', u'the', u'theory', u'that', u'maybe', u'the', u'one', u'youre', u'listening', u'with', u'has', u'died']
+line is  
+
+I know someone had long talks about Solar Sails early this year and late last
+year..Also about Solar Sailing. Not sure who captured it if possible..
+
+I think it was one of the regulars who had most or all the data?
+
+I think I started the latest round or the late last year round.. But the topic
+has been around here, off and on for a year or two..  at j =  53
+words is  [u'i', u'know', u'someone', u'had', u'long', u'talks', u'about', u'solar', u'sails', u'early', u'this', u'year', u'and', u'late', u'last', u'yearalso', u'about', u'solar', u'sailing', u'not', u'sure', u'who', u'captured', u'it', u'if', u'possible', u'i', u'think', u'it', u'was', u'one', u'of', u'the', u'regulars', u'who', u'had', u'most', u'or', u'all', u'the', u'data', u'i', u'think', u'i', u'started', u'the', u'latest', u'round', u'or', u'the', u'late', u'last', u'year', u'round', u'but', u'the', u'topic', u'has', u'been', u'around', u'here', u'off', u'and', u'on', u'for', u'a', u'year', u'or', u'two']
+line is   
+
+No, I say religious law applies to those who are categorized as
+belonging to the religion when event being judged applies. This
+prevents situations in which someone is a member of a religion
+who, when charged, claims that he/she was _not_ a member of the
+religion so they are free to go on as if nothing had happened.
+
+ at j =  54
+words is  [u'no', u'i', u'say', u'religious', u'law', u'applies', u'to', u'those', u'who', u'are', u'categorized', u'as', u'belonging', u'to', u'the', u'religion', u'when', u'event', u'being', u'judged', u'applies', u'this', u'prevents', u'situations', u'in', u'which', u'someone', u'is', u'a', u'member', u'of', u'a', u'religion', u'who', u'when', u'charged', u'claims', u'that', u'heshe', u'was', u'not', u'a', u'member', u'of', u'the', u'religion', u'so', u'they', u'are', u'free', u'to', u'go', u'on', u'as', u'if', u'nothing', u'had', u'happened']
+line is  ...
+
+Seen that movie already. Or one just like it.
+Come to think of it, they might send someone on
+a quest to get rid of the dang thing...
+
+ at j =  55
+words is  [u'seen', u'that', u'movie', u'already', u'or', u'one', u'just', u'like', u'it', u'come', u'to', u'think', u'of', u'it', u'they', u'might', u'send', u'someone', u'on', u'a', u'quest', u'to', u'get', u'rid', u'of', u'the', u'dang', u'thing']
+line is  
+	I've heard of sillier things, like a well-known utility company
+wanting to buy an 'automated' boiler-cleaning system which uses as many
+operators as the old system, and which rumour has it costs three million
+more per unit. Automation is more 'efficient' although by what scale they are
+not saying...  at j =  56
+words is  [u'ive', u'heard', u'of', u'sillier', u'things', u'like', u'a', u'wellknown', u'utility', u'company', u'wanting', u'to', u'buy', u'an', u'automated', u'boilercleaning', u'system', u'which', u'uses', u'as', u'many', u'operators', u'as', u'the', u'old', u'system', u'and', u'which', u'rumour', u'has', u'it', u'costs', u'three', u'million', u'more', u'per', u'unit', u'automation', u'is', u'more', u'efficient', u'although', u'by', u'what', u'scale', u'they', u'are', u'not', u'saying']
+line is  
+
+
+But Allen, if you can assume the existence of an SSTO there is no need
+to have the contest in the first place.  I would think that what we
+want to get out of the contest is the development of some of these
+'cheaper' ways of doing things; if they already exist, why flush $1G
+just to get someone to go to the Moon for a year?
+
+-- 
+"Insisting on perfect safety is for people who don't have the balls to live
+ in the real world."   -- Mary Shafer, NASA Ames Dryden  at j =  57
+words is  [u'but', u'allen', u'if', u'you', u'can', u'assume', u'the', u'existence', u'of', u'an', u'ssto', u'there', u'is', u'no', u'need', u'to', u'have', u'the', u'contest', u'in', u'the', u'first', u'place', u'i', u'would', u'think', u'that', u'what', u'we', u'want', u'to', u'get', u'out', u'of', u'the', u'contest', u'is', u'the', u'development', u'of', u'some', u'of', u'these', u'cheaper', u'ways', u'of', u'doing', u'things', u'if', u'they', u'already', u'exist', u'why', u'flush', u'g', u'just', u'to', u'get', u'someone', u'to', u'go', u'to', u'the', u'moon', u'for', u'a', u'year', u'insisting', u'on', u'perfect', u'safety', u'is', u'for', u'people', u'who', u'dont', u'have', u'the', u'balls', u'to', u'live', u'in', u'the', u'real', u'world', u'mary', u'shafer', u'nasa', u'ames', u'dryden']
+line is    at j =  58
+words is  []
