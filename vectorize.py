@@ -5,12 +5,18 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cross_validation import StratifiedKFold   
 from nltk.stem.porter import PorterStemmer                                                                 
 from copy import copy
+from sklearn.manifold import TSNE
 from nltk import word_tokenize
+import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.drawing.nx_agraph import graphviz_layout
 from networkx.drawing.nx_agraph import write_dot
 from sklearn import svm
+from metric_learn import LMNN
+from matplotlib.backends.backend_pdf import PdfPages
+pp=PdfPages('PlotPdf.pdf')
 
+randomState=13204
 data=np.load('FullData.npy')
 labels=np.load('NewLabels.npy')
 
@@ -18,7 +24,7 @@ print 'data.shape is ',data.shape
 print 'labels.shape is ',labels.shape
 #data=data.tolist()
 #labels=labels.tolist()
-
+from sklearn.manifold import TSNE
 print 'labels are ',labels
 class StemmerTokenizer(object):
 
@@ -39,10 +45,11 @@ class GraphBasedLearning:
         self.labels=copy(np.hstack((self.y_train,self.y_test)))
         print 'labels are ',self.labels
         self.Vectorize()
-        self.constructSimilartyMatrixCosine()
-        print 'now doing label propogation\n'
-        self.labelPropogation()
-        self.compareWithSvm()
+        #self.constructSimilartyMatrixCosine()
+        #print 'now doing label propogation\n'
+        #self.labelPropogation()
+        #self.compareWithSvm()
+        self.constructSimilartyMatrixLMNN()
         
     def Vectorize(self):
         self.vectorizer = TfidfVectorizer(decode_error='replace',analyzer='word',stop_words='english',lowercase=True,tokenizer=StemmerTokenizer())
@@ -63,9 +70,15 @@ class GraphBasedLearning:
         #print 'self.x2 is ',len(self.x2)
         self.trainVectors=self.vectorizer.transform(self.x2)
         print 'train vectors are ',self.trainVectors.shape
+      
         self.testVectors=self.vectorizer.transform(self.xtest2)
         self.allVectors=self.vectorizer.transform(self.data2)
         print 'allVectors are ',self.allVectors.shape
+        projectedDigits = TSNE(random_state=randomState).fit_transform(self.allVectors.todense())
+        plt.scatter(projectedDigits[:,0],projectedDigits[:,1],c=self.labels)
+        plt.title('All Datas Set projected into 2D by TSNE')
+        plt.savefig(pp,format='pdf')
+        plt.show()
         
     
     def constructSimilartyMatrixCosine(self,k=20):
@@ -102,6 +115,11 @@ class GraphBasedLearning:
         
         return (float(correct)/len(predicted))*100
         
+    
+    def constructSimilartyMatrixLMNN(self):
+        lmnn=LMNN(k=20,learn_rate=1e-2)
+        r=lmnn.fit(self.trainVectors.todense(), self.y_train, verbose=False)
+        print 'r.shape is ',r.shape,'\n\n'
         
     def labelPropogation(self):
         #Algorithm 11.1 Label propagation (Zhu and Ghahramani, 2002)
@@ -142,7 +160,7 @@ class GraphBasedLearning:
         print 'the accuracy is ',self.checkAccuracy(self.predicted1,self.y_test)
                     
             
-        
+         
     def compareWithSvm(self):
         C=[0.000001,0.00001,0.0001,0.001,0.01,0.1,1,10,100,1000]
         self.y_train=self.y_train.reshape(-1,)
@@ -178,7 +196,7 @@ np.save('NewLabels',newLabels)
 
     
 
-skf=StratifiedKFold(newLabels,n_folds=4,shuffle=True)
+skf=StratifiedKFold(newLabels,n_folds=2,shuffle=True)
 
 for train_index,test_index in skf:
     X_train,X_test=data[test_index],data[train_index]
@@ -192,4 +210,5 @@ for train_index,test_index in skf:
     print 'X_test is ',y_test.shape
     
     
+pp.close()
 
