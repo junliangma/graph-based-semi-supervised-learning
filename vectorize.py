@@ -13,7 +13,14 @@ from networkx.drawing.nx_agraph import graphviz_layout
 from networkx.drawing.nx_agraph import write_dot
 from sklearn import svm
 from metric_learn import LMNN
+import sys
+sys.path.append('/u4/drishi/shogun-install/lib/python2.7/dist-packages/')
+from modshogun import PCA
 from matplotlib.backends.backend_pdf import PdfPages
+#from modshogun import RealFeatures,BinaryLabels,LMNN,MulticlassLabels
+from metric_learn import ITML
+
+
 pp=PdfPages('PlotPdf.pdf')
 
 randomState=13204
@@ -49,7 +56,9 @@ class GraphBasedLearning:
         #print 'now doing label propogation\n'
         #self.labelPropogation()
         #self.compareWithSvm()
-        self.constructSimilartyMatrixLMNN()
+        #self.constructSimilartyMatrixLMNN()
+        self.constructSimilartyMatrixITML()
+        
         
     def Vectorize(self):
         self.vectorizer = TfidfVectorizer(decode_error='replace',analyzer='word',stop_words='english',lowercase=True,tokenizer=StemmerTokenizer())
@@ -74,16 +83,16 @@ class GraphBasedLearning:
         self.testVectors=self.vectorizer.transform(self.xtest2)
         self.allVectors=self.vectorizer.transform(self.data2)
         print 'allVectors are ',self.allVectors.shape
-        projectedDigits = TSNE(random_state=randomState).fit_transform(self.allVectors.todense())
-        plt.scatter(projectedDigits[:,0],projectedDigits[:,1],c=self.labels)
-        plt.title('All Datas Set projected into 2D by TSNE')
-        plt.savefig(pp,format='pdf')
-        plt.show()
+        #projectedDigits = TSNE(random_state=randomState).fit_transform(self.allVectors.todense())
+        #plt.scatter(projectedDigits[:,0],projectedDigits[:,1],c=self.labels)
+        #plt.title('All Datas Set projected into 2D by TSNE')
+        #plt.savefig(pp,format='pdf')
+        #plt.show()
         
     
     def constructSimilartyMatrixCosine(self,k=20):
         #This is a simpole k nearest neighbour approach based on the cosine distance
-        #for this take the full dataset and find the pairwise_distances between each of the nodes
+        #for this takefrom modshogun import RealFeatures, MulticlassLabels
         #then find the k nearest neighbours for each node 
         self.pwdis=pairwise_distances(self.allVectors,metric='cosine')
         #now we have all the pairwise cosine distances between all the sentences
@@ -117,10 +126,60 @@ class GraphBasedLearning:
         
     
     def constructSimilartyMatrixLMNN(self):
-        lmnn=LMNN(k=20,learn_rate=1e-2)
-        r=lmnn.fit(self.trainVectors.todense(), self.y_train, verbose=False)
-        print 'r.shape is ',r.shape,'\n\n'
+        print 'Now doing LMNN'
+        #self.y_train=self.y_train.reshape()
+        print 'self.y_train is ',self.y_train.shape
         
+        x1=copy(self.trainVectors.todense()[0:100])
+        mat1=np.zeros(x1.shape)
+        for i in range(0,mat1.shape[0]):
+            for j in range(0,mat1.shape[1]):
+                mat1[i,j]=x1[i,j]
+        print 'x.shape is ',x1
+        #self.shogun_X_train=RealFeatures(mat1.T)
+        #print 'shogun xtrain is ',self.shogun_X_train
+        #self.shogun_y_train=MulticlassLabels(self.y_train[0:10].astype(np.float64))
+        k=10
+        lmnn=LMNN(k=5, learn_rate=1e-3)
+        #init_transform = np.eye(self.trainVectors.shape[1])
+        #lmnn.set_maxiter(3)
+        #lmnn.train(init_transform)
+        lmnn.fit(mat1, self.y_train[0:100], verbose=False)
+        self.L = lmnn.transform(mat1)
+        #self.M = np.matrix(np.dot(L.T,L))
+
+        
+        
+        
+        print 'L.shape is ',self.L.shape,'\n\n'
+    
+    
+    def constructSimilartyMatrixITML(self):
+        print 'Now doing itml'
+        #self.y_train=self.y_train.reshape(-1,)
+        self.y_train2=copy(self.y_train)
+        rows=np.where(self.y_train==-1)
+        self.y_train2[rows]=0
+        print 'self.y_train is ',self.y_train.shape
+        x1=copy(self.trainVectors.todense()[0:10]) 
+        y1=copy(self.y_train2[0:10])
+        print 'x1 is ',x1,' y1 is ',y1
+        itml = ITML()
+        num_constraints = 1000
+        mat1=np.zeros(x1.shape)
+        for i in range(0,mat1.shape[0]):
+            for j in range(0,mat1.shape[1]):
+                mat1[i,j]=x1[i,j]
+        C = ITML.prepare_constraints(y1, mat1.shape[0], num_constraints)
+        itml.fit(mat1, C, verbose=True)
+        xl=itml.transform(mat1)
+        
+        print 'xl is ',xl.shape
+        
+        
+        
+        
+            
     def labelPropogation(self):
         #Algorithm 11.1 Label propagation (Zhu and Ghahramani, 2002)
         self.y_test=self.y_test.reshape(-1,1)
@@ -134,7 +193,6 @@ class GraphBasedLearning:
         #now to do the label propogation 
         
         for i in range(0,50):   
-            
             self.ypred=np.dot(np.linalg.inv(self.D),np.dot(self.pwdis,self.ypred))
             #now need to relabel all the labeled points
             for i in range(0,self.y_labeled.shape[0]):
@@ -196,7 +254,7 @@ np.save('NewLabels',newLabels)
 
     
 
-skf=StratifiedKFold(newLabels,n_folds=2,shuffle=True)
+skf=StratifiedKFold(newLabels,n_folds=4,shuffle=True)
 
 for train_index,test_index in skf:
     X_train,X_test=data[test_index],data[train_index]
