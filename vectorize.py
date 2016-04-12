@@ -14,7 +14,7 @@ from networkx.drawing.nx_agraph import write_dot
 from sklearn import svm
 from metric_learn import LMNN
 import sys
-sys.path.append('/u4/drishi/shogun-install/lib/python2.7/dist-packages/')
+sys.path.append('/home/drishi/shogun-install/lib/python2.7/dist-packages/')
 from modshogun import PCA
 from matplotlib.backends.backend_pdf import PdfPages
 #from modshogun import RealFeatures,BinaryLabels,LMNN,MulticlassLabels
