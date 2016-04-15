@@ -28,7 +28,7 @@ class StemmerTokenizer(object):
 
 vectorizer = TfidfVectorizer(decode_error='replace',analyzer='word',stop_words='english',lowercase=True,tokenizer=StemmerTokenizer())
 
-data=newsgroups_train.data[0:100]
+data=newsgroups_train.data
 vectorizer.fit(data)
 
 print 'the features are ',len(vectorizer.get_feature_names())
@@ -44,7 +44,7 @@ for i in range(0,vectors.shape[0]):
         arr[i,j]=arr2[i,j]
 
 print 'arr .shape is  ',arr.shape
-target=newsgroups_train.target[0:100]
+target=newsgroups_train.target
 lab=[]
 for i in target:
     lab.append(i)
@@ -59,5 +59,6 @@ print 'target is ',type(arr)
 lmnn = LMNN(k=20, learn_rate=1e-3,use_pca=True)
 lmnn.fit(arr,target,verbose=False)
 
+print 'Now doing LMNN'
 l=lmnn.transformer()
 np.save('LMNN transformer',l)

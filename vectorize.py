@@ -14,8 +14,7 @@ from networkx.drawing.nx_agraph import write_dot
 from sklearn import svm
 from metric_learn import LMNN
 import sys
-sys.path.append('/home/drishi/shogun-install/lib/python2.7/dist-packages/')
-from modshogun import PCA
+from sklearn.decomposition import PCA
 from matplotlib.backends.backend_pdf import PdfPages
 #from modshogun import RealFeatures,BinaryLabels,LMNN,MulticlassLabels
 from metric_learn import ITML
@@ -57,8 +56,27 @@ class GraphBasedLearning:
         #self.labelPropogation()
         #self.compareWithSvm()
         #self.constructSimilartyMatrixLMNN()
-        self.constructSimilartyMatrixITML()
+        #self.constructSimilartyMatrixITML()
+        self.convertToDenseMAtrix()
+        print 'before PCA SVM Accuracy is ',self.compareWithSvm(self.trainVectors,self.testVectors)
+        print 'now computing pca ',self.computePca()
+        print 'after PCA svm accuracy is ',self.compareWithSvm(self.trainVectorsPCA,self.testVectorsPCA)
+    
+    
+    def convertToDenseMAtrix(self):
+        self.trainVectors=self.trainVectors.todense()
+        temp=copy(np.zeros(self.trainVectors.shape))
+        for i in range(0,self.trainVectors.shape[0]):
+            for j in range(0,self.trainVectors.shape[1]):
+                temp[i,j]=self.trainVectors[i,j]
         
+        self.trainVectors=copy(temp)
+        self.testVectors=self.testVectors.todense()
+        temp=copy(np.zeros(self.testVectors.shape))
+        for i in range(0,self.testVectors.shape[0]):
+            for j in range(0,self.testVectors.shape[1]):
+                temp[i,j]=self.testVectors[i,j]    
+        self.testVectors=copy(temp)
         
     def Vectorize(self):
         self.vectorizer = TfidfVectorizer(decode_error='replace',analyzer='word',stop_words='english',lowercase=True,tokenizer=StemmerTokenizer())
@@ -123,14 +141,23 @@ class GraphBasedLearning:
                 correct+=1
         
         return (float(correct)/len(predicted))*100
+    
+    def computePca(self):
         
+        pca=PCA(n_components=self.trainVectors.shape[0])
+        pca.fit(self.trainVectors)
+        self.trainVectorsPCA=copy(pca.transform(self.trainVectors))
+        self.testVectorsPCA=copy(pca.transform(self.testVectors))
+        #print 'the explained variance is ',np.cumsum(pca.explained_variance_ratio_)
+        
+         
     
     def constructSimilartyMatrixLMNN(self):
         print 'Now doing LMNN'
         #self.y_train=self.y_train.reshape()
         print 'self.y_train is ',self.y_train.shape
         
-        x1=copy(self.trainVectors.todense()[0:100])
+        x1=copy(self.trainVectors.todense())
         mat1=np.zeros(x1.shape)
         for i in range(0,mat1.shape[0]):
             for j in range(0,mat1.shape[1]):
@@ -140,13 +167,15 @@ class GraphBasedLearning:
         #print 'shogun xtrain is ',self.shogun_X_train
         #self.shogun_y_train=MulticlassLabels(self.y_train[0:10].astype(np.float64))
         k=10
-        lmnn=LMNN(k=5, learn_rate=1e-3)
+        lmnn=LMNN(k=20, learn_rate=1e-3,use_pca=False)
         #init_transform = np.eye(self.trainVectors.shape[1])
         #lmnn.set_maxiter(3)
         #lmnn.train(init_transform)
-        lmnn.fit(mat1, self.y_train[0:100], verbose=False)
-        self.L = lmnn.transform(mat1)
+        lmnn.fit(mat1, self.y_train, verbose=False)
+        self.L = lmnn.transformer()
+        
         #self.M = np.matrix(np.dot(L.T,L))
+        np.save('LMNN transformer',self.L)
 
         
         
@@ -219,14 +248,16 @@ class GraphBasedLearning:
                     
             
          
-    def compareWithSvm(self):
+    def compareWithSvm(self,datasetTrain,datasetTest):
         C=[0.000001,0.00001,0.0001,0.001,0.01,0.1,1,10,100,1000]
+        print '\n'
+        print 'dataset shape is ',datasetTrain.shape
         self.y_train=self.y_train.reshape(-1,)
         for c in C:
             self.Svm=svm.LinearSVC(C=c)
-            self.Svm.fit(self.trainVectors,self.y_train)
-            labels=self.Svm.predict(self.testVectors)
-            print 'accuracy with c=',c,'  is  ',self.checkAccuracy(labels,self.y_test),'% ','\n\n'   
+            self.Svm.fit(datasetTrain,self.y_train)
+            labels=self.Svm.predict(datasetTest)
+            print 'accuracy with c=',c,'  is  ',self.checkAccuracy(labels,self.y_test),'% ','\n'   
         
             
             
