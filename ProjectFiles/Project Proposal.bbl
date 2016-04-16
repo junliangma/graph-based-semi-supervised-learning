@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:conf/icml/BlumC01}
+Avrim Blum and Shuchi Chawla.
+\newblock Learning from labeled and unlabeled data using graph mincuts.
+\newblock In {\em Proceedings of the Eighteenth International Conference on
+  Machine Learning {(ICML} 2001), Williams College, Williamstown, MA, USA, June
+  28 - July 1, 2001}, pages 19--26, 2001.
+
+\bibitem{4021776}
+R.~Liu, J.~Zhou, and M.~Liu.
+\newblock Graph-based semi-supervised learning algorithm for web page
+  classification.
+\newblock In {\em Intelligent Systems Design and Applications, 2006. ISDA '06.
+  Sixth International Conference on}, volume~2, pages 856--860, Oct 2006.
+
+\bibitem{4607686}
+Zheng-Jun Zha, Tao Mei, Jingdong Wang, Zengfu Wang, and Xian-Sheng Hua.
+\newblock Graph-based semi-supervised learning with multi-label.
+\newblock In {\em Multimedia and Expo, 2008 IEEE International Conference on},
+  pages 1321--1324, June 2008.
+
+\bibitem{Zhu06semi-supervisedlearning}
+Xiaojin Zhu.
+\newblock Semi-supervised learning literature survey, 2006.
+
+\bibitem{Zhu03semi-supervisedlearning}
+Xiaojin Zhu, Zoubin Ghahramani, and John Lafferty.
+\newblock Semi-supervised learning using gaussian fields and harmonic
+  functions.
+\newblock In {\em IN ICML}, pages 912--919, 2003.
+
+\end{thebibliography}

@@ -1,0 +1,1730 @@
+newsgroups_train.target is  [0 1 1 ..., 1 1 1]
+Line number i= 1  =  : 
+: >> Please enlighten me.  How is omnipotence contradictory?
+: 
+: >By definition, all that can occur in the universe is governed by the rules
+: >of nature. Thus god cannot break them. Anything that god does must be allowed
+: >in the rules somewhere. Therefore, omnipotence CANNOT exist! It contradicts
+: >the rules of nature.
+: 
+: Obviously, an omnipotent god can change the rules.
+
+When you say, "By definition", what exactly is being defined;
+certainly not omnipotence. You seem to be saying that the "rules of
+nature" are pre-existant somehow, that they not only define nature but
+actually cause it. If that's what you mean I'd like to hear your
+further thoughts on the question. 
+
+
+
+Line number i= 2  =  In <19APR199320262420@kelvin.jpl.nasa.gov> baalke@kelvin.jpl.nasa.gov 
+
+Sorry I think I missed a bit of info on this Transition Experiment. What is it?
+
+Will this mean a loss of data or will the Magellan transmit data later on ??
+
+BTW: When will NASA cut off the connection with Magellan?? Not that I am
+looking forward to that day but I am just curious. I believe it had something
+to do with the funding from the goverment (or rather _NO_ funding :-)
+
+ok that's it for now. See you guys around,
+Jurriaan.
+  
+
+
+
+Line number i= 3  =  
+Henry, I made the assumption that he who gets there firstest with the mostest
+wins. 
+
+Ohhh, you want to put in FINE PRINT which says "Thou shall do wonderous R&D
+rather than use off-the-shelf hardware"? Sorry, didn't see that in my copy.
+Most of the Pournellesque proposals run along the lines of <some dollar
+amount> reward for <some simple goal>.  
+
+You go ahead and do your development, I'll buy off the shelf at higher cost (or
+even Russian; but I also assume that there'd be some "Buy US" provos in there)
+and be camped out in the Moon while you are launching and assembling little
+itty-bitty payloads in LEO with your laser or gas gun.  And working out the
+bugs of assembly & integration in LEO. 
+
+Oh, hey, could I get a couple of CanadARMs tuned for the lunar environment?  I
+wanna do some teleoperated prospecting while I'm up there...
+
+
+
+
+
+
+Line number i= 4  =  
+
+
+No. I estimate a 99 % probability the Gehrels referred to
+is Thomas Gehrels of the Spacewatch project, Kitt Peak observatory.
+
+Maybe in the 24th century they could do gamma ray spectroscopy on
+distant asteroids with an orbiting observatory, but here in the
+primitive 20th we have to send a probe there to get gamma ray
+spectroscopy done.
+
+
+You have the info on Mayan Television yet?
+
+
+
+
+Line number i= 5  =  
+Lucky for them that the baby didn't have any obvious deformities!  I could
+just see it now: Mary gets pregnant out of wedlock so to save face she and
+Joseph say that it was God that got her pregnant and then the baby turns
+out to be deformed, or even worse, stillborn!  They'd have a lot of
+explaining to do.... :-)
+
+
+
+
+Line number i= 6  =  This discussion is better followed in talk.politics.space
+Joseph Cain		cain@geomag.gly.fsu.edu   
+cain@fsu.bitnet		scri::cain
+(904) 644-4014		FAX (904) 644-4214 or -0098
+
+
+
+
+Line number i= 7  =  Archive-name: space/acronyms
+Edition: 8
+
+Acronym List for sci.astro, sci.space, and sci.space.shuttle:
+Edition 8, 1992 Dec 7
+Last posted: 1992 Aug 27
+
+This list is offered as a reference for translating commonly appearing
+acronyms in the space-related newsgroups.  If I forgot or botched your
+favorite acronym, please let me know!  Also, if there's an acronym *not*
+on this list that confuses you, drop me a line, and if I can figure
+it out, I'll add it to the list.
+
+Note that this is intended to be a reference for *frequently seen*
+acronyms, and is most emphatically *not* encyclopedic.  If I incorporated
+every acronym I ever saw, I'd soon run out of disk space!  :-)
+
+The list will be posted at regular intervals, every 30 days.  All
+comments regarding it are welcome; I'm reachable as bradfrd2@ncar.ucar.edu.
+
+Note that this just tells what the acronyms stand for -- you're on your
+own for figuring out what they *mean*!  Note also that the total number of
+acronyms in use far exceeds what I can list; special-purpose acronyms that
+are essentially always explained as they're introduced are omitted.
+Further, some acronyms stand for more than one thing; as of Edition 3 of
+the list, these acronyms appear on multiple lines, unless they're simply
+different ways of referring to the same thing.
+
+Thanks to everybody who's sent suggestions since the first version of
+the list, and especially to Garrett A. Wollman (wollman@griffin.uvm.edu),
+who is maintaining an independent list, somewhat more verbose in
+character than mine, and to Daniel Fischer (dfi@specklec.mpifr-bonn.mpg.de),
+who is maintaining a truly HUGE list (535 at last count) of acronyms and
+terms, mostly in German (which I read, fortunately).
+
+Special thanks this time to Ken Hollis at NASA, who sent me a copy of NASA
+Reference Publication 1059 Revised: _Space Transportation System and
+Associated Payloads: Glossary, Acronyms, and Abbreviations_, a truly
+mammoth tome -- almost 300 pages of TLAs.
+
+Special Bonus!  At the end of this posting, you will find a perl program
+written by none other than Larry Wall, whose purpose is to scramble the
+acronym list in an entertaining fashion.  Thanks, Larry!
+
+A&A: Astronomy and Astrophysics
+AAO: Anglo-Australian Observatory
+AAS: American Astronomical Society
+AAS: American Astronautical Society
+AAVSO: American Association of Variable Star Observers
+ACE: Advanced Composition Explorer
+ACRV: Assured Crew Return Vehicle (or) Astronaut Crew Rescue Vehicle
+ADFRF: Ames-Dryden Flight Research Facility (was DFRF) (NASA)
+AGN: Active Galactic Nucleus
+AGU: American Geophysical Union
+AIAA: American Institute of Aeronautics and Astronautics
+AIPS: Astronomical Image Processing System
+AJ: Astronomical Journal
+ALEXIS: Array of Low Energy X-ray Imaging Sensors
+ALPO: Association of Lunar and Planetary Observers
+ALS: Advanced Launch System
+ANSI: American National Standards Institute
+AOA: Abort Once Around (Shuttle abort plan)
+AOCS: Attitude and Orbit Control System
+Ap.J: Astrophysical Journal
+APM: Attached Pressurized Module (a.k.a. Columbus)
+APU: Auxiliary Power Unit
+ARC: Ames Research Center (NASA)
+ARTEMIS: Advanced Relay TEchnology MISsion
+ASA: Astronomical Society of the Atlantic
+ASI: Agenzia Spaziale Italiano
+ASRM: Advanced Solid Rocket Motor
+ATDRS: Advanced Tracking and Data Relay Satellite
+ATLAS: Atmospheric Laboratory for Applications and Science
+ATM: Amateur Telescope Maker
+ATO: Abort To Orbit (Shuttle abort plan)
+AU: Astronomical Unit
+AURA: Association of Universities for Research in Astronomy
+AW&ST: Aviation Week and Space Technology (a.k.a. AvLeak)
+AXAF: Advanced X-ray Astrophysics Facility
+BATSE: Burst And Transient Source Experiment (on CGRO)
+BBXRT: Broad-Band X-Ray Telescope (ASTRO package)
+BEM: Bug-Eyed Monster
+BH: Black Hole
+BIMA: Berkeley Illinois Maryland Array
+BNSC: British National Space Centre
+BTW: By The Way
+C&T: Communications & Tracking
+CCAFS: Cape Canaveral Air Force Station
+CCD: Charge-Coupled Device
+CCDS: Centers for the Commercial Development of Space
+CD-ROM: Compact Disk Read-Only Memory
+CFA: Center For Astrophysics
+CFC: ChloroFluoroCarbon
+CFF: Columbus Free Flyer
+CFHT: Canada-France-Hawaii Telescope
+CGRO: (Arthur Holley) Compton Gamma Ray Observatory (was GRO)
+CHARA: Center for High Angular Resolution Astronomy
+CIRRIS: Cryogenic InfraRed Radiance Instrument for Shuttle
+CIT: Circumstellar Imaging Telescope
+CM: Command Module (Apollo spacecraft)
+CMCC: Central Mission Control Centre (ESA)
+CNES: Centre National d'Etude Spatiales
+CNO: Carbon-Nitrogen-Oxygen
+CNSR: Comet Nucleus Sample Return
+COBE: COsmic Background Explorer
+COMPTEL: COMPton TELescope (on CGRO)
+COSTAR: Corrective Optics Space Telescope Axial Replacement
+CRAF: Comet Rendezvous / Asteroid Flyby
+CRRES: Combined Release / Radiation Effects Satellite
+CSM: Command and Service Module (Apollo spacecraft)
+CSTC: Consolidated Satellite Test Center (USAF)
+CTIO: Cerro Tololo Interamerican Observatory
+DCX: Delta Clipper eXperimental
+DDCU: DC-to-DC Converter Unit
+DFRF: Dryden Flight Research Facility (now ADFRF)
+DMSP: Defense Meteorological Satellite Program
+DOD: Department Of Defense (sometimes DoD)
+DOE: Department Of Energy
+DOT: Department Of Transportation
+DSCS: Defense Satellite Communications System
+DSN: Deep Space Network
+DSP: Defense Support Program (USAF/NRO)
+EAFB: Edwards Air Force Base
+ECS: Environmental Control System
+EDO: Extended Duration Orbiter
+EGRET: Energetic Gamma Ray Experiment Telescope (on CGRO)
+EJASA: Electronic Journal of the Astronomical Society of the Atlantic
+ELV: Expendable Launch Vehicle
+EMU: Extravehicular Mobility Unit
+EOS: Earth Observing System
+ERS: Earth Resources Satellite (as in ERS-1)
+ESA: European Space Agency
+ESO: European Southern Observatory
+ET: (Shuttle) External Tank
+ETLA: Extended Three Letter Acronym
+ETR: Eastern Test Range
+EUV: Extreme UltraViolet
+EUVE: Extreme UltraViolet Explorer
+EVA: ExtraVehicular Activity
+FAQ: Frequently Asked Questions
+FAST: Fast Auroral SnapshoT explorer
+FFT: Fast Fourier Transform
+FGS: Fine Guidance Sensors (on HST)
+FHST: Fixed Head Star Trackers (on HST)
+FIR: Far InfraRed
+FITS: Flexible Image Transport System
+FOC: Faint Object Camera (on HST)
+FOS: Faint Object Spectrograph (on HST)
+FRR: Flight-Readiness Review
+FTP: File Transfer Protocol
+FTS: Flight Telerobotic Servicer
+FUSE: Far Ultraviolet Spectroscopic Explorer
+FWHM: Full Width at Half Maximum
+FYI: For Your Information
+GAS: Get-Away Special
+GBT: Green Bank Telescope
+GCVS: General Catalog of Variable Stars
+GEM: Giotto Extended Mission
+GEO: Geosynchronous Earth Orbit
+GDS: Great Dark Spot
+GHRS: Goddard High Resolution Spectrograph (on HST)
+GIF: Graphics Interchange Format
+GLOMR: Global Low-Orbiting Message Relay
+GMC: Giant Molecular Cloud
+GMRT: Giant Meter-wave Radio Telescope
+GMT: Greenwich Mean Time (also called UT)
+GOES: Geostationary Orbiting Environmental Satellite
+GOX: Gaseous OXygen
+GPC: General Purpose Computer
+GPS: Global Positioning System
+GRO: Gamma Ray Observatory (now CGRO)
+GRS: Gamma Ray Spectrometer (on Mars Observer)
+GRS: Great Red Spot
+GSC: Guide Star Catalog (for HST)
+GSFC: Goddard Space Flight Center (NASA)
+GTO: Geostationary Transfer Orbit
+HAO: High Altitude Observatory
+HD: Henry Draper catalog entry
+HEAO: High Energy Astronomical Observatory
+HeRA: Hermes Robotic Arm
+HF: High Frequency
+HGA: High Gain Antenna
+HLC: Heavy Lift Capability
+HLV: Heavy Lift Vehicle
+HMC: Halley Multicolor Camera (on Giotto)
+HR: Hertzsprung-Russell (diagram)
+HRI: High Resolution Imager (on ROSAT)
+HSP: High Speed Photometer (on HST)
+HST: Hubble Space Telescope
+HUT: Hopkins Ultraviolet Telescope (ASTRO package)
+HV: High Voltage
+IAPPP: International Amateur/Professional Photoelectric Photometry
+IAU: International Astronomical Union
+IAUC: IAU Circular
+ICE: International Cometary Explorer
+IDA: International Dark-sky Association
+IDL: Interactive Data Language
+IGM: InterGalactic Medium
+IGY: International Geophysical Year
+IMHO: In My Humble Opinion
+IOTA: Infrared-Optical Telescope Array
+IOTA: International Occultation Timing Association
+IPS: Inertial Pointing System
+IR: InfraRed
+IRAF: Image Reduction and Analysis Facility
+IRAS: InfraRed Astronomical Satellite
+ISAS: Institute of Space and Astronautical Science (Japan)
+ISM: InterStellar Medium
+ISO: Infrared Space Observatory
+ISO: International Standards Organization
+ISPM: International Solar Polar Mission (now Ulysses)
+ISY: International Space Year
+IUE: International Ultraviolet Explorer
+IUS: Inertial Upper Stage
+JEM: Japanese Experiment Module (for SSF)
+JGR: Journal of Geophysical Research
+JILA: Joint Institute for Laboratory Astrophysics
+JPL: Jet Propulsion Laboratory
+JSC: Johnson Space Center (NASA)
+KAO: Kuiper Airborne Observatory
+KPNO: Kitt Peak National Observatory
+KSC: Kennedy Space Center (NASA)
+KTB: Cretaceous-Tertiary Boundary (from German)
+LANL: Los Alamos National Laboratory
+LaRC: Langley Research Center (NASA)
+LDEF: Long Duration Exposure Facility
+LEM: Lunar Excursion Module (a.k.a. LM) (Apollo spacecraft)
+LEO: Low Earth Orbit
+LeRC: Lewis Research Center (NASA)
+LEST: Large Earth-based Solar Telescope
+LFSA: List of Frequently Seen Acronyms (!)
+LGA: Low Gain Antenna
+LGM: Little Green Men
+LH: Liquid Hydrogen (also LH2 or LHX)
+LLNL: Lawrence-Livermore National Laboratory
+LM: Lunar Module (a.k.a. LEM) (Apollo spacecraft)
+LMC: Large Magellanic Cloud
+LN2: Liquid N2 (Nitrogen)
+LOX: Liquid OXygen
+LRB: Liquid Rocket Booster
+LSR: Local Standard of Rest
+LTP: Lunar Transient Phenomenon
+MB: Manned Base
+MCC: Mission Control Center
+MECO: Main Engine CutOff
+MMH: MonoMethyl Hydrazine
+MMT: Multiple Mirror Telescope
+MMU: Manned Maneuvering Unit
+MNRAS: Monthly Notices of the Royal Astronomical Society
+MOC: Mars Observer Camera (on Mars Observer)
+MOL: Manned Orbiting Laboratory
+MOLA: Mars Observer Laser Altimeter (on Mars Observer)
+MOMV: Manned Orbital Maneuvering Vehicle
+MOTV: Manned Orbital Transfer Vehicle
+MPC: Minor Planets Circular
+MRSR: Mars Rover and Sample Return
+MRSRM: Mars Rover and Sample Return Mission
+MSFC: (George C.) Marshall Space Flight Center (NASA)
+MTC: Man Tended Capability
+NACA: National Advisory Committee on Aeronautics (became NASA)
+NASA: National Aeronautics and Space Administration
+NASDA: NAtional Space Development Agency (Japan)
+NASM: National Air and Space Museum
+NASP: National AeroSpace Plane
+NBS: National Bureau of Standards (now NIST)
+NDV: NASP Derived Vehicle
+NERVA: Nuclear Engine for Rocket Vehicle Application
+NGC: New General Catalog
+NICMOS: Near Infrared Camera / Multi Object Spectrometer (HST upgrade)
+NIMS: Near-Infrared Mapping Spectrometer (on Galileo)
+NIR: Near InfraRed
+NIST: National Institute for Standards and Technology (was NBS)
+NLDP: National Launch Development Program
+NOAA: National Oceanic and Atmospheric Administration
+NOAO: National Optical Astronomy Observatories
+NRAO: National Radio Astronomy Observatory
+NRO: National Reconnaissance Office
+NS: Neutron Star
+NSA: National Security Agency
+NSF: National Science Foundation
+NSO: National Solar Observatory
+NSSDC: National Space Science Data Center
+NTR: Nuclear Thermal Rocket(ry)
+NTT: New Technology Telescope
+OAO: Orbiting Astronomical Observatory
+OCST: Office of Commercial Space Transportation
+OMB: Office of Management and Budget
+OMS: Orbital Maneuvering System
+OPF: Orbiter Processing Facility
+ORFEUS: Orbiting and Retrievable Far and Extreme Ultraviolet Spectrometer
+OSC: Orbital Sciences Corporation
+OSCAR: Orbiting Satellite Carrying Amateur Radio
+OSSA: Office of Space Science and Applications
+OSSE: Oriented Scintillation Spectrometer Experiment (on CGRO)
+OTA: Optical Telescope Assembly (on HST)
+OTHB: Over The Horizon Backscatter
+OTV: Orbital Transfer Vehicle
+OV: Orbital Vehicle
+PAM: Payload Assist Module
+PAM-D: Payload Assist Module, Delta-class
+PI: Principal Investigator
+PLSS: Portable Life Support System
+PM: Pressurized Module
+PMC: Permanently Manned Capability
+PMIRR: Pressure Modulated InfraRed Radiometer (on Mars Observer)
+PMT: PhotoMultiplier Tube
+PSF: Point Spread Function
+PSR: PulSaR
+PV: Photovoltaic
+PVO: Pioneer Venus Orbiter
+QSO: Quasi-Stellar Object
+RCI: Rodent Cage Interface (for SLS mission)
+RCS: Reaction Control System
+REM: Rat Enclosure Module (for SLS mission)
+RF: Radio Frequency
+RFI: Radio Frequency Interference
+RIACS: Research Institute for Advanced Computer Science
+RMS: Remote Manipulator System
+RNGC: Revised New General Catalog
+ROSAT: ROentgen SATellite
+ROUS: Rodents Of Unusual Size (I don't believe they exist)
+RSN: Real Soon Now
+RTG: Radioisotope Thermoelectric Generator
+RTLS: Return To Launch Site (Shuttle abort plan)
+SAA: South Atlantic Anomaly
+SAGA: Solar Array Gain Augmentation (for HST)
+SAMPEX: Solar Anomalous and Magnetospheric Particle EXplorer
+SAO: Smithsonian Astrophysical Observatory
+SAR: Search And Rescue
+SAR: Synthetic Aperture Radar
+SARA: Satellite pour Astronomie Radio Amateur
+SAREX: Search and Rescue Exercise
+SAREX: Shuttle Amateur Radio Experiment
+SAS: Space Activity Suit
+SAS: Space Adaptation Syndrome
+SAT: Synthetic Aperture Telescope
+S/C: SpaceCraft
+SCA: Shuttle Carrier Aircraft
+SCT: Schmidt-Cassegrain Telescope
+SDI: Strategic Defense Initiative
+SDIO: Strategic Defense Initiative Organization
+SEI: Space Exploration Initiative
+SEST: Swedish ESO Submillimeter Telescope
+SETI: Search for ExtraTerrestrial Intelligence
+SID: Sudden Ionospheric Disturbance
+SIR: Shuttle Imaging Radar
+SIRTF: Space (formerly Shuttle) InfraRed Telescope Facility
+SL: SpaceLab
+SLAR: Side-Looking Airborne Radar
+SLC: Space Launch Complex
+SLS: Space(lab) Life Sciences
+SMC: Small Magellanic Cloud
+SME: Solar Mesosphere Explorer
+SMEX: SMall EXplorers
+SMM: Solar Maximum Mission
+SN: SuperNova (e.g., SN1987A)
+SNR: Signal to Noise Ratio
+SNR: SuperNova Remnant
+SNU: Solar Neutrino Units
+SOFIA: Stratospheric Observatory For Infrared Astronomy
+SOHO: SOlar Heliospheric Observatory
+SPAN: Space Physics and Analysis Network
+SPDM: Special Purpose Dextrous Manipulator
+SPOT: Systeme Probatoire pour l'Observation de la Terre
+SPS: Solar Power Satellite
+SRB: Solid Rocket Booster
+SRM: Solid Rocket Motor
+SSF: Space Station Fred (er, Freedom)
+SSI: Solid-State Imager (on Galileo)
+SSI: Space Studies Institut
+SSME: Space Shuttle Main Engine
+SSPF: Space Station Processing Facility
+SSRMS: Space Station Remote Manipulator System
+SST: Spectroscopic Survey Telescope
+SST: SuperSonic Transport
+SSTO: Single Stage To Orbit
+STIS: Space Telescope Imaging Spectrometer (to replace FOC and GHRS)
+STS: Shuttle Transport System (or) Space Transportation System
+STScI: Space Telescope Science Institute
+SWAS: Submillimeter Wave Astronomy Satellite
+SWF: ShortWave Fading
+TAL: Transatlantic Abort Landing (Shuttle abort plan)
+TAU: Thousand Astronomical Unit (mission)
+TCS: Thermal Control System
+TDRS: Tracking and Data Relay Satellite
+TDRSS: Tracking and Data Relay Satellite System
+TES: Thermal Emission Spectrometer (on Mars Observer)
+TIROS: Television InfraRed Observation Satellite
+TLA: Three Letter Acronym
+TOMS: Total Ozone Mapping Spectrometer
+TPS: Thermal Protection System
+TSS: Tethered Satellite System
+UARS: Upper Atmosphere Research Satellite
+UBM: Unpressurized Berthing Mechanism
+UDMH: Unsymmetrical DiMethyl Hydrazine
+UFO: Unidentified Flying Object
+UGC: Uppsala General Catalog
+UHF: Ultra High Frequency
+UIT: Ultraviolet Imaging Telescope (Astro package)
+UKST: United Kingdom Schmidt Telescope
+USAF: United States Air Force
+USMP: United States Microgravity Payload
+UT: Universal Time (a.k.a. GMT, UTC, or Zulu Time)
+UTC: Coordinated Universal Time (a.k.a. UT)
+UV: UltraViolet
+UVS: UltraViolet Spectrometer
+VAB: Vehicle Assembly Building (formerly Vertical Assembly Building)
+VAFB: Vandenberg Air Force Base
+VEEGA: Venus-Earth-Earth Gravity Assist (Galileo flight path)
+VHF: Very High Frequency
+VLA: Very Large Array
+VLBA: Very Long Baseline Array
+VLBI: Very Long Baseline Interferometry
+VLF: Very Low Frequency
+VLT: Very Large Telescope
+VMS: Vertical Motion Simulator
+VOIR: Venus Orbiting Imaging Radar (superseded by VRM)
+VPF: Vertical Processing Facility
+VRM: Venus Radar Mapper (now called Magellan)
+WD: White Dwarf
+WFPC: Wide Field / Planetary Camera (on HST)
+WFPCII: Replacement for WFPC
+WIYN: Wisconsin / Indiana / Yale / NOAO telescope
+WSMR: White Sands Missile Range
+WTR: Western Test Range
+WUPPE: Wisconsin Ultraviolet PhotoPolarimter Experiment (Astro package)
+XMM: X-ray Multi Mirror
+XUV: eXtreme UltraViolet
+YSO: Young Stellar Object
+
+
+#!/usr/bin/perl
+# 'alt', An Acronym Scrambling Program, by Larry Wall
+
+$THRESHOLD = 2;
+
+srand;
+while (<>) {
+    next unless /^([A-Z]\S+): */;
+    $key = $1;
+    $acro{$key} = $';
+    @words = split(/\W+/,$');
+    unshift(@words,$key);
+    $off = 0;
+    foreach $word (@words) {
+        next unless $word =~ /^[A-Z]/;
+        *w = $&;
+        vec($w{$word}, $off++ % 6, 1) = 1;
+    }
+}
+
+foreach $letter (A .. Z) {
+    *w = $letter;
+    @w = keys %w;
+    if (@w < $THRESHOLD) {
+        @d = `egrep '^$letter' /usr/dict/words`;
+        chop @d;
+        push(@w, @d);
+    }
+}
+
+foreach $key (sort keys %acro) {
+    $off = 0;
+    $acro = $acro{$key};
+    $acro =~ s/((([A-Z])[A-Z]*)[a-z]*)/ &pick($3, $2, $1, ++$off) || $& /eg;
+    print "$key: $acro";
+}
+
+sub pick {
+    local($letter, $prefix, $oldword, $off) = @_;
+    $i = 0;
+    if (length($prefix) > 1 && index($key,$prefix) < 0) {
+        if ($prefix eq $oldword) {
+            $prefix = '';
+        }
+        else {
+            $prefix = $letter;
+        }
+    }
+    if (length($prefix) > 1) {
+        local(*w) = substr($prefix,0,1);
+        do {
+            $word = $w[rand @w];
+        } until $word ne $oldword && $word =~ /^$prefix/i || ++$i > 30;
+        $word =~ s/^$prefix/$prefix/i;
+        $word;
+    }
+    elsif (length($prefix) == 1) {
+        local(*w) = $prefix;
+        do {
+            $word = $w[rand @w];
+        } until $word ne $oldword && vec($w{$word}, $off, 1) || ++$i > 10;
+        $word = "\u\L$word" if $word =~ tr/a-z/A-Z/;
+        $word;
+    }
+    else {
+        local(*w) = substr($oldword,0,1);
+        do {
+            $word = $w[rand @w];
+        } until $word ne $oldword && $word =~ tr/a-z/A-Z/ == 0 || ++$i > 30;
+        $word;
+    }
+}
+
+
+
+
+Line number i= 8  =  excuse me for my ignorance. But I remember reading once that the 
+Biblical tribe known as the Philistines still exists...they are the modern 
+day Palestinians.
+Anyone out there with more info, please post it!!! 
+
+
+
+Line number i= 9  =  
+: Mr Connor's assertion that "more complex" == later in paleontology
+: is simply incorrect.  Many lineages are known in which whole
+: structures are lost -- for example, snakes have lost their legs.
+: Cave fish have lost their eyes.  Some species have almost completely
+: lost their males.  Kiwis are descended from birds with functional
+: wings.
+
+Joel,
+
+The statements I made were illustrative of the inescapably
+anthrpomorphic quality of any desciption of an evolutionary process.
+There is no way evolution can be described or explained in terms other
+than teleological, that is my whole point. Even those who have reason
+to believe they understand evolution (biologists for instance) tend to
+personify nature and I can't help but wonder if it's because of the
+limits of the language or the nature of nature. 
+
+
+
+Line number i= 10  =  
+
+AHA! He admits it! He IS a moral relativist!
+
+Keith, if you start wafffling on about how it is different for a human
+to maul someone thrown into it's cage (so to speak), you'd better start
+posting tome decent evidence or retract your 'I think there is an absolute
+morality' blurb a few weeks ago.
+
+
+The Desert Brat 
+
+
+
+Line number i= 11  =  This might a real wierd idea or maybe not..
+
+I have seen where people have blown up ballons then sprayed material into them
+that then drys and makes hard walls...
+
+Why not do the same thing for a space station..
+
+Fly up the docking rings and baloon materials and such, blow up the baloons,
+spin then around (I know a problem in micro gravity) let them dry/cure/harden?
+and cut a hole for the docking/attaching ring and bingo a space station..
+
+Of course the ballons would have to be foil covered or someother radiation
+protective covering/heat shield(?) and the material used to make the wals would
+have to meet the out gasing and other specs or atleast the paint/covering of
+the inner wall would have to be human safe.. Maybe a special congrete or maybe
+the same material as makes caplets but with some changes (saw where someone
+instea dof water put beer in the caplet mixture, got a mix that was just as
+strong as congret but easier to carry around and such..)
+
+Sorry for any spelling errors, I missed school today.. (grin)..
+
+Why musta  space station be so difficult?? why must we have girders? why be
+confined to earth based ideas, lets think new ideas, after all space is not
+earth, why be limited by earth based ideas?? 
+
+
+
+Line number i= 12  =  I've been following discussions about the Delta Clipper program, and I
+have one small question.  As I understand it, the DC-X derived orbital
+vehicle (DC-Y & 1) is to reenter the atmosphere sort of sideways, not
+completely nose-first.  So why is the DC-Y look symmetric in every drawing
+I've seen?  I would think that an asymmetric design, sort of like 
+wingless Orbiter, may work better, since less shielding is required on the
+top side.  Can anybody explain?  
+
+- Ken Kobayashi
+kkobayas@husc.harvard.edu
+
+--  
+
+
+
+Line number i= 13  =  
+You'd need to launch HLVs to send up large amounts of stuff *if* you assume
+no new launcher development.  If you assume new launcher development, with
+lower costs as a specific objective, then you probably don't want to
+build something HLV-sized anyway. 
+
+
+
+Line number i= 14  =  
+
+
+American, perhaps, but nothing military about it.  I learned (mostly)
+slugs when we talked English units in high school physics and while
+the teacher was an ex-Navy fighter jock the book certainly wasn't
+produced by the military.
+
+[Poundals were just too flinking small and made the math come out
+funny; sort of the same reason proponents of SI give for using that.] 
+
+-- 
+"Insisting on perfect safety is for people who don't have the balls to live
+ in the real world."   -- Mary Shafer, NASA Ames Dryden 
+
+
+
+Line number i= 15  =  How about transferring control to a non-profit organisation that is
+able to accept donations to keep craft operational. 
+
+
+
+Line number i= 16  =  
+What do you mean by omnipotent here?  Do you mean by "omnipotent"
+that God should be able to do anything/everything?  This creates
+a self-contradictory definition of omnipotence which is effectively
+useless.
+
+To be descriptive, omnipotence must mean "being all-powerful" and
+not "being able to do anything/everything".
+
+Let me illustrate by analogy.
+Suppose the United States were the only nuclear power on earth.  Suppose
+further that the US military could not effectively be countered by any
+nation or group of nations.  The US has the power to go into any country
+at any time for any reason to straighten things out as the leaders of the
+US see fit.  The US would be militarily "omnipotent".
+
+But suppose further that the US holds to a doctrine/philosophy of not
+interfering in the internal affairs of any nation, such as the current
+civil war in the former Yugoslavian states.
+
+Technically (in this scenario) the US would have the power to 
+unilaterally go into Yugoslavia and straighten out the mess.  But
+effectively the US could not intervene without violating its own policy 
+of non-interference.  If the policy of non-interference were held to
+strongly enough, then there would never be a question that it would
+ever be violated.  Effectively, the US would be limited in what it
+could actually do, although it had the power to do "whatever it wanted".
+The US would simply "never want to interfere" for such an idea would
+be beyond the consideration of its leaders given such an inviolate
+non-interference policy.
+
+God is effectively limited in the same sense.  He is all powerful, but
+He cannot use His power in a way that would violate the essence of what
+He, Himself is.
+
+I hope this helps to clear up some of the misunderstanding concerning
+omnipotence.
+
+Regards, 
+
+
+
+Line number i= 17  =  
+Sorry.   Wrong.    This is how banks got started in the first place.
+Sooner or later your father and his pals will lend money to someone
+who eventually goes broke, and then they will realise that they
+havn't been managing risk very well.   Then they will ask themselves
+what it is that they need to quantify risk, and to persuade borrowers
+not to take on greater loans than they can carry.    And since they
+don't all want the worry of doing the calculations and handling the
+money, some of them will specialise in that.
+
+Then they'll reinvent interest, but like good Muslims, they'll call
+it something else.
+
+
+Riiiight.   That's why John Major opened a new government department
+a couple of months ago to help to promote minority business.   Because
+they can do it all themselves by lending one another cups of sugar. 
+
+
+
+Line number i= 18  =  We are not at the end of the Space Age, but only at the end of Its
+beginning.
+
+That space exploration is no longer a driver for technical innovation,
+or a focus of American cultural attention is certainly debatable; however,
+technical developments in other quarters will always be examined for
+possible applications in the space area and we can look forward to
+many innovations that might enhance the capabilities and lower the
+cost of future space operations. 
+
+The Dream is Alive and Well. 
+
+
+
+Line number i= 19  =  What would all of you out there in net land think of the big 6 (Martin
+Mariatta, Boeing, Mcdonell Douglas, General Dynamics, Lockheed, Rockwell)
+getting together, and forming a consortium to study exactly what the market
+price pints are for building reusable launch vehicles, and spending say
+$3million to do that.  Recognizing that most of the military requirements
+for launch vehicles are pulled out of a hat somewhere (say, has the shuttle 
+ever really used that 1200mi crossrange capability?  You get the idea, figure
+out how many, how often, where to, etc...)
+
+Then taking this data, and forming a sematech type company (bad example, I
+know... but at least its an example...)  To develop between 3 and 5 craft
+designs.  Then to take all of those designs, and figure out EXACTLY what
+the technologies are, and demonstrate those technologies, in order to 
+eliminate designs that can't be built today.  And lets say that this
+portion again funded by the GOV cost about $20 million.
+
+And from here all of these companies went their separate ways, with the
+intention of taking all of the market data and the design data to wall
+street, and saying "I want to build this vehicle, and here are the numbers
+that show %20 ROI, fund me...)
+
+
+Now many of you think that this is a joke, but I have it on good authority that
+just this project is shaping up in the background. It seems that the aerospace
+companies have learned that everyone yelling similar but different things
+ends up in many programs that do nothing much and get canceled (NASP, NLS,
+ALS, DCY?, etc...)  They need to work more in the japaneese, and european
+spirit of initial cooperation.  They have also learned that design requirements
+that are phony (I.E. some generals idea of what a space vehicle ought to be)
+ends up getting chopped up in congress, because it is not a REAL requirement.
+
+Any feedback? 
+
+
+
+Line number i= 20  =  
+Well, this particular thread of vituperation slopped its venom over
+into alt.atheism, where we spend most of our time entertaining
+arguments against our belief system, without resorting to accusing
+others of bigotry.  It's somewhat ironic that our exposure to bigotry
+happens in this instance to have originated in rec.scouting, since I
+always understood scouting to teach tolerance and diversity.  I
+understand bigotry to be irrational prejudice against other people who
+happen to be of a different race, religion, ethnic background, sex, or
+other inconsequential characteristics.  All the evidence I've seen
+indicates that sexual orientation and lack of belief in gods are
+exactly such inconsequential characteristics.  Thus, pending further
+evidence, I conclude that those who show prejudice against such people
+are bigots, and organizations that exclude such people are
+discriminatory. 
+
+
+
+Line number i= 21  =  
+Actually, Hiten wasn't originally intended to go into lunar orbit at all,
+so it indeed didn't have much fuel on hand.  The lunar-orbit mission was
+an afterthought, after Hagoromo (a tiny subsatellite deployed by Hiten
+during a lunar flyby) had a transmitter failure and its proper insertion
+into lunar orbit couldn't be positively confirmed.
+
+It should be noted that the technique does have disadvantages.  It takes
+a long time, and you end up with a relatively inconvenient lunar orbit.
+If you want something useful like a low circular polar orbit, you do have
+to plan to expend a certain amount of fuel, although it is reduced from
+what you'd need for the brute-force approach. 
+
+
+
+Line number i= 22  =  News-Software: UReply 3.1
+X-X-From: Wingert@VNET.IBM.com (Bret Wingert)
+            <C5uBn5.tz@zoo.toronto.edu>
+
+ ========================================================================
+A couple of points on this thread.
+
+1. We have been using our processes since way before Challenger.  Challenger
+   in and of it self did not uncover flaws.
+
+2. What Mr. Spencer says is by and large true.  We have a process that is
+   not dependent on "sophisticated tools"  (CASE tools?).  However, tools
+   cannot fix a bad process.  Also, tool support for HAL/S (the Shuttle
+   Language) is somewhat limited.
+
+3. The Onboard Flight Software project was rated "Level 5" by a NASA team.
+   This group generates 20-40 KSLOCs of verified code per year for NASA.
+
+4. Feel free to call me if you or your organization is interested in more info
+   on our software development process.
+
+Bret Wingert
+
+
+(713)-282-7534
+FAX: (713)-282-8077
+
+
+Bret Wingert
+
+
+
+
+Line number i= 23  =  
+  [snip]
+
+Honest, it just ended like that, I swear!  
+
+Hmmmm...I recognize the warning signs...alternating polite and
+rude...coming into newsgroup with huge chip on shoulder...calls
+people names and then makes nice...whirrr...click...whirrr
+
+"Clam" Bake Timmons = Bill "Shit Stirrer Connor"
+
+Q.E.D.
+
+Whirr click whirr...Frank O'Dwyer might also be contained
+in that shell...pop stack to determine...whirr...click..whirr
+
+"Killfile" Keith Allen Schneider = Frank "Closet Theist" O'Dwyer =
+
+the mind reels.  Maybe they're all Bobby Mozumder.
+
+-- 
+Maddi Hausmann                       madhaus@netcom.com
+Centigram Communications Corp        San Jose California  408/428-3553 
+
+
+
+Line number i= 24  =  )
+)That's your mistake.  It would be better for the children if the mother
+)raised the child.
+)
+)One thing that relates is among Navy men that get tatoos that say "Mom",
+)because of the love of their mom.  It makes for more virile men.
+)Compare that with how homos are raised.  Do a study and you will get my
+)point.
+)
+)But in no way do you have a claim that it would be better if the men
+)stayed home and raised the child.  That is something false made up by
+)feminists that seek a status above men.  You do not recognize the fact
+)that men and women have natural differences.  Not just physically, but
+)mentally also.
+) [...]
+)Your logic.  I didn't say americans were the cause of worlds problems, I
+)said atheists.
+) [...]
+)Becuase they have no code of ethics to follow, which means that atheists
+)can do whatever they want which they feel is right.  Something totally
+)based on their feelings and those feelings cloud their rational
+)thinking.
+) [...]
+)Yeah.  I didn't say that all atheists are bad, but that they could be
+)bad or good, with nothing to define bad or good.
+)
+
+  Awright!  Bobby's back, in all of his shit-for-brains glory.  Just
+  when I thought he'd turned the corner of progress, his Thorazine
+  prescription runs out.  
+
+  I'd put him in my kill file, but man, this is good stuff.  I wish
+  I had his staying power.
+
+  Fortunately, I learned not to take him too seriously long,long,long
+  ago.
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ 
+
+Bob Beauchaine bobbe@vice.ICO.TEK.COM 
+
+They said that Queens could stay, they blew the Bronx away,
+and sank Manhattan out at sea. 
+
+
+
+Line number i= 25  =  
+
+
+
+
+
+I have made this clear elsewhere but will do so again. Khomeini put a 
+price on the head of someone in another country, this makes him a jerk
+as well as an international outlaw. Khomeini advocates the view that
+there was a series of twelve Islamic leaders (the Twelve Imams) who
+are free of error or sin. This makes him a heretic. In the Qur'an 
+Muhammad is chastised for error directly by God; the Qur'an says that
+Muhammad is the greatest example of proper Islamic behavior; thus
+no muslim is free from error. 
+
+
+
+Perhaps it seems so to you, but this is hardly the case. There is
+widespread agreement about matters of Islam. There certainly are
+many viewpoints on issues which are not particularly Islamic in
+and of themselves, but this is so for any large group of people
+under the same name. 
+
+
+The Qur'an is not particularly imprecise in wording, though it is true
+that several interpretations are possible in the interpretations of
+many words. However, as an entire text the Qur'an makes its meanings
+precise enough for intelligent people free from power lust to come
+to agreement about them. 
+
+
+
+
+
+Line number i= 26  =  
+
+
+
+
+
+
+What loyalty!
+
+Jim, it seems you've been reading a little too much Russell Hoban
+lately. As Hemingway said, my imitators always imitate the _bad_
+aspects of my writing. Hoban would, no doubt, say the same here.
+
+
+
+
+
+Line number i= 27  =   
+
+
+It's not really their _decision_ to be tried. The rulings _do_ have
+legal consequences, but only in Islamic law and not in UK law (this
+should be obvious). Enforcing a judgment is distinct from the making
+of a judgment. Take for example the judgments of the World Court. This
+is an internationally recognized tribunal whose judgments often have no
+physical or economic effect but which _are_ important despite the fact
+that their judgments cannot be enforced
+
+
+
+Of course, have you read any of this thread before this post? 
+
+
+
+Of course, it is a sort of anarchism. Anarchism is explicitly against
+Islam. Thank you for your well reasoned response, but it is beside the
+points I've been making in this thread. 
+
+
+
+
+Line number i= 28  =  I have received my copies of Cosmonautics 1990 and
+Cosmonautics 1991, as well as Soviet Space 1990 and Space
+Station [MIR] Handbook from Aerospace Ambassadors with no
+problem.
+     I'm getting ready to FAX them some material in Huntsville,
+and I'll include a printout of your inquiry.
+ ____________________________________________________________ 
+
+
+
+Line number i= 29  =  
+That's the craziest thing I ever heard.   Are you serious?
+
+	"it doesn't take much work to be moral?"
+
+
+Really?   And that's why people discuss morality on a daily basis?
+Because it's a kind of evolutionary hangover, like your little toe?
+
+
+This must be some novel use of the phrase "based on" with which I
+am not sufficiently familiar.    What do you mean by "based on" and 
+what is the significance of it for your argument?
+
+
+Well, we can.   What would you like to know about my particular moral
+beliefs?
+
+If you raise a topic I've never considered, I'll be quite happy to 
+invent a moral belief out of thin air. 
+
+
+
+Line number i= 30  =  Archive-name: space/controversy
+Last-modified: $Date: 93/04/01 14:39:06 $
+
+CONTROVERSIAL QUESTIONS
+
+    These issues periodically come up with much argument and few facts being
+    offered. The summaries below attempt to represent the position on which
+    much of the net community has settled. Please DON'T bring them up again
+    unless there's something truly new to be discussed. The net can't set
+    public policy, that's what your representatives are for.
+
+
+    WHAT HAPPENED TO THE SATURN V PLANS
+
+    Despite a widespread belief to the contrary, the Saturn V blueprints
+    have not been lost. They are kept at Marshall Space Flight Center on
+    microfilm.
+
+    The problem in re-creating the Saturn V is not finding the drawings, it
+    is finding vendors who can supply mid-1960's vintage hardware (like
+    guidance system components), and the fact that the launch pads and VAB
+    have been converted to Space Shuttle use, so you have no place to launch
+    from.
+
+    By the time you redesign to accommodate available hardware and re-modify
+    the launch pads, you may as well have started from scratch with a clean
+    sheet design.
+
+
+    WHY DATA FROM SPACE MISSIONS ISN'T IMMEDIATELY AVAILABLE
+
+    Investigators associated with NASA missions are allowed exclusive access
+    for one year after the data is obtained in order to give them an
+    opportunity to analyze the data and publish results without being
+    "scooped" by people uninvolved in the mission. However, NASA frequently
+    releases examples (in non-digital form, e.g. photos) to the public early
+    in a mission.
+
+
+    RISKS OF NUCLEAR (RTG) POWER SOURCES FOR SPACE PROBES
+
+    There has been extensive discussion on this topic sparked by attempts to
+    block the Galileo and Ulysses launches on grounds of the plutonium
+    thermal sources being dangerous. Numerous studies claim that even in
+    worst-case scenarios (shuttle explosion during launch, or accidental
+    reentry at interplanetary velocities), the risks are extremely small.
+    Two interesting data points are (1) The May 1968 loss of two SNAP 19B2
+    RTGs, which landed intact in the Pacific Ocean after a Nimbus B weather
+    satellite failed to reach orbit. The fuel was recovered after 5 months
+    with no release of plutonium. (2) In April 1970, the Apollo 13 lunar
+    module reentered the atmosphere and its SNAP 27 RTG heat source, which
+    was jettisoned, fell intact into the 20,000 feet deep Tonga Trench in
+    the Pacific Ocean. The corrosion resistant materials of the RTG are
+    expected to prevent release of the fuel for a period of time equal to 10
+    half-lives of the Pu-238 fuel or about 870 years [DOE 1980].
+
+    To make your own informed judgement, some references you may wish to
+    pursue are:
+
+    A good review of the technical facts and issues is given by Daniel
+    Salisbury in "Radiation Risk and Planetary Exploration-- The RTG
+    Controversy," *Planetary Report*, May-June 1987, pages 3-7. Another good
+    article, which also reviews the events preceding Galileo's launch,
+    "Showdown at Pad 39-B," by Robert G. Nichols, appeared in the November
+    1989 issue of *Ad Astra*. (Both magazines are published by pro-space
+    organizations, the Planetary Society and the National Space Society
+    respectively.)
+
+    Gordon L Chipman, Jr., "Advanced Space Nuclear Systems" (AAS 82-261), in
+    *Developing the Space Frontier*, edited by Albert Naumann and Grover
+    Alexander, Univelt, 1983, p. 193-213.
+
+    "Hazards from Plutonium Toxicity", by Bernard L. Cohen, Health Physics,
+    Vol 32 (may) 1977, page 359-379.
+
+    NUS Corporation, Safety Status Report for the Ulysses Mission: Risk
+    Analysis (Book 1). Document number is NUS 5235; there is no GPO #;
+    published Jan 31, 1990.
+
+    NASA Office of Space Science and Applications, *Final Environmental
+    Impact Statement for the Ulysses Mission (Tier 2)*, (no serial number or
+    GPO number, but probably available from NTIS or NASA) June 1990.
+
+    [DOE 1980] U.S.  Department of Energy, *Transuranic Elements in the
+    Environment*, Wayne C.  Hanson, editor; DOE Document No.  DOE/TIC-22800;
+    Government Printing Office, Washington, D.C., April 1980.)
+
+
+    IMPACT OF THE SPACE SHUTTLE ON THE OZONE LAYER
+
+    From time to time, claims are made that chemicals released from
+    the Space Shuttle's Solid Rocket Boosters (SRBs) are responsible
+    for a significant amount of damage to the ozone layer. Studies
+    indicate that they in reality have only a minute impact, both in
+    absolute terms and relative to other chemical sources. The
+    remainder of this item is a response from the author of the quoted
+    study, Charles Jackman.
+
+    The atmospheric modelling study of the space shuttle effects on the
+    stratosphere involved three independent theoretical groups, and was
+    organized by Dr. Michael Prather, NASA/Goddard Institute for Space
+    Studies.  The three groups involved Michael Prather and Maria Garcia
+    (NASA/GISS), Charlie Jackman and Anne Douglass (NASA/Goddard Space
+    Flight Center), and Malcolm Ko and Dak Sze (Atmospheric and
+    Environmental Research, Inc.).  The effort was to look at the effects
+    of the space shuttle and Titan rockets on the stratosphere.
+
+    The following are the estimated sources of stratospheric chlorine:
+
+       Industrial sources:    300,000,000 kilograms/year
+	  Natural sources:     75,000,000 kilograms/year
+	  Shuttle sources:	  725,000 kilograms/year
+
+    The shuttle source assumes 9 space shuttles and 6 Titan rockets are
+    launched yearly. Thus the launches would add less than 0.25% to the
+    total stratospheric chlorine sources.
+
+    The effect on ozone is minimal:  global yearly average total ozone would
+    be decreased by 0.0065%. This is much less than total ozone variability
+    associated with volcanic activity and solar flares.
+
+    The influence of human-made chlorine products on ozone is computed
+    by atmospheric model calculations to be a 1% decrease in globally
+    averaged ozone between 1980 and 1990. The influence of the space shuttle and
+    Titan rockets on the stratosphere is negligible.  The launch
+    schedule of the Space Shuttle and Titan rockets would need to be
+    increased by over a factor of a hundred in order to have about
+    the same effect on ozone as our increases in industrial halocarbons
+    do at the present time.
+
+    Theoretical results of this study have been published in _The Space
+    Shuttle's Impact on the Stratosphere_, MJ Prather, MM Garcia, AR
+    Douglass, CH Jackman, M.K.W. Ko and N.D. Sze, Journal of Geophysical
+    Research, 95, 18583-18590, 1990.
+
+    Charles Jackman, Atmospheric Chemistry and Dynamics Branch,
+    Code 916, NASA/Goddard Space Flight Center,
+    Greenbelt, MD  20771
+
+    Also see _Chemical Rockets and the Environment_, A McDonald, R Bennett,
+    J Hinshaw, and M Barnes, Aerospace America, May 1991.
+
+
+    HOW LONG CAN A HUMAN LIVE UNPROTECTED IN SPACE
+
+    If you *don't* try to hold your breath, exposure to space for half a
+    minute or so is unlikely to produce permanent injury. Holding your
+    breath is likely to damage your lungs, something scuba divers have to
+    watch out for when ascending, and you'll have eardrum trouble if your
+    Eustachian tubes are badly plugged up, but theory predicts -- and animal
+    experiments confirm -- that otherwise, exposure to vacuum causes no
+    immediate injury. You do not explode. Your blood does not boil. You do
+    not freeze. You do not instantly lose consciousness.
+
+    Various minor problems (sunburn, possibly "the bends", certainly some
+    [mild, reversible, painless] swelling of skin and underlying tissue)
+    start after ten seconds or so. At some point you lose consciousness from
+    lack of oxygen. Injuries accumulate. After perhaps one or two minutes,
+    you're dying. The limits are not really known.
+
+    References:
+
+    _The Effect on the Chimpanzee of Rapid Decompression to a Near Vacuum_,
+    Alfred G. Koestler ed., NASA CR-329 (Nov 1965).
+
+    _Experimental Animal Decompression to a Near Vacuum Environment_, R.W.
+    Bancroft, J.E. Dunn, eds, Report SAM-TR-65-48 (June 1965), USAF School
+    of Aerospace Medicine, Brooks AFB, Texas.
+
+
+    HOW THE CHALLENGER ASTRONAUTS DIED
+
+    The Challenger shuttle launch was not destroyed in an explosion. This is
+    a well-documented fact; see the Rogers Commission report, for example.
+    What looked like an explosion was fuel burning after the external tank
+    came apart. The forces on the crew cabin were not sufficient to kill the
+    astronauts, never mind destroy their bodies, according to the Kerwin
+    team's medical/forensic report.
+
+    The astronauts were killed when the more-or-less intact cabin hit the
+    water at circa 200MPH, and their bodies then spent several weeks
+    underwater. Their remains were recovered, and after the Kerwin team
+    examined them, they were sent off to be buried.
+
+
+    USING THE SHUTTLE BEYOND LOW EARTH ORBIT
+
+    You can't use the shuttle orbiter for missions beyond low Earth orbit
+    because it can't get there. It is big and heavy and does not carry
+    enough fuel, even if you fill part of the cargo bay with tanks.
+
+    Furthermore, it is not particularly sensible to do so, because much of
+    that weight is things like wings, which are totally useless except in
+    the immediate vicinity of the Earth. The shuttle orbiter is highly
+    specialized for travel between Earth's surface and low orbit. Taking it
+    higher is enormously costly and wasteful. A much better approach would
+    be to use shuttle subsystems to build a specialized high-orbit
+    spacecraft.
+
+    [Yet another concise answer by Henry Spencer.]
+
+
+    THE "FACE ON MARS"
+
+    There really is a big rock on Mars that looks remarkably like a humanoid
+    face. It appears in two different frames of Viking Orbiter imagery:
+    35A72 (much more facelike in appearance, and the one more often
+    published, with the Sun 10 degrees above western horizon) and 70A13
+    (with the Sun 27 degrees from the west).
+
+    Science writer Richard Hoagland has championed the idea that the Face is
+    artificial, intended to resemble a human, and erected by an
+    extraterrestrial civilization. Most other analysts concede that the
+    resemblance is most likely accidental. Other Viking images show a
+    smiley-faced crater and a lava flow resembling Kermit the Frog elsewhere
+    on Mars. There exists a Mars Anomalies Research Society (sorry, don't
+    know the address) to study the Face.
+
+    The Mars Observer mission will carry an extremely high-resolution
+    camera, and better images of the formation will hopefully settle this
+    question in a few years. In the meantime, speculation about the Face is
+    best carried on in the altnet group alt.alien.visitors, not sci.space or
+    sci.astro.
+
+    V. DiPeitro and G. Molenaar, *Unusual Martian Surface Features*, Mars
+    Research, P.O. Box 284, Glen Dale, Maryland, USA, 1982. $18 by mail.
+
+    R.R. Pozos, *The Face of Mars*, Chicago Review Press, 1986. [Account of
+    an interdisciplinary speculative conference Hoagland organized to
+    investigate the Face]
+
+    R.C. Hoagland, *The Monuments of Mars: A City on the Edge of Forever*,
+    North Atlantic Books, Berkeley, California, USA, 1987. [Elaborate
+    discussion of evidence and speculation that formations near the Face
+    form a city]
+
+    M.J. Carlotto, "Digital Imagery Analysis of Unusual Martian Surface
+    Features," *Applied Optics*, 27, pp. 1926-1933, 1987. [Extracts
+    three-dimensional model for the Face from the 2-D images]
+
+    M.J. Carlotto & M.C. Stein, "A Method of Searching for Artificial
+    Objects on Planetary Surfaces," *Journal of the British Interplanetary
+    Society*, Vol. 43 no. 5 (May 1990), p.209-216. [Uses a fractal image
+    analysis model to guess whether the Face is artificial]
+
+    B. O'Leary, "Analysis of Images of the `Face' on Mars and Possible
+    Intelligent Origin," *JBIS*, Vol. 43 no. 5 (May 1990), p. 203-208.
+    [Lights Carlotto's model from the two angles and shows it's consistent;
+    shows that the Face doesn't look facelike if observed from the surface]
+
+
+
+
+Line number i= 31  =  One thing I think is interesting about alt.athiesm is the fact that
+without bible-thumpers and their ilk this would be a much duller newsgroup.
+It almost needs the deluded masses to write silly things for athiests to
+tear apart. Oh well, that little tidbit aside here is what I really wanted
+write about.
+
+      How can anyone believe in such a sorry document as the bible? If you
+want to be religious aren't there more plausable books out there? Seriously,
+the bible was written by multiple authors who repeatedly contradict each
+other. One minute it tells you to kill your kid if he talks back and the next
+it says not to kill at all. I think that if xtians really want to follow a
+deity they should pick one that can be consistent, unlike the last one they
+invented.
+
+      For people who say Jesus was the son of god, didn't god say not to
+EVER put ANYONE else before him? Looks like you did just that. Didn't god
+say not to make any symbols or idols? What are crosses then? Don't you think
+that if you do in fact believe in the bible that you are rather far off track?
+
+Was Jesus illiterate? Why didn't he write anything? Anyone know?
+
+      I honestly hope that people who believe in the bible understand that
+it is just one of the religious texts out there and that it is one of the
+poorer quality ones to boot. The only reason xtianity escaped the middle east
+is because a certain roman who's wine was poisoned with lead made all of rome
+xtian after a bad dream.
+
+      If this posting keeps one person, just ONE person, from standing on a
+streetcorner and telling people they are going to hell I will be happy.
+
+
+
+
+
+
+
+Line number i= 32  =  Is there a few Grasp pictures of space related items, namely Space Station
+Designs, so you can see the "finished" revolt around..
+
+If you don't know what a grasp prograsm is.. Check out some adult entertainment
+files and see what I mean.. Or maybe geta few GIF files and create a "slide
+shows" (I think Cshow can do this)..  
+
+
+
+Line number i= 33  =  
+Then not murdering would have no moral significance, since there
+would be nothing voluntary about it.
+
+
+You are starting to get the point.   Mimicry is not necessarily the 
+same as the action being imitated.   A Parrot saying "Pretty Polly" 
+isn't necessarily commenting on the pulchritude of Polly.
+
+
+See above.
+
+
+They do.   I and other posters have given you many examples of exactly
+this, but you seem to have a very short memory.
+
+
+I'm saying:
+
+	"There must be the possibility that the organism - it's not 
+	just people we are talking about - can consider alternatives."
+
+It's right there in the posting you are replying to. 
+
+
+
+Line number i= 34  =  
+
+See, we are disagreeing on the definition of moral here.  Earlier, you said
+that it must be a conscious act.  By your definition, no instinctive
+behavior pattern could be an act of morality.  You are trying to apply
+human terms to non-humans.  I think that even if someone is not conscious
+of an alternative, this does not prevent his behavior from being moral.
+
+
+I try to show it, but by your definition, it can't be shown.
+
+And, morality can be thought of a large class of princples.  It could be
+defined in terms of many things--the laws of physics if you wish.  However,
+it seems silly to talk of a "moral" planet because it obeys the laws of
+phyics.  It is less silly to talk about animals, as they have at least
+some free will. 
+
+
+
+Line number i= 35  =  As for SF and advertising in space. There is a romantic episode
+in Mead's "The Big Ball of Wax" where the lovers are watching 
+the constellation Pepsi Cola rising over the horizon and noting
+the some 'stars' had slipped cause the Teamsters were on strike.
+
+This was the inspiration for my article on orbiting a formation
+of space mirrors published in Spaceflight in 1986. As the reviews
+but is it aesthetically desirable?  These days the only aesthetics
+that count are the ones you can count! 
+
+
+
+Line number i= 36  =  
+J> YOU BLASHEPHEMERS!!! YOU WILL ALL GO TO HELL FOR NOT BELIEVING IN GOD!!!!  BE
+J> PREPARED FOR YOUR ETERNAL DAMNATION!!!
+
+Hmm, I've got my MST3K lunch box, my travel scrabble, and a couple of
+kegs of Bass Ale.  I'm all set!  Let's go everybody!  
+
+
+
+Line number i= 37  =  
+As far as I know, tigers are not sentient.  If I were pushed into a pool with
+some dolphins and they attacked me, I might be inclined to blame the dolphins
+rather than the person doing the pushing, as (a) dolphins are not usually
+aggressive and (b) they seem to have well-developed brains and a capacity for
+abstract thought.
+
+As a matter of fact, tigers rarely attack humans unless the human provokes
+them.  Of course, if they are in a cage which is far too small, that might
+count as provocation...
+
+
+
+
+Line number i= 38  =  ------- Blind-Carbon-Copy
+
+To: spacenews@austen.rand.org, cti@austen.rand.org
+Subject: White House outlines options for station, Russian cooperation
+Date: Tue, 06 Apr 93 16:00:21 PDT
+From: Richard Buenneke <buenneke@austen.rand.org>
+
+4/06/93:  GIBBONS OUTLINES SPACE STATION REDESIGN GUIDANCE
+
+NASA Headquarters, Washington, D.C.
+April 6, 1993
+
+RELEASE:  93-64
+
+        Dr.  John H.  Gibbons, Director, Office of Science and Technology
+Policy, outlined to the members-designate of the Advisory Committee on the
+Redesign of the Space Station on April 3, three budget options as guidance
+to the committee in their deliberations on the redesign of the space
+station.
+
+        A low option of $5 billion, a mid-range option of $7 billion and a
+high option of $9 billion will be considered by the committee.  Each
+option would cover the total expenditures for space station from fiscal
+year 1994 through 1998 and would include funds for development,
+operations, utilization, Shuttle integration, facilities, research
+operations support, transition cost and also must include adequate program
+reserves to insure program implementation within the available funds.
+
+        Over the next 5 years, $4 billion is reserved within the NASA
+budget for the President's new technology investment.  As a result,
+station options above $7 billion must be accompanied by offsetting
+reductions in the rest of the NASA budget.  For example, a space station
+option of $9 billion would require $2 billion in offsets from the NASA
+budget over the next 5 years.
+
+        Gibbons presented the information at an organizational session of
+the advisory committee.  Generally, the members-designate focused upon
+administrative topics and used the session to get acquainted.  They also
+received a legal and ethics briefing and an orientation on the process the
+Station Redesign Team is following to develop options for the advisory
+committee to consider.
+
+        Gibbons also announced that the United States and its
+international partners -- the Europeans, Japanese and Canadians -- have
+decided, after consultation, to give "full consideration" to use of
+Russian assets in the course of the space station redesign process.
+
+        To that end, the Russians will be asked to participate in the
+redesign effort on an as-needed consulting basis, so that the redesign
+team can make use of their expertise in assessing the capabilities of MIR
+and the possible use of MIR and other Russian capabilities and systems.
+The U.S. and international partners hope to benefit from the expertise of
+the Russian participants in assessing Russian systems and technology.  The
+overall goal of the redesign effort is to develop options for reducing
+station costs while preserving key research and exploration capabilitiaes.
+Careful integration of Russian assets could be a key factor in achieving
+that goal.
+
+        Gibbons reiterated that, "President Clinton is committed to the
+redesigned space station and to making every effort to preserve the
+science, the technology and the jobs that the space station program
+represents.  However, he also is committed to a space station that is well
+managed and one that does not consume the national resources which should
+be used to invest in the future of this industry and this nation."
+
+        NASA Administrator Daniel S.  Goldin said the Russian
+participation will be accomplished through the East-West Space Science
+Center at the University of Maryland under the leadership of Roald
+Sagdeev. 
+
+
+
+Line number i= 39  =  
+RB>   
+RB>   No, that's praying on the young.  Preying on the young comes
+RB>   later, when the bright eyed little altar boy finds out what the
+RB>   priest really wears under that chasible.
+
+The same thing Scotsmen where under there kilt.
+
+I'll never forget the day when I was about tweleve and accidently
+walked in on a roomfull of priests sitting around in their underware
+drinking beer and watching football.  
+
+Kind of changed my opinion a bit.  They didn't seem so menacing after
+that.
+
+
+
+
+
+Line number i= 40  =  
+: Regardless of people's hidden motivations, the stated reasons for many
+: wars include religion.  Of course you can always claim that the REAL
+: reason was economics, politics, ethnic strife, or whatever.  But the
+: fact remains that the justification for many wars has been to conquer
+: the heathens.
+
+: If you want to say, for instance, that economics was the chief cause
+: of the Crusades, you could certainly make that point.  But someone
+: could come along and demonstrate that it was REALLY something else, in
+: the same manner you show that it was REALLY not religion.  You could
+: in this manner eliminate all possible causes for the Crusades.
+:         
+
+Scott,
+
+I don't have to make outrageous claims about religion's affecting and
+effecting history, for the purpsoe of a.a, all I have to do point out
+that many claims made here are wrong and do nothing to validate
+atheism. At no time have I made any statement that religion was the
+sole cause of anything, what I have done is point out that those who
+do make that kind of claim are mistaken, usually deliberately. 
+
+To credit religion with the awesome power to dominate history is to
+misunderstand human nature, the function of religion and of course,
+history. I believe that those who distort history in this way know
+exaclty what they're doing, and do it only for affect. 
+
+
+
+Line number i= 41  =  
+
+
+	They did the rollout already??!?  I am going to have to pay more
+attention to the news.  Are any of the gifs headed for wuarchive??
+ 
+
+Patrick
+
+
+
+
+
+Line number i= 42  =  I hope you're not going to flame him.  Please give him the same coutesy you'
+ve given me. 
+
+
+
+Line number i= 43  =  I saw in the newspaper last night that Dr. Mae Jemison, the first
+black woman in space (she's a physician and chemical engineer who flew
+on Endeavour last year) will appear as a transporter operator on the
+"Star Trek: The Next Generation" episode that airs the week of May 31.
+It's hardly space science, I know, but it's interesting. 
+
+
+
+Line number i= 44  =  
+Damn!  So it was YOU who was drinking beer with ROBERT McELWANE in the PARKING
+LOT of the K-MART!
+
+				UNLIMITED INSEMINATION OF THIS MESSAGE
+					RIGIDLY REFUSED
+
+
+
+
+
+Line number i= 45  =  
+Or have different classes of competetors.. and made the total purse $6billion
+or $7billion (depending on how many different classes there are, as in auto
+racing/motocycle racing and such).. 
+
+
+
+Line number i= 46  =  
+It sounds to me like it's just SCREAMING OUT for parody.  Give a copy to your
+friendly neighbourhood SubGenius preacher; with luck, he'll run it through the
+mental mincer and hand you back an outrageously offensive and gut-bustingly
+funny parody you can paste over the originals.
+
+I can see it now:
+
+                               The Stool Scroll
+         Thoughts on Religion, Spirituality, and Matters of the Colon
+
+                       (You can use this text to wipe)
+
+
+
+
+Line number i= 47  =  Henry,
+
+didn't the Little Joe  and Big Joe  get built in under a year?
+6 months for little Joe,  and 12 Months for Big Joe?
+
+i thought i saw something on that for  a old mercury film. 
+
+
+
+Line number i= 48  =  Sounds similar to something Wally Schirra said. 
+
+
+
+Line number i= 49  =  I am coordinating the Space Shuttle Program Office's e-mail traffic to
+NPO Energia for our on-going Joint Missions.  I have several e-mail
+addresses for NPO Energia folks, but I won't post them on the 'Net for
+obvious reasons.  If you need to know, give me a yell.
+
+-- Ken Jenks, NASA/JSC/GM2, Space Shuttle Program Office
+      kjenks@gothamcity.jsc.nasa.gov  (713) 483-4368 
+
+
+
+Line number i= 50  =  
+
+
+
+
+Okay... I argued this thoroughly about 3-4 weeks ago.  Men and women are
+different ... physically, physiologically, and psychologically.  Much
+recent evidence for this statement is present in the book "Brainsex" by
+Anne Moir and David Jessel.  I recommend you find a copy and read it.
+Their book is an overview of recent scientific research on this topic
+and is well referenced. 
+
+Now, if women and men are different in some ways, the law can only
+adequately take into account their needs in these areas where they are
+different by also taking into account the ways in which men and women
+are different.  Maternity leave is an example of this -- it takes into
+account that women get pregnant.  It does not give women the same rules
+it would give to men, because to treat women like it treats men in this
+instance would be unjust.  This is just simply an obvious example of
+where men and women are intrinsically different!!!!!
+
+Now, people make the _naive_ argument that sexism = oppression.
+However, maternity leave is sexist because MEN DO NOT GET PREGNANT. 
+Men do not have the same access to leave that women do (not to the same
+extent or degree), and therefore IT IS SEXIST.  No matter however much a
+man _wants_ to get pregnant and have maternity leave, HE NEVER CAN.  And
+therefore the law IS SEXIST.  No man can have access to maternity leave,
+NO MATTER HOW HARD HE TRIES TO GET PREGNANT.  I hope this is clear.
+
+Maternity leave is an example where a sexist law is just, because the
+sexism here just reflects the "sexism" of nature in making men and women
+different.  There are many other differences between men and women which
+are far more subtle than pregnancy, and to find out more of these I
+recommend you have a look at the book "Brainsex".
+
+Your point that perhaps some day men can also be pregnant is fallacious.
+If men can one day become pregnant it will be by having biologically
+become women!  To have a womb and the other factors required for
+pregnancy is usually wrapped up in the definition of what a woman is --
+so your argument, when it is examined, is seen to be fallacious.  You
+are saying that men can have the sexist maternity leave privilege that 
+women can have if they also become women -- which actually just supports
+my statement that maternity leave is sexist.
+
+
+There is no official priesthood in Islam -- much of this function is
+taken by Islamic scholars.  There are female Islamic scholars and
+female Islamic scholars have always existed in Islam.  An example from
+early Islamic history is the Prophet's widow, Aisha, who was recognized
+in her time and is recognized in our time as an Islamic scholar.
+
+
+You have no evidence for your blanket statement about all religions, and
+I dispute it.  I could go on and on about women in Islam, etc., but I
+recently reposted something here under the heading "Islam and Women" --
+if it is still at your news-site I suggest you read it.  It is reposted
+from soc.religion.islam, so if it has disappeared from alt.atheism it
+still might be in soc.religion.islam (I forgot what its original title
+was though).  I will email it to you if you like. 
+
+
+Your statement that "other religions are no different" is, I think, a
+statement based simply on lack of knowledge about religions other than
+Christianity and perhaps Judaism.
+
+
+Aisha, who I mentioned earlier, was not only an Islamic scholar but also
+was, at one stage, a military leader.
+
+
+The Prophet's first wife, who died just before the "Hijra" (the
+Prophet's journey from Mecca to Medina) was a successful businesswoman.
+
+Lucio, you cannot make a strong case for your viewpoint when your
+viewpoint is based on ignorance about world religions. 
+
+
+

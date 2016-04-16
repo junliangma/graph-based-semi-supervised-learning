@@ -1,0 +1,39 @@
+\documentclass[]{article}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{listings}
+\usepackage{tabulary}
+\usepackage{titling}
+\usepackage{natbib}
+\usepackage{lipsum}
+
+
+
+%opening
+\title{Empirical evaluation of Graph Based Semi Supervised Learning}
+\date{}
+\let\OLDthebibliography\thebibliography
+\renewcommand\thebibliography[1]{
+  \OLDthebibliography{#1}
+  \setlength{\parskip}{0pt}
+  \setlength{\itemsep}{0pt plus 0.3ex}
+}
+\begin{document}
+\nocite{*}
+\author{Deepak Rishi: ID 20605072}
+\maketitle
+\vspace{-60.6pt}
+
+\section*{$\bullet$ Project Description}
+The purpose of this project is to explore the area of Semi Supervised Learning and build Machine Learning Models that make use of unlabelled Data.
+Semi-supervised learning falls between unsupervised learning (without any labeled training data) and supervised learning (with completely labeled training data). Unlabeled data, when used in conjunction with a small amount of labeled data, can produce considerable improvement in learning accuracy.
+
+In this project I will be focussing on Graph Based Semi Supervised Learning.
+Graph-based methods for semi-supervised learning use a graph representation of the data, with a node for each labeled and unlabeled example. The graph may be constructed using domain knowledge or similarity of examples. I will be comparing different methods to construct the graph and try differnt oprimization functions such as harmonic functions and manifold regularization. Then I will try and compare my results with other semi supervised techniques such as EM and  Transductive SVM.
+
+
+\bibliographystyle{plain}
+\bibliography{bibtext.bib}
+
+
+\end{document}

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<!-- saved from url=(0104)http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/ -->
+<html class="js video maskImage placeholder" lang="en" hola_ext_inject="disabled"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Good representations, distance, metric learning and supervised dimensionality reduction - FastML</title>
+  <meta name="author" content="Zygmunt Z.">
+
+	
+	<meta name="description" content="How to represent features for machine learning is an important business. For example, deep learning is all about finding good representations. What …">
+	<meta name="keywords" content="machine learning, data analysis, data science, classification, regression, vowpal wabbit, spearmint, random forest">
+
+	<!--
+  
+  <meta name="description" content="How to represent features for machine learning is an important business. For example, deep learning is all about finding good representations. What &hellip;">
+  
+  -->
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+
+	<script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/cb=gapi.loaded_1" async=""></script><script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/cb=gapi.loaded_0" async=""></script><script type="text/javascript" async="" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/plusone.js" gapi_processed="true"></script><script type="text/javascript" async="" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/dc.js"></script><script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/jquery.min.js"></script><style type="text/css"></style>
+	<script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/bootstrap.js"></script>
+	<link href="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/bootstrap.css" rel="stylesheet">
+
+
+  
+  <link rel="canonical" href="http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction">
+  <link href="http://fastml.com/favicon.png" rel="icon">
+  
+  <link href="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/modernizr-2.0.js"></script>
+  <script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/ender.js"></script>
+  <script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/octopress.js" type="text/javascript"></script>
+  <link href="http://fastml.com/atom.xml" rel="alternate" title="FastML" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/css" rel="stylesheet" type="text/css">
+<link href="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/css(1)" rel="stylesheet" type="text/css">
+
+  
+  <script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/jquery.cookie.js"></script>
+
+<script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/api.js"></script>
+<script type="text/javascript">
+	var background = jQuery.cookie( "background" );
+	//var variation = cxApi.chooseVariation();
+</script>
+
+
+
+
+
+
+  
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-452062-21']);
+    _gaq.push(['_trackPageview']);
+  </script>
+
+  <script type="text/javascript" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/cookie.php"></script>
+
+  <script type="text/javascript">
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+
+
+  
+  <script type="text/javascript">
+	function set_background( url ) {
+		document.body.style.backgroundImage = 'url(' + url + ')';
+		jQuery.cookie( 'background', url, { expires: 256, path: '/' } );
+		return false;
+	}
+	
+	function setCustomBackground() {
+		url = document.getElementById("custom_background_url").value;
+		set_background( url );
+		document.getElementById("backgroundModal").modal('hide');
+	}	
+</script>
+
+<style type="text/css">
+	ul.dropdown-menu a {
+		text-decoration: none;
+		//font-family: Arial;
+		font-size: smaller;
+	}	
+
+	/* followers */	
+	div.well {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		color: #333333;
+		background-color: #ffffff;
+	}		
+</style>
+
+<script type="text/javascript" async="" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/embed.js"></script><script type="text/javascript" async="" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/widgets.js"></script><script type="text/javascript" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/fastml.json" async=""></script><script type="text/javascript" charset="utf-8" async="" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/button.65b4bc8f0d6592fdc51d322b3f197660.js"></script></head>
+
+<body>
+  <header role="banner"><hgroup>
+  <h1><a href="http://fastml.com/">FastML</a></h1>
+  
+    <h2>Machine learning made easy</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://fastml.com/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="as_sitesearch" value="fastml.com">
+    <input class="search" type="text" name="q" results="0" placeholder="Search">
+  </fieldset><fieldset class="mobile-nav"><select><option value="">Navigate…</option><option value="http://fastml.com/">» Home</option><option value="http://fastml.com/contents/">» Contents</option><option value="http://fastml.com/popular/">» Popular</option><option value="http://fastml.com/links/">» Links</option><option value="http://fastml.com/about/">» About</option><option value="http://fastml.com/backgrounds/">» Backgrounds</option><option value="http://fastml.com/atom.xml">» RSS</option></select></fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="http://fastml.com/">Home</a></li>
+  <li><a href="http://fastml.com/contents/">Contents</a></li>
+  <li id="popular"><a href="http://fastml.com/popular/">Popular</a></li>
+  <li><a href="http://fastml.com/links/">Links</a></li>
+  <li id="about"><a href="http://fastml.com/about/">About</a></li>
+  <li id="backgrounds"><a href="http://fastml.com/backgrounds/">Backgrounds</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Good representations, distance, metric learning and supervised dimensionality reduction</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-20T20:03:00+01:00" pubdate="" data-updated="true">2014-03-20</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>How to represent features for machine learning is an important business. For example, deep learning is all about finding good representations. What exactly they are depends on a task at hand. We investigate how to use available labels to obtain good representations.</p>
+
+<!-- more -->
+
+
+<h2>Motivation</h2>
+
+<p>The paper that inspired us a while ago was <a href="http://jmlr.org/papers/v13/snoek12a.html">Nonparametric Guidance of Autoencoder Representations using Label Information</a> by Snoek, Adams and LaRochelle. It’s about autoencoders, but contains a greater idea:</p>
+
+<blockquote><p>Discriminative algorithms often work best with highly-informative features; remarkably, such features can often be learned without the labels. (…) However, pure unsupervised learning (…) can find representations that may or may not be useful for the ultimate discriminative task. (…) <br><br></p>
+
+<p>In this work, we are interested in the discovery of latent features which can be later used as alternate representations of data for discriminative tasks. That is, we wish to find ways to extract statistical structure that will make it as easy as possible for a classifier or regressor to produce accurate labels.</p></blockquote>
+
+<p>You might say, well, train a feed-forward neural network and use the hidden layer activations as features. That’s a valid approach, but:</p>
+
+<blockquote><p>The objective now is to learn (…) a hidden representation that is (…) immediately good for discrimination under the simplified choice of model, e.g., logistic regression. This is undesirable because it potentially prevents us from discovering informative representations for the more sophisticated nonlinear classifiers that we might wish to use later.</p></blockquote>
+
+<p>In practice this may or may not be a problem - Paul Mineiro thinks that <a href="http://www.machinedlearnings.com/2013/02/one-louder.html">features good for linear classifiers are good for non-linear ones too</a>:</p>
+
+<blockquote><p>engineer features that are good for your linear model, and then when you run out of steam, try to add a few hidden units.</p></blockquote>
+
+<p>By the way, it turns out that Paul has a <a href="http://arxiv.org/abs/1310.1934">paper</a> on the subject matter:</p>
+
+<blockquote><p>Representing examples in a way that is compatible with the underlying classifier can greatly enhance the performance of a learning system. In this paper we investigate scalable techniques for inducing discriminative features by taking advantage of simple second order structure in the data.</p></blockquote>
+
+<p>In any case, we’d like to extract features that are relevant for a supervised learning task at hand. But to do so, we won’t be looking at neural networks nor second moments. We’ll look at distance instead.</p>
+
+<h2>Distance</h2>
+
+<p>Many machine learning methods rely on some measure of distance between points, usually Euclidian distance. These methods are notably nearest neighbours and kernel methods.</p>
+
+<p>Euclidian distance depends on a scale of each feature. If one column has a big spread compared to others, it will obviously dominate them when computing distance. Which leads us to scaling.</p>
+
+<h2>Scaling</h2>
+
+<p>Standardizing data is a very common pre-processing method. It’s common because many algorithms, specifically those using gradient descent, perform best with the features centered around zero and on the same scale (at least approximately).</p>
+
+<p>Standardizing consists of centering (or shifting, or subtracting the mean) and scaling.</p>
+
+<p>When scaling, we multiply the design matrix X by a <a href="http://en.wikipedia.org/wiki/Diagonal_matrix">diagonal matrix</a>. In special case when that diagonal matrix is an <a href="http://en.wikipedia.org/wiki/Identity_matrix">identity matrix</a>, we get back X:</p>
+
+<p><code>X * I = X</code></p>
+
+<p>The entries on the main diagonal are the factors by which to scale each column. Here’s an image for a 2D case, from the <a href="http://en.wikipedia.org/wiki/Large_margin_nearest_neighbor">Wikipedia article on LMNN</a> (Large Margin Nearest Neighbours, see the Software section below):</p>
+
+<p><img src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/lmnn_640.png" alt=""></p>
+
+<p>While it’s supposed to show LMNN, it shows the importance of scaling - by blowing up the vertical axis we can get yellow elements relatively close together and the other elements out of the neighbourhood. This illustrates the fact that there may be better options than scaling each axis to a unit standard deviation, at least when using methods concerned with distance.</p>
+
+<p>Also, what if we extended the idea of scaling by adding some non-diagonal nonzero entries to the transformation matrix?</p>
+
+<h2>Metric learning</h2>
+
+<p>For the purpose of this article we’ll define metric learning as learning the matrix M with which we can linearly transform the design matrix as a whole. If M is square, we can transform a distance between two points. The idea is to warp it so that the points with the same (or similiar - in regression) labels get closer together and those with different labels get farther apart.</p>
+
+<p>We can warp a Euclidian distance by sticking M in the middle of the inner product:</p>
+
+<p><code>x1 - x2 = [1xD]</code><br>
+<code>[1xD] * [DxD] * [Dx1] = [1x1]</code></p>
+
+<p><code>Dx1</code> is just the <code>x1 - x2</code> transposed.</p>
+
+<p>We can also multiply the original matrix of features by M. The resulting matrix will have the same number of rows. The number of columns stays the same if M is square, changes otherwise.</p>
+
+<p>N is the number of points, D - dimensionality. Matrix M is either <code>DxD</code> or <code>Dx?</code>. If it is square, dimensionality of the transformed design matrix stays the same:</p>
+
+<p><code>[NxD] * [DxD] = [NxD]</code></p>
+
+<p>If M is not square, we achieve either supervised dimensionality reduction or get an overcomplete representation:</p>
+
+<p><code>[NxD] * [Dx?] = [Nx?]</code></p>
+
+<h2>Software</h2>
+
+<p>Most available metric learning software concerns classification. Popular methods include <a href="http://www.cse.wustl.edu/~kilian/code/lmnn/lmnn.html">Large Margin Nearest Neighbours</a>, and (LMNN) and <a href="http://www.cs.utexas.edu/~inderjit/software.shtml">Information Theoretic Metric Learning</a> (ITML). ITML seems to be faster, judging from results in various papers. There are many different methods which we haven’t tried. One that we tried is Neighbourhood Component Analysis (NCA) by Hinton et al., which is awfully slow, even when implemented in C.</p>
+
+<p>That’s a general problem with those methods: they are not very scalable. If you have a big dataset, however, you could select a smaller representative subset of points (for example by clustering) to learn a transformation matrix, then apply the transformation to all the points.</p>
+
+<h2>Metric Learning for Kernel Regression</h2>
+
+<p><a href="http://www.cse.wustl.edu/~kilian/research/metric/metric.html">Kilian Weinberger</a> is a prominent researcher in metric learning. While he’s known for LMNN, he has another algorithm, <a href="http://www.cse.wustl.edu/~kilian/code/code.html">MLKR</a>, for regression. It features a demo with an animation showing how two-dimensional features evolve during training.</p>
+
+<p><img src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/mlkr_demo_20_iters.png" alt=""><br>
+<span style="font-size: smaller;">MLKR demo after twenty iterations</span></p>
+
+<p>We apply MLKR to the <em>kin8nm</em> dataset to see how it fares against other methods we tried. Random forest on the raw data scores roughly 0.14 RMSE, and 0.09 after transformation. It’s a substantial improvement.</p>
+
+<p>That’s all very good and well, but maybe old PCA would give the same result? We checked and got 0.127 on the test set when fitting PCA on the training examples only. If you fit on all available points, the random forest score is slightly worse than the one from raw data.</p>
+
+<p>The <a href="https://github.com/zygmuntz/metric-learning-for-regression">code</a> is available at GitHub.</p>
+</div>
+
+
+  
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Zygmunt Z.</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-20T20:03:00+01:00" pubdate="" data-updated="true">2014-03-20</time>
+      
+
+<span class="categories">
+  
+    <a class="category" href="http://fastml.com/blog/categories/code/">code</a>, <a class="category" href="http://fastml.com/blog/categories/software/">software</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/tweet_button.64a917b4a230f163048902c783e1530f.en.html" style="position: static; visibility: visible; width: 60px; height: 20px;" data-url="http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/"></iframe>
+  
+  
+  <div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background: transparent;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I0_1459567037507" name="I0_1459567037507" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/fastbutton.html" data-gapiattached="true" title="+1"></iframe></div>
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="http://fastml.com/pybrain-a-simple-neural-networks-library-in-python/" title="Previous Post: PyBrain - a simple neural networks library in Python">« PyBrain - a simple neural networks library in Python</a>
+      
+      
+        <a class="basic-alignment right" href="http://fastml.com/if-you-use-r-you-may-want-rstudio/" title="Next Post: If you use R, you may want RStudio">If you use R, you may want RStudio »</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><iframe id="dsq-app2" name="dsq-app2" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/saved_resource.html" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 697px !important;" horizontalscrolling="no" verticalscrolling="no"></iframe></div>
+  </section>
+
+</div>
+
+<aside class="sidebar thirds">
+  
+    <section class="first odd">
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="http://fastml.com/coming-out/">Coming out</a>
+      </li>
+    
+      <li class="post">
+        <a href="http://fastml.com/bayesian-machine-learning/">Bayesian machine learning</a>
+      </li>
+    
+      <li class="post">
+        <a href="http://fastml.com/what-next/">What next?</a>
+      </li>
+    
+      <li class="post">
+        <a href="http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/">What is better: gradient-boosted trees, or a random forest?</a>
+      </li>
+    
+      <li class="post">
+        <a href="http://fastml.com/numerai-like-kaggle-but-with-a-clean-dataset-top-ten-in-the-money-and-recurring-payouts/">Numerai - like Kaggle, but with a clean dataset, top ten in the money, and recurring payouts</a>
+      </li>
+    
+      <li class="post">
+        <a href="http://fastml.com/what-you-wanted-to-know-about-tensorflow/">What you wanted to know about TensorFlow</a>
+      </li>
+    
+      <li class="post">
+        <a href="http://fastml.com/predicting-sales-pandas-vs-sql/">Predicting sales: Pandas vs SQL</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section class="even">
+  <h1>Twitter</h1>
+  
+  <p>Follow <a href="http://twitter.com/fastml">@fastml</a> for notifications about new posts.</p>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("fastml", 0, true);
+    });
+  </script>
+  <script src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/twitter.js" type="text/javascript"> </script>
+  <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" title="Twitter Follow Button" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/follow_button.64a917b4a230f163048902c783e1530f.en.html" style="position: static; visibility: visible; width: 198px; height: 20px;" data-screen-name="fastml"></iframe>
+
+	<br><br>
+	
+	Also check out <a href="https://twitter.com/fastml_extra">@fastml_extra</a> for things related to machine learning and data science in general.
+	
+</section>
+
+
+<section class="odd">
+  <h1>GitHub</h1>
+  
+  <p>Most articles come with some <a href="http://fastml.com/blog/categories/code/">code</a>. We push it to Github.</p>
+  
+  
+  <a href="https://github.com/zygmuntz">https://github.com/zygmuntz</a>
+    
+
+</section>
+
+<section id="moviemood" class="first even">
+  <h1>MovieMood</h1>
+  
+  <p>MovieMood is our fast interactive movie recommender, introduced in this <a href="http://fastml.com/real-time-interactive-movie-recommendation/">article</a>. It enables rapid movie discovery. Check out the September beta.</p> 
+  
+  <a href="http://moviemood.co/">http://moviemood.co</a>
+
+</section>
+
+
+
+
+  
+</aside>
+
+
+    <span class="toggle-sidebar"></span></div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright © 2016 - Zygmunt Z. -
+  <span class="credit">Powered by <a href="http://octopress.org/">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'fastml';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/';
+        var disqus_url = 'http://fastml.com/good-representations-distance-metric-learning-and-supervised-dimensionality-reduction/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+<script type="text/javascript">
+	background = jQuery.cookie( "background" );	// set in head (google_experiments)
+	if ( background ) {
+		set_background( background );
+	}
+</script>
+
+
+
+
+<iframe name="oauth2relay465573464" id="oauth2relay465573464" src="./Good representations, distance, metric learning and supervised dimensionality reduction - FastML_files/postmessageRelay.html" tabindex="-1" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;"></iframe></body></html>
