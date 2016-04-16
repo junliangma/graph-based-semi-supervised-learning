@@ -1,0 +1,399 @@
+data.shape is  (1045,)
+labels.shape is  (1045,)
+labels are  [-1  1  1 ...,  1  1  1]
+labels are  [-1  1  1 ...,  1  1  1]
+train vectors are  (262, 5539)
+allVectors are  (1045, 5539)
+now computing pca  
+data  [[ 0.17380949 -0.07332224  0.05904518 ...,  0.01399401  0.05576623
+   0.00110241]
+ [-0.07124059  0.00927756 -0.04335985 ..., -0.03145651 -0.01244877
+   0.02660126]
+ [-0.08505985  0.06097992  0.10982178 ..., -0.02919752 -0.02747319
+   0.00257868]
+ ..., 
+ [-0.12530309  0.02360097 -0.12981256 ...,  0.03774343 -0.1185613
+   0.04764893]
+ [ 0.15765212 -0.09139598 -0.02122133 ..., -0.02423245 -0.01496442
+   0.06175211]
+ [ 0.02730349 -0.00234052  0.04785531 ..., -0.04256322  0.21160671
+   0.04190124]] 
+
+None
+after PCA svm accuracy is  
+
+dataset shape is  (262, 100)
+accuracy with c= 1e-06   is   55.1724137931 %  
+
+accuracy with c= 1e-05   is   55.1724137931 %  
+
+accuracy with c= 0.0001   is   55.1724137931 %  
+
+accuracy with c= 0.001   is   55.1724137931 %  
+
+accuracy with c= 0.01   is   56.8326947637 %  
+
+accuracy with c= 0.1   is   86.3346104725 %  
+
+accuracy with c= 1   is   90.5491698595 %  
+
+accuracy with c= 10   is   90.6768837803 %  
+
+accuracy with c= 100   is   90.2937420179 %  
+
+accuracy with c= 1000   is   90.2937420179 %  
+
+None
+now doing LMNN for k=  5
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  5 
+
+self.predicted1 is  (783,)
+self.y_test is  (783,)
+the accuracy is  89.0166028097
+now doing LMNN for k=  10
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  10 
+
+self.predicted1 is  (783,)
+self.y_test is  (783,)
+the accuracy is  61.1749680715
+now doing LMNN for k=  15
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  15 
+
+self.predicted1 is  (783,)
+self.y_test is  (783,)
+the accuracy is  89.1443167305
+now doing LMNN for k=  20
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  20 
+
+self.predicted1 is  (783,)
+self.y_test is  (783,)
+the accuracy is  87.4840357599
+now doing LMNN for k=  25
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  25 
+
+self.predicted1 is  (783,)
+self.y_test is  (783,)
+the accuracy is  85.1851851852
+now doing LMNN for k=  30
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  30 
+
+self.predicted1 is  (783,)
+self.y_test is  (783,)
+the accuracy is  75.6066411239
+X_train is  (262,)
+X_test is  (783,)
+labels are  [ 1 -1 -1 ...,  1  1  1]
+train vectors are  (261, 5229)
+allVectors are  (1045, 5229)
+now computing pca  
+data  [[ 0.00092386  0.02452152 -0.0222491  ...,  0.01122868  0.01012203
+   0.05365188]
+ [ 0.03114327 -0.09219825 -0.01498859 ..., -0.04174743  0.05861075
+  -0.08564523]
+ [ 0.0654288  -0.02512571  0.02739832 ..., -0.02283708 -0.08505511
+   0.071297  ]
+ ..., 
+ [-0.04955516 -0.13707742  0.03364084 ..., -0.08301116 -0.016173
+  -0.11721656]
+ [-0.0344278  -0.14393483 -0.06679649 ..., -0.01976754 -0.03044658
+  -0.01142701]
+ [-0.03882036 -0.11077734  0.05081509 ...,  0.04025052  0.01619901
+   0.09969899]] 
+
+None
+after PCA svm accuracy is  
+
+dataset shape is  (261, 100)
+accuracy with c= 1e-06   is   55.2295918367 %  
+
+accuracy with c= 1e-05   is   55.2295918367 %  
+
+accuracy with c= 0.0001   is   55.2295918367 %  
+
+accuracy with c= 0.001   is   55.2295918367 %  
+
+accuracy with c= 0.01   is   56.7602040816 %  
+
+accuracy with c= 0.1   is   85.3316326531 %  
+
+accuracy with c= 1   is   90.0510204082 %  
+
+accuracy with c= 10   is   90.6887755102 %  
+
+accuracy with c= 100   is   90.0510204082 %  
+
+accuracy with c= 1000   is   90.306122449 %  
+
+None
+now doing LMNN for k=  5
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  5 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  53.0612244898
+now doing LMNN for k=  10
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  10 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  86.6071428571
+now doing LMNN for k=  15
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  15 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  79.5918367347
+now doing LMNN for k=  20
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  20 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  91.0714285714
+now doing LMNN for k=  25
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  25 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  75.3826530612
+now doing LMNN for k=  30
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  30 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  88.9030612245
+X_train is  (261,)
+X_test is  (784,)
+labels are  [-1  1 -1 ...,  1  1  1]
+train vectors are  (261, 6296)
+allVectors are  (1045, 6296)
+now computing pca  
+data  [[ -3.68032227e-02  -5.10197110e-02   1.47426608e-02 ...,  -3.15042615e-02
+   -2.27512653e-02  -3.55243198e-02]
+ [ -1.02243219e-01  -1.03830719e-01  -1.70256456e-01 ...,  -6.72237851e-05
+    7.89185090e-03  -1.83540697e-02]
+ [ -3.79460252e-02  -8.87566909e-02  -6.14837539e-02 ...,  -2.09768397e-02
+   -3.18621564e-02   3.46134242e-02]
+ ..., 
+ [ -1.00123982e-01  -2.36559669e-03  -1.09872646e-01 ...,   2.54346619e-02
+   -3.90700401e-02   2.23285911e-02]
+ [ -1.60791504e-01   8.23191531e-02  -9.68377138e-02 ...,   3.51475701e-02
+    5.86104827e-02   5.52746766e-02]
+ [ -8.95344154e-02  -3.63013966e-02  -5.60974858e-02 ...,  -9.88794805e-02
+   -2.32589352e-01  -8.49809390e-02]] 
+
+None
+after PCA svm accuracy is  
+
+dataset shape is  (261, 100)
+accuracy with c= 1e-06   is   55.2295918367 %  
+
+accuracy with c= 1e-05   is   55.2295918367 %  
+
+accuracy with c= 0.0001   is   55.2295918367 %  
+
+accuracy with c= 0.001   is   55.2295918367 %  
+
+accuracy with c= 0.01   is   57.0153061224 %  
+
+accuracy with c= 0.1   is   85.3316326531 %  
+
+accuracy with c= 1   is   91.5816326531 %  
+
+accuracy with c= 10   is   90.6887755102 %  
+
+accuracy with c= 100   is   90.8163265306 %  
+
+accuracy with c= 1000   is   90.4336734694 %  
+
+None
+now doing LMNN for k=  5
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  5 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  87.3724489796
+now doing LMNN for k=  10
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  10 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  51.6581632653
+now doing LMNN for k=  15
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  15 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  90.5612244898
+now doing LMNN for k=  20
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  20 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  85.3316326531
+now doing LMNN for k=  25
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  25 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  89.6683673469
+now doing LMNN for k=  30
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  30 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  90.0510204082
+X_train is  (261,)
+X_test is  (784,)
+labels are  [ 1 -1  1 ...,  1  1  1]
+train vectors are  (261, 5437)
+allVectors are  (1045, 5437)
+now computing pca  
+data  [[ 0.01856345 -0.068804    0.01042264 ..., -0.00626115  0.03212697
+   0.0057139 ]
+ [-0.06441878 -0.05643353  0.01784369 ...,  0.01127936 -0.04755264
+   0.09708019]
+ [ 0.11146598  0.10104332 -0.01261286 ..., -0.08477209 -0.02427295
+   0.02070317]
+ ..., 
+ [ 0.07303851 -0.06903418  0.05960016 ...,  0.05278136 -0.0137719
+  -0.06565849]
+ [-0.02849942 -0.13525504  0.01485907 ..., -0.0412781   0.01702526
+   0.0134611 ]
+ [ 0.09099518  0.02501654  0.04261109 ...,  0.01269429 -0.0563827
+   0.04185092]] 
+
+None
+after PCA svm accuracy is  
+
+dataset shape is  (261, 100)
+accuracy with c= 1e-06   is   55.2295918367 %  
+
+accuracy with c= 1e-05   is   55.2295918367 %  
+
+accuracy with c= 0.0001   is   55.2295918367 %  
+
+accuracy with c= 0.001   is   55.2295918367 %  
+
+accuracy with c= 0.01   is   56.7602040816 %  
+
+accuracy with c= 0.1   is   87.7551020408 %  
+
+accuracy with c= 1   is   91.4540816327 %  
+
+accuracy with c= 10   is   90.5612244898 %  
+
+accuracy with c= 100   is   90.4336734694 %  
+
+accuracy with c= 1000   is   90.306122449 %  
+
+None
+now doing LMNN for k=  5
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  5 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  47.3214285714
+now doing LMNN for k=  10
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  10 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  91.0714285714
+now doing LMNN for k=  15
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  15 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  75.1275510204
+now doing LMNN for k=  20
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  20 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  82.5255102041
+now doing LMNN for k=  25
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  25 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  84.1836734694
+now doing LMNN for k=  30
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  30 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  90.5612244898
+X_train is  (261,)
+X_test is  (784,)

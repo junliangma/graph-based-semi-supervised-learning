@@ -61,8 +61,19 @@ class GraphBasedLearning:
         print 'now computing pca ',self.computePca()
         print 'after PCA svm accuracy is ',self.compareWithSvm(self.trainVectorsPCA,self.testVectorsPCA)
         #self.constructSimilartyMatrixITML()
-        self.constructSimilartyMatrixLMNN()
+        ks=[3,5,7,10,12,15,20,22,25,27,30,33,35,37,40,43,45,47,50,53,55,57,60]
+        for k in ks:
+            self.constructSimilartyMatrixLMNN(k)
         #self.constructSimilartyMatrixCosinePCA()
+    
+    '''def constructCovarianceMatrix(self):
+        
+        #this function constructs the covariance matrix for the dataset and then does a label propagation over it
+        
+        self.covarianceMatrix=np.cov(self.trainVectorsPCA.T) #as numpy treats them as column vetcors
+        self.inverseCovarianceMatrix=np.inv(self.covarianceMatrix)'''
+        
+        
     
     def convertToDenseMAtrix(self):
         #transform the trainVectors to dense
@@ -181,40 +192,40 @@ class GraphBasedLearning:
          
     
     
-    def constructSimilartyMatrixLMNN(self):
-        Ks=[5,10,15,20,25,30]
-        for ks in Ks:
-            k=ks
-            print 'now doing LMNN for k=',k
-            lmnn=LMNN(k=k, learn_rate=1e-7,max_iter=3000)
-            lmnn.fit(self.trainVectorsPCA, self.y_train, verbose=False)
-            self.L_lmnn = lmnn.transformer()
-            name='lmnn/LMNN transformer matrix with dataset shape '+str(self.trainVectorsPCA.shape)
-            np.save(name,self.L_lmnn)
-            print 'L.shape is ',self.L_lmnn.shape,'\n\n'
-            # Input data transformed to the metric space by X*L.T
-            self.transformedTrainLMNN=copy(lmnn.transform(self.trainVectorsPCA))
-            self.transformedTestLMNN=copy(lmnn.transform(self.testVectorsPCA))
-            self.transformedAllLMNN=copy(lmnn.transform(self.allDataPCA)) #we compute the pairwise distance on this now 
-            projectedDigits = TSNE(random_state=randomState).fit_transform(self.transformedAllLMNN)
-            
-            plt.scatter(projectedDigits[:,0],projectedDigits[:,1],c=self.labels)
-            plt.title('LMNN Transformed ALL set projected to 2 Dimensions by TSNE with k='+str(k))
-            plt.savefig(pp,format='pdf')
-            
-            self.pwdis=copy(pairwise_distances(self.transformedAllLMNN,metric='euclidean'))
-            self.D=np.zeros(self.pwdis.shape)
-            for i in range(0,self.pwdis.shape[0]):
-                l1=self.pwdis[i].tolist()
-                #print 'l1 is ',l1,'\n\n'
-                allnearestNeighbours=sorted(range(len(l1)),key=lambda i : l1[i])
-                #now set the all the weights except for k+1 to 0
-                self.pwdis[i,allnearestNeighbours[k:]]=0
-                self.D[i,i]=sum(self.pwdis[i])
-            
-            print 'accuracy for LMNN for k= ',k,'\n'
-            self.labelPropogation()
+    def constructSimilartyMatrixLMNN(self,ks):
         
+        
+        print 'now doing LMNN for k= ',ks
+        self.y_train=self.y_train.reshape(-1,)
+        lmnn=LMNN(k=ks, learn_rate=1e-7,max_iter=3000)
+        lmnn.fit(self.trainVectorsPCA, self.y_train, verbose=False)
+        self.L_lmnn = lmnn.transformer()
+        name='lmnn/LMNN transformer matrix with dataset shape '+str(self.trainVectorsPCA.shape)
+        np.save(name,self.L_lmnn)
+        print 'L.shape is ',self.L_lmnn.shape,'\n\n'
+        # Input data transformed to the metric space by X*L.T
+        self.transformedTrainLMNN=copy(lmnn.transform(self.trainVectorsPCA))
+        self.transformedTestLMNN=copy(lmnn.transform(self.testVectorsPCA))
+        self.transformedAllLMNN=copy(lmnn.transform(self.allDataPCA)) #we compute the pairwise distance on this now 
+        projectedDigits = TSNE(random_state=randomState).fit_transform(self.transformedAllLMNN)
+        
+        plt.scatter(projectedDigits[:,0],projectedDigits[:,1],c=self.labels)
+        plt.title('LMNN Transformed ALL set projected to 2 Dimensions by TSNE with k='+str(ks))
+        plt.savefig(pp,format='pdf')
+        
+        self.pwdis=copy(pairwise_distances(self.transformedAllLMNN,metric='euclidean'))
+        self.D=np.zeros(self.pwdis.shape)
+        for i in range(0,self.pwdis.shape[0]):
+            l1=self.pwdis[i].tolist()
+            #print 'l1 is ',l1,'\n\n'
+            allnearestNeighbours=sorted(range(len(l1)),key=lambda i : l1[i])
+            #now set the all the weights except for k+1 to 0
+            self.pwdis[i,allnearestNeighbours[ks:]]=0
+            self.D[i,i]=sum(self.pwdis[i])
+        
+        print 'accuracy for LMNN for k= ',ks,'\n'
+        self.labelPropogation()
+    
     
     def constructSimilartyMatrixITML(self,k=5):
         print 'Now doing itml'
