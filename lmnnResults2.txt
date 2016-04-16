@@ -840,4 +840,172 @@ now doing LMNN for k=  12
 L.shape is  (100, 100) 
 
 
-accuracy for LMNN f
+accuracy for LMNN for k=  12 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  88.7755102041
+now doing LMNN for k=  15
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  15 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  80.7397959184
+now doing LMNN for k=  20
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  20 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  89.1581632653
+now doing LMNN for k=  22
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  22 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  87.2448979592
+now doing LMNN for k=  25
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  25 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  78.8265306122
+now doing LMNN for k=  27
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  27 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  88.6479591837
+now doing LMNN for k=  30
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  30 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  83.1632653061
+now doing LMNN for k=  33
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  33 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  79.7193877551
+now doing LMNN for k=  35
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  35 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  78.6989795918
+now doing LMNN for k=  37
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  37 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  75.2551020408
+now doing LMNN for k=  40
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  40 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  79.0816326531
+now doing LMNN for k=  43
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  43 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  72.8316326531
+now doing LMNN for k=  45
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  45 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  81.7602040816
+now doing LMNN for k=  47
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  47 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  78.5714285714
+now doing LMNN for k=  50
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  50 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  86.0969387755
+now doing LMNN for k=  53
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  53 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  88.2653061224
+now doing LMNN for k=  55
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  55 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  86.2244897959
+now doing LMNN for k=  57
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  57 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  86.0969387755
+now doing LMNN for k=  60
+L.shape is  (100, 100) 
+
+
+accuracy for LMNN for k=  60 
+
+self.predicted1 is  (784,)
+self.y_test is  (784,)
+the accuracy is  83.1632653061
+X_train is  (261,)
+X_test is  (784,)
